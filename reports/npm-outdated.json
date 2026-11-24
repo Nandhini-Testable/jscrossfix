@@ -1,0 +1,5678 @@
+{
+  "@babel/code-frame": [
+    {
+      "current": "7.29.7",
+      "wanted": "7.29.7",
+      "latest": "8.0.6",
+      "dependent": "@babel/core",
+      "location": "node_modules/@babel/code-frame",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-code-frame",
+      "dependedByLocation": "node_modules/@babel/core"
+    },
+    {
+      "current": "7.29.7",
+      "wanted": "7.29.7",
+      "latest": "8.0.6",
+      "dependent": "@babel/template",
+      "location": "node_modules/@babel/code-frame",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-code-frame",
+      "dependedByLocation": "node_modules/@babel/template"
+    },
+    {
+      "current": "7.29.7",
+      "wanted": "7.29.7",
+      "latest": "8.0.6",
+      "dependent": "@babel/traverse",
+      "location": "node_modules/@babel/code-frame",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-code-frame",
+      "dependedByLocation": "node_modules/@babel/traverse"
+    }
+  ],
+  "@babel/compat-data": {
+    "current": "7.29.7",
+    "wanted": "7.29.7",
+    "latest": "8.1.2",
+    "dependent": "@babel/helper-compilation-targets",
+    "location": "node_modules/@babel/compat-data",
+    "type": "dependencies",
+    "dependedByLocation": "node_modules/@babel/helper-compilation-targets"
+  },
+  "@babel/core": [
+    {
+      "current": "7.29.13",
+      "wanted": "7.29.13",
+      "latest": "8.1.3",
+      "dependent": "@babel/helper-create-class-features-plugin",
+      "location": "node_modules/@babel/core",
+      "type": "peerDependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-core",
+      "dependedByLocation": "node_modules/@babel/helper-create-class-features-plugin"
+    },
+    {
+      "current": "7.29.13",
+      "wanted": "7.29.13",
+      "latest": "8.1.3",
+      "dependent": "@babel/helper-module-transforms",
+      "location": "node_modules/@babel/core",
+      "type": "peerDependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-core",
+      "dependedByLocation": "node_modules/@babel/helper-module-transforms"
+    },
+    {
+      "current": "7.29.13",
+      "wanted": "7.29.13",
+      "latest": "8.1.3",
+      "dependent": "@babel/helper-replace-supers",
+      "location": "node_modules/@babel/core",
+      "type": "peerDependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-core",
+      "dependedByLocation": "node_modules/@babel/helper-replace-supers"
+    },
+    {
+      "current": "7.29.13",
+      "wanted": "7.29.13",
+      "latest": "8.1.3",
+      "dependent": "@babel/plugin-proposal-decorators",
+      "location": "node_modules/@babel/core",
+      "type": "peerDependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-core",
+      "dependedByLocation": "node_modules/@babel/plugin-proposal-decorators"
+    },
+    {
+      "current": "7.29.13",
+      "wanted": "7.29.13",
+      "latest": "8.1.3",
+      "dependent": "@babel/plugin-syntax-decorators",
+      "location": "node_modules/@babel/core",
+      "type": "peerDependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-core",
+      "dependedByLocation": "node_modules/@babel/plugin-syntax-decorators"
+    },
+    {
+      "current": "7.29.13",
+      "wanted": "7.29.13",
+      "latest": "8.1.3",
+      "dependent": "@babel/plugin-syntax-jsx",
+      "location": "node_modules/@babel/core",
+      "type": "peerDependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-core",
+      "dependedByLocation": "node_modules/@babel/plugin-syntax-jsx"
+    },
+    {
+      "current": "7.29.13",
+      "wanted": "7.29.13",
+      "latest": "8.1.3",
+      "dependent": "@babel/plugin-syntax-typescript",
+      "location": "node_modules/@babel/core",
+      "type": "peerDependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-core",
+      "dependedByLocation": "node_modules/@babel/plugin-syntax-typescript"
+    },
+    {
+      "current": "7.29.13",
+      "wanted": "7.29.13",
+      "latest": "8.1.3",
+      "dependent": "@babel/plugin-transform-destructuring",
+      "location": "node_modules/@babel/core",
+      "type": "peerDependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-core",
+      "dependedByLocation": "node_modules/@babel/plugin-transform-destructuring"
+    },
+    {
+      "current": "7.29.13",
+      "wanted": "7.29.13",
+      "latest": "8.1.3",
+      "dependent": "@babel/plugin-transform-explicit-resource-management",
+      "location": "node_modules/@babel/core",
+      "type": "peerDependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-core",
+      "dependedByLocation": "node_modules/@babel/plugin-transform-explicit-resource-management"
+    },
+    {
+      "current": "7.29.13",
+      "wanted": "7.29.13",
+      "latest": "8.1.3",
+      "dependent": "@babel/plugin-transform-modules-commonjs",
+      "location": "node_modules/@babel/core",
+      "type": "peerDependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-core",
+      "dependedByLocation": "node_modules/@babel/plugin-transform-modules-commonjs"
+    },
+    {
+      "current": "7.29.13",
+      "wanted": "7.29.13",
+      "latest": "8.1.3",
+      "dependent": "@babel/plugin-transform-typescript",
+      "location": "node_modules/@babel/core",
+      "type": "peerDependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-core",
+      "dependedByLocation": "node_modules/@babel/plugin-transform-typescript"
+    },
+    {
+      "current": "7.29.13",
+      "wanted": "7.29.13",
+      "latest": "8.1.3",
+      "dependent": "@babel/preset-typescript",
+      "location": "node_modules/@babel/core",
+      "type": "peerDependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-core",
+      "dependedByLocation": "node_modules/@babel/preset-typescript"
+    },
+    {
+      "current": "7.29.13",
+      "wanted": "7.29.13",
+      "latest": "8.1.3",
+      "dependent": "@stryker-mutator/instrumenter",
+      "location": "node_modules/@babel/core",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-core",
+      "dependedByLocation": "node_modules/@stryker-mutator/instrumenter"
+    },
+    {
+      "current": "7.29.13",
+      "wanted": "7.29.13",
+      "latest": "8.1.3",
+      "dependent": "istanbul-lib-instrument",
+      "location": "node_modules/@babel/core",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-core",
+      "dependedByLocation": "node_modules/istanbul-lib-instrument"
+    }
+  ],
+  "@babel/generator": [
+    {
+      "current": "7.29.14",
+      "wanted": "7.29.15",
+      "latest": "8.1.3",
+      "dependent": "@babel/core",
+      "location": "node_modules/@babel/generator",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-generator",
+      "dependedByLocation": "node_modules/@babel/core"
+    },
+    {
+      "current": "7.29.14",
+      "wanted": "7.29.15",
+      "latest": "8.1.3",
+      "dependent": "@babel/traverse",
+      "location": "node_modules/@babel/generator",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-generator",
+      "dependedByLocation": "node_modules/@babel/traverse"
+    },
+    {
+      "current": "7.29.14",
+      "wanted": "7.29.15",
+      "latest": "8.1.3",
+      "dependent": "@stryker-mutator/instrumenter",
+      "location": "node_modules/@babel/generator",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-generator",
+      "dependedByLocation": "node_modules/@stryker-mutator/instrumenter"
+    }
+  ],
+  "@babel/helper-annotate-as-pure": [
+    {
+      "current": "7.29.7",
+      "wanted": "7.29.7",
+      "latest": "8.0.0",
+      "dependent": "@babel/helper-create-class-features-plugin",
+      "location": "node_modules/@babel/helper-annotate-as-pure",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-helper-annotate-as-pure",
+      "dependedByLocation": "node_modules/@babel/helper-create-class-features-plugin"
+    },
+    {
+      "current": "7.29.7",
+      "wanted": "7.29.7",
+      "latest": "8.0.0",
+      "dependent": "@babel/plugin-transform-typescript",
+      "location": "node_modules/@babel/helper-annotate-as-pure",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-helper-annotate-as-pure",
+      "dependedByLocation": "node_modules/@babel/plugin-transform-typescript"
+    }
+  ],
+  "@babel/helper-compilation-targets": {
+    "current": "7.29.13",
+    "wanted": "7.29.13",
+    "latest": "8.0.7",
+    "dependent": "@babel/core",
+    "location": "node_modules/@babel/helper-compilation-targets",
+    "type": "dependencies",
+    "dependedByLocation": "node_modules/@babel/core"
+  },
+  "@babel/helper-create-class-features-plugin": [
+    {
+      "current": "7.29.13",
+      "wanted": "7.29.13",
+      "latest": "8.0.10",
+      "dependent": "@babel/plugin-proposal-decorators",
+      "location": "node_modules/@babel/helper-create-class-features-plugin",
+      "type": "dependencies",
+      "dependedByLocation": "node_modules/@babel/plugin-proposal-decorators"
+    },
+    {
+      "current": "7.29.13",
+      "wanted": "7.29.13",
+      "latest": "8.0.10",
+      "dependent": "@babel/plugin-transform-typescript",
+      "location": "node_modules/@babel/helper-create-class-features-plugin",
+      "type": "dependencies",
+      "dependedByLocation": "node_modules/@babel/plugin-transform-typescript"
+    }
+  ],
+  "@babel/helper-globals": {
+    "current": "7.29.7",
+    "wanted": "7.29.7",
+    "latest": "8.0.6",
+    "dependent": "@babel/traverse",
+    "location": "node_modules/@babel/helper-globals",
+    "type": "dependencies",
+    "dependedByLocation": "node_modules/@babel/traverse"
+  },
+  "@babel/helper-member-expression-to-functions": [
+    {
+      "current": "7.29.14",
+      "wanted": "7.29.14",
+      "latest": "8.1.2",
+      "dependent": "@babel/helper-create-class-features-plugin",
+      "location": "node_modules/@babel/helper-member-expression-to-functions",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-helper-member-expression-to-functions",
+      "dependedByLocation": "node_modules/@babel/helper-create-class-features-plugin"
+    },
+    {
+      "current": "7.29.14",
+      "wanted": "7.29.14",
+      "latest": "8.1.2",
+      "dependent": "@babel/helper-replace-supers",
+      "location": "node_modules/@babel/helper-member-expression-to-functions",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-helper-member-expression-to-functions",
+      "dependedByLocation": "node_modules/@babel/helper-replace-supers"
+    }
+  ],
+  "@babel/helper-module-imports": {
+    "current": "7.29.7",
+    "wanted": "7.29.7",
+    "latest": "8.0.0",
+    "dependent": "@babel/helper-module-transforms",
+    "location": "node_modules/@babel/helper-module-imports",
+    "type": "dependencies",
+    "homepage": "https://babel.dev/docs/en/next/babel-helper-module-imports",
+    "dependedByLocation": "node_modules/@babel/helper-module-transforms"
+  },
+  "@babel/helper-module-transforms": [
+    {
+      "current": "7.29.14",
+      "wanted": "7.29.14",
+      "latest": "8.1.3",
+      "dependent": "@babel/core",
+      "location": "node_modules/@babel/helper-module-transforms",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-helper-module-transforms",
+      "dependedByLocation": "node_modules/@babel/core"
+    },
+    {
+      "current": "7.29.14",
+      "wanted": "7.29.14",
+      "latest": "8.1.3",
+      "dependent": "@babel/plugin-transform-modules-commonjs",
+      "location": "node_modules/@babel/helper-module-transforms",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-helper-module-transforms",
+      "dependedByLocation": "node_modules/@babel/plugin-transform-modules-commonjs"
+    }
+  ],
+  "@babel/helper-optimise-call-expression": [
+    {
+      "current": "7.29.7",
+      "wanted": "7.29.7",
+      "latest": "8.0.0",
+      "dependent": "@babel/helper-create-class-features-plugin",
+      "location": "node_modules/@babel/helper-optimise-call-expression",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-helper-optimise-call-expression",
+      "dependedByLocation": "node_modules/@babel/helper-create-class-features-plugin"
+    },
+    {
+      "current": "7.29.7",
+      "wanted": "7.29.7",
+      "latest": "8.0.0",
+      "dependent": "@babel/helper-replace-supers",
+      "location": "node_modules/@babel/helper-optimise-call-expression",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-helper-optimise-call-expression",
+      "dependedByLocation": "node_modules/@babel/helper-replace-supers"
+    }
+  ],
+  "@babel/helper-plugin-utils": [
+    {
+      "current": "7.29.7",
+      "wanted": "7.29.7",
+      "latest": "8.0.1",
+      "dependent": "@babel/plugin-proposal-decorators",
+      "location": "node_modules/@babel/helper-plugin-utils",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-helper-plugin-utils",
+      "dependedByLocation": "node_modules/@babel/plugin-proposal-decorators"
+    },
+    {
+      "current": "7.29.7",
+      "wanted": "7.29.7",
+      "latest": "8.0.1",
+      "dependent": "@babel/plugin-syntax-decorators",
+      "location": "node_modules/@babel/helper-plugin-utils",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-helper-plugin-utils",
+      "dependedByLocation": "node_modules/@babel/plugin-syntax-decorators"
+    },
+    {
+      "current": "7.29.7",
+      "wanted": "7.29.7",
+      "latest": "8.0.1",
+      "dependent": "@babel/plugin-syntax-jsx",
+      "location": "node_modules/@babel/helper-plugin-utils",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-helper-plugin-utils",
+      "dependedByLocation": "node_modules/@babel/plugin-syntax-jsx"
+    },
+    {
+      "current": "7.29.7",
+      "wanted": "7.29.7",
+      "latest": "8.0.1",
+      "dependent": "@babel/plugin-syntax-typescript",
+      "location": "node_modules/@babel/helper-plugin-utils",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-helper-plugin-utils",
+      "dependedByLocation": "node_modules/@babel/plugin-syntax-typescript"
+    },
+    {
+      "current": "7.29.7",
+      "wanted": "7.29.7",
+      "latest": "8.0.1",
+      "dependent": "@babel/plugin-transform-destructuring",
+      "location": "node_modules/@babel/helper-plugin-utils",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-helper-plugin-utils",
+      "dependedByLocation": "node_modules/@babel/plugin-transform-destructuring"
+    },
+    {
+      "current": "7.29.7",
+      "wanted": "7.29.7",
+      "latest": "8.0.1",
+      "dependent": "@babel/plugin-transform-explicit-resource-management",
+      "location": "node_modules/@babel/helper-plugin-utils",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-helper-plugin-utils",
+      "dependedByLocation": "node_modules/@babel/plugin-transform-explicit-resource-management"
+    },
+    {
+      "current": "7.29.7",
+      "wanted": "7.29.7",
+      "latest": "8.0.1",
+      "dependent": "@babel/plugin-transform-modules-commonjs",
+      "location": "node_modules/@babel/helper-plugin-utils",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-helper-plugin-utils",
+      "dependedByLocation": "node_modules/@babel/plugin-transform-modules-commonjs"
+    },
+    {
+      "current": "7.29.7",
+      "wanted": "7.29.7",
+      "latest": "8.0.1",
+      "dependent": "@babel/plugin-transform-typescript",
+      "location": "node_modules/@babel/helper-plugin-utils",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-helper-plugin-utils",
+      "dependedByLocation": "node_modules/@babel/plugin-transform-typescript"
+    },
+    {
+      "current": "7.29.7",
+      "wanted": "7.29.7",
+      "latest": "8.0.1",
+      "dependent": "@babel/preset-typescript",
+      "location": "node_modules/@babel/helper-plugin-utils",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-helper-plugin-utils",
+      "dependedByLocation": "node_modules/@babel/preset-typescript"
+    }
+  ],
+  "@babel/helper-replace-supers": {
+    "current": "7.29.7",
+    "wanted": "7.29.7",
+    "latest": "8.0.1",
+    "dependent": "@babel/helper-create-class-features-plugin",
+    "location": "node_modules/@babel/helper-replace-supers",
+    "type": "dependencies",
+    "homepage": "https://babel.dev/docs/en/next/babel-helper-replace-supers",
+    "dependedByLocation": "node_modules/@babel/helper-create-class-features-plugin"
+  },
+  "@babel/helper-skip-transparent-expression-wrappers": [
+    {
+      "current": "7.29.13",
+      "wanted": "7.29.13",
+      "latest": "8.1.0",
+      "dependent": "@babel/helper-create-class-features-plugin",
+      "location": "node_modules/@babel/helper-skip-transparent-expression-wrappers",
+      "type": "dependencies",
+      "dependedByLocation": "node_modules/@babel/helper-create-class-features-plugin"
+    },
+    {
+      "current": "7.29.13",
+      "wanted": "7.29.13",
+      "latest": "8.1.0",
+      "dependent": "@babel/helper-member-expression-to-functions",
+      "location": "node_modules/@babel/helper-skip-transparent-expression-wrappers",
+      "type": "dependencies",
+      "dependedByLocation": "node_modules/@babel/helper-member-expression-to-functions"
+    },
+    {
+      "current": "7.29.13",
+      "wanted": "7.29.13",
+      "latest": "8.1.0",
+      "dependent": "@babel/plugin-transform-typescript",
+      "location": "node_modules/@babel/helper-skip-transparent-expression-wrappers",
+      "type": "dependencies",
+      "dependedByLocation": "node_modules/@babel/plugin-transform-typescript"
+    }
+  ],
+  "@babel/helper-string-parser": {
+    "current": "7.29.14",
+    "wanted": "7.29.15",
+    "latest": "8.1.3",
+    "dependent": "@babel/types",
+    "location": "node_modules/@babel/helper-string-parser",
+    "type": "dependencies",
+    "homepage": "https://babel.dev/docs/en/next/babel-helper-string-parser",
+    "dependedByLocation": "node_modules/@babel/types"
+  },
+  "@babel/helper-validator-identifier": [
+    {
+      "current": "7.29.7",
+      "wanted": "7.29.7",
+      "latest": "8.0.6",
+      "dependent": "@babel/code-frame",
+      "location": "node_modules/@babel/helper-validator-identifier",
+      "type": "dependencies",
+      "dependedByLocation": "node_modules/@babel/code-frame"
+    },
+    {
+      "current": "7.29.7",
+      "wanted": "7.29.7",
+      "latest": "8.0.6",
+      "dependent": "@babel/helper-module-transforms",
+      "location": "node_modules/@babel/helper-validator-identifier",
+      "type": "dependencies",
+      "dependedByLocation": "node_modules/@babel/helper-module-transforms"
+    },
+    {
+      "current": "7.29.7",
+      "wanted": "7.29.7",
+      "latest": "8.0.6",
+      "dependent": "@babel/types",
+      "location": "node_modules/@babel/helper-validator-identifier",
+      "type": "dependencies",
+      "dependedByLocation": "node_modules/@babel/types"
+    }
+  ],
+  "@babel/helper-validator-option": [
+    {
+      "current": "7.29.7",
+      "wanted": "7.29.7",
+      "latest": "8.0.0",
+      "dependent": "@babel/helper-compilation-targets",
+      "location": "node_modules/@babel/helper-validator-option",
+      "type": "dependencies",
+      "dependedByLocation": "node_modules/@babel/helper-compilation-targets"
+    },
+    {
+      "current": "7.29.7",
+      "wanted": "7.29.7",
+      "latest": "8.0.0",
+      "dependent": "@babel/preset-typescript",
+      "location": "node_modules/@babel/helper-validator-option",
+      "type": "dependencies",
+      "dependedByLocation": "node_modules/@babel/preset-typescript"
+    }
+  ],
+  "@babel/helpers": {
+    "current": "7.29.14",
+    "wanted": "7.29.15",
+    "latest": "8.1.3",
+    "dependent": "@babel/core",
+    "location": "node_modules/@babel/helpers",
+    "type": "dependencies",
+    "homepage": "https://babel.dev/docs/en/next/babel-helpers",
+    "dependedByLocation": "node_modules/@babel/core"
+  },
+  "@babel/parser": [
+    {
+      "current": "7.29.14",
+      "wanted": "7.29.15",
+      "latest": "8.1.3",
+      "dependent": "@babel/core",
+      "location": "node_modules/@babel/parser",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-parser",
+      "dependedByLocation": "node_modules/@babel/core"
+    },
+    {
+      "current": "7.29.14",
+      "wanted": "7.29.15",
+      "latest": "8.1.3",
+      "dependent": "@babel/generator",
+      "location": "node_modules/@babel/parser",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-parser",
+      "dependedByLocation": "node_modules/@babel/generator"
+    },
+    {
+      "current": "7.29.14",
+      "wanted": "7.29.15",
+      "latest": "8.1.3",
+      "dependent": "@babel/template",
+      "location": "node_modules/@babel/parser",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-parser",
+      "dependedByLocation": "node_modules/@babel/template"
+    },
+    {
+      "current": "7.29.14",
+      "wanted": "7.29.15",
+      "latest": "8.1.3",
+      "dependent": "@babel/traverse",
+      "location": "node_modules/@babel/parser",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-parser",
+      "dependedByLocation": "node_modules/@babel/traverse"
+    },
+    {
+      "current": "7.29.14",
+      "wanted": "7.29.15",
+      "latest": "8.1.3",
+      "dependent": "@stryker-mutator/instrumenter",
+      "location": "node_modules/@babel/parser",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-parser",
+      "dependedByLocation": "node_modules/@stryker-mutator/instrumenter"
+    },
+    {
+      "current": "7.29.14",
+      "wanted": "7.29.15",
+      "latest": "8.1.3",
+      "dependent": "istanbul-lib-instrument",
+      "location": "node_modules/@babel/parser",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-parser",
+      "dependedByLocation": "node_modules/istanbul-lib-instrument"
+    }
+  ],
+  "@babel/plugin-proposal-decorators": {
+    "current": "7.29.7",
+    "wanted": "7.29.7",
+    "latest": "8.0.2",
+    "dependent": "@stryker-mutator/instrumenter",
+    "location": "node_modules/@babel/plugin-proposal-decorators",
+    "type": "dependencies",
+    "homepage": "https://babel.dev/docs/en/next/babel-plugin-proposal-decorators",
+    "dependedByLocation": "node_modules/@stryker-mutator/instrumenter"
+  },
+  "@babel/plugin-syntax-decorators": {
+    "current": "7.29.7",
+    "wanted": "7.29.7",
+    "latest": "8.0.1",
+    "dependent": "@babel/plugin-proposal-decorators",
+    "location": "node_modules/@babel/plugin-syntax-decorators",
+    "type": "dependencies",
+    "homepage": "https://babel.dev/docs/en/next/babel-plugin-syntax-decorators",
+    "dependedByLocation": "node_modules/@babel/plugin-proposal-decorators"
+  },
+  "@babel/plugin-syntax-jsx": {
+    "current": "7.29.7",
+    "wanted": "7.29.7",
+    "latest": "8.0.1",
+    "dependent": "@babel/preset-typescript",
+    "location": "node_modules/@babel/plugin-syntax-jsx",
+    "type": "dependencies",
+    "homepage": "https://babel.dev/docs/en/next/babel-plugin-syntax-jsx",
+    "dependedByLocation": "node_modules/@babel/preset-typescript"
+  },
+  "@babel/plugin-syntax-typescript": {
+    "current": "7.29.7",
+    "wanted": "7.29.7",
+    "latest": "8.0.3",
+    "dependent": "@babel/plugin-transform-typescript",
+    "location": "node_modules/@babel/plugin-syntax-typescript",
+    "type": "dependencies",
+    "homepage": "https://babel.dev/docs/en/next/babel-plugin-syntax-typescript",
+    "dependedByLocation": "node_modules/@babel/plugin-transform-typescript"
+  },
+  "@babel/plugin-transform-destructuring": {
+    "current": "7.29.13",
+    "wanted": "7.29.13",
+    "latest": "8.0.5",
+    "dependent": "@babel/plugin-transform-explicit-resource-management",
+    "location": "node_modules/@babel/plugin-transform-destructuring",
+    "type": "dependencies",
+    "homepage": "https://babel.dev/docs/en/next/babel-plugin-transform-destructuring",
+    "dependedByLocation": "node_modules/@babel/plugin-transform-explicit-resource-management"
+  },
+  "@babel/plugin-transform-explicit-resource-management": {
+    "current": "7.29.7",
+    "wanted": "7.29.15",
+    "latest": "8.1.3",
+    "dependent": "@stryker-mutator/instrumenter",
+    "location": "node_modules/@babel/plugin-transform-explicit-resource-management",
+    "type": "dependencies",
+    "homepage": "https://babel.dev/docs/en/next/babel-plugin-transform-explicit-resource-management",
+    "dependedByLocation": "node_modules/@stryker-mutator/instrumenter"
+  },
+  "@babel/plugin-transform-modules-commonjs": {
+    "current": "7.29.14",
+    "wanted": "7.29.14",
+    "latest": "8.1.3",
+    "dependent": "@babel/preset-typescript",
+    "location": "node_modules/@babel/plugin-transform-modules-commonjs",
+    "type": "dependencies",
+    "homepage": "https://babel.dev/docs/en/next/babel-plugin-transform-modules-commonjs",
+    "dependedByLocation": "node_modules/@babel/preset-typescript"
+  },
+  "@babel/plugin-transform-typescript": {
+    "current": "7.29.9",
+    "wanted": "7.29.15",
+    "latest": "8.1.3",
+    "dependent": "@babel/preset-typescript",
+    "location": "node_modules/@babel/plugin-transform-typescript",
+    "type": "dependencies",
+    "homepage": "https://babel.dev/docs/en/next/babel-plugin-transform-typescript",
+    "dependedByLocation": "node_modules/@babel/preset-typescript"
+  },
+  "@babel/preset-typescript": {
+    "current": "7.28.5",
+    "wanted": "7.28.5",
+    "latest": "8.0.7",
+    "dependent": "@stryker-mutator/instrumenter",
+    "location": "node_modules/@babel/preset-typescript",
+    "type": "dependencies",
+    "homepage": "https://babel.dev/docs/en/next/babel-preset-typescript",
+    "dependedByLocation": "node_modules/@stryker-mutator/instrumenter"
+  },
+  "@babel/template": [
+    {
+      "current": "7.29.7",
+      "wanted": "7.29.7",
+      "latest": "8.1.2",
+      "dependent": "@babel/core",
+      "location": "node_modules/@babel/template",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-template",
+      "dependedByLocation": "node_modules/@babel/core"
+    },
+    {
+      "current": "7.29.7",
+      "wanted": "7.29.7",
+      "latest": "8.1.2",
+      "dependent": "@babel/helpers",
+      "location": "node_modules/@babel/template",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-template",
+      "dependedByLocation": "node_modules/@babel/helpers"
+    },
+    {
+      "current": "7.29.7",
+      "wanted": "7.29.7",
+      "latest": "8.1.2",
+      "dependent": "@babel/traverse",
+      "location": "node_modules/@babel/template",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-template",
+      "dependedByLocation": "node_modules/@babel/traverse"
+    }
+  ],
+  "@babel/traverse": [
+    {
+      "current": "7.29.14",
+      "wanted": "7.29.15",
+      "latest": "8.1.3",
+      "dependent": "@babel/core",
+      "location": "node_modules/@babel/traverse",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-traverse",
+      "dependedByLocation": "node_modules/@babel/core"
+    },
+    {
+      "current": "7.29.14",
+      "wanted": "7.29.15",
+      "latest": "8.1.3",
+      "dependent": "@babel/helper-create-class-features-plugin",
+      "location": "node_modules/@babel/traverse",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-traverse",
+      "dependedByLocation": "node_modules/@babel/helper-create-class-features-plugin"
+    },
+    {
+      "current": "7.29.14",
+      "wanted": "7.29.15",
+      "latest": "8.1.3",
+      "dependent": "@babel/helper-member-expression-to-functions",
+      "location": "node_modules/@babel/traverse",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-traverse",
+      "dependedByLocation": "node_modules/@babel/helper-member-expression-to-functions"
+    },
+    {
+      "current": "7.29.14",
+      "wanted": "7.29.15",
+      "latest": "8.1.3",
+      "dependent": "@babel/helper-module-imports",
+      "location": "node_modules/@babel/traverse",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-traverse",
+      "dependedByLocation": "node_modules/@babel/helper-module-imports"
+    },
+    {
+      "current": "7.29.14",
+      "wanted": "7.29.15",
+      "latest": "8.1.3",
+      "dependent": "@babel/helper-module-transforms",
+      "location": "node_modules/@babel/traverse",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-traverse",
+      "dependedByLocation": "node_modules/@babel/helper-module-transforms"
+    },
+    {
+      "current": "7.29.14",
+      "wanted": "7.29.15",
+      "latest": "8.1.3",
+      "dependent": "@babel/helper-replace-supers",
+      "location": "node_modules/@babel/traverse",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-traverse",
+      "dependedByLocation": "node_modules/@babel/helper-replace-supers"
+    },
+    {
+      "current": "7.29.14",
+      "wanted": "7.29.15",
+      "latest": "8.1.3",
+      "dependent": "@babel/helper-skip-transparent-expression-wrappers",
+      "location": "node_modules/@babel/traverse",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-traverse",
+      "dependedByLocation": "node_modules/@babel/helper-skip-transparent-expression-wrappers"
+    },
+    {
+      "current": "7.29.14",
+      "wanted": "7.29.15",
+      "latest": "8.1.3",
+      "dependent": "@babel/plugin-transform-destructuring",
+      "location": "node_modules/@babel/traverse",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-traverse",
+      "dependedByLocation": "node_modules/@babel/plugin-transform-destructuring"
+    }
+  ],
+  "@babel/types": [
+    {
+      "current": "7.29.14",
+      "wanted": "7.29.15",
+      "latest": "8.1.3",
+      "dependent": "@babel/core",
+      "location": "node_modules/@babel/types",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-types",
+      "dependedByLocation": "node_modules/@babel/core"
+    },
+    {
+      "current": "7.29.14",
+      "wanted": "7.29.15",
+      "latest": "8.1.3",
+      "dependent": "@babel/generator",
+      "location": "node_modules/@babel/types",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-types",
+      "dependedByLocation": "node_modules/@babel/generator"
+    },
+    {
+      "current": "7.29.14",
+      "wanted": "7.29.15",
+      "latest": "8.1.3",
+      "dependent": "@babel/helper-annotate-as-pure",
+      "location": "node_modules/@babel/types",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-types",
+      "dependedByLocation": "node_modules/@babel/helper-annotate-as-pure"
+    },
+    {
+      "current": "7.29.14",
+      "wanted": "7.29.15",
+      "latest": "8.1.3",
+      "dependent": "@babel/helper-member-expression-to-functions",
+      "location": "node_modules/@babel/types",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-types",
+      "dependedByLocation": "node_modules/@babel/helper-member-expression-to-functions"
+    },
+    {
+      "current": "7.29.14",
+      "wanted": "7.29.15",
+      "latest": "8.1.3",
+      "dependent": "@babel/helper-module-imports",
+      "location": "node_modules/@babel/types",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-types",
+      "dependedByLocation": "node_modules/@babel/helper-module-imports"
+    },
+    {
+      "current": "7.29.14",
+      "wanted": "7.29.15",
+      "latest": "8.1.3",
+      "dependent": "@babel/helper-optimise-call-expression",
+      "location": "node_modules/@babel/types",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-types",
+      "dependedByLocation": "node_modules/@babel/helper-optimise-call-expression"
+    },
+    {
+      "current": "7.29.14",
+      "wanted": "7.29.15",
+      "latest": "8.1.3",
+      "dependent": "@babel/helper-skip-transparent-expression-wrappers",
+      "location": "node_modules/@babel/types",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-types",
+      "dependedByLocation": "node_modules/@babel/helper-skip-transparent-expression-wrappers"
+    },
+    {
+      "current": "7.29.14",
+      "wanted": "7.29.15",
+      "latest": "8.1.3",
+      "dependent": "@babel/helpers",
+      "location": "node_modules/@babel/types",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-types",
+      "dependedByLocation": "node_modules/@babel/helpers"
+    },
+    {
+      "current": "7.29.14",
+      "wanted": "7.29.15",
+      "latest": "8.1.3",
+      "dependent": "@babel/parser",
+      "location": "node_modules/@babel/types",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-types",
+      "dependedByLocation": "node_modules/@babel/parser"
+    },
+    {
+      "current": "7.29.14",
+      "wanted": "7.29.15",
+      "latest": "8.1.3",
+      "dependent": "@babel/template",
+      "location": "node_modules/@babel/types",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-types",
+      "dependedByLocation": "node_modules/@babel/template"
+    },
+    {
+      "current": "7.29.14",
+      "wanted": "7.29.15",
+      "latest": "8.1.3",
+      "dependent": "@babel/traverse",
+      "location": "node_modules/@babel/types",
+      "type": "dependencies",
+      "homepage": "https://babel.dev/docs/en/next/babel-types",
+      "dependedByLocation": "node_modules/@babel/traverse"
+    }
+  ],
+  "@commander-js/extra-typings": {
+    "current": "11.1.0",
+    "wanted": "11.1.0",
+    "latest": "15.1.0",
+    "dependent": "cyclomatic-complexity",
+    "location": "node_modules/cyclomatic-complexity/node_modules/@commander-js/extra-typings",
+    "type": "dependencies",
+    "homepage": "https://github.com/commander-js/extra-typings#readme",
+    "dependedByLocation": "node_modules/cyclomatic-complexity"
+  },
+  "@esbuild/aix-ppc64": {
+    "wanted": "0.21.5",
+    "latest": "0.28.2",
+    "dependent": "esbuild",
+    "type": "optionalDependencies",
+    "homepage": "https://github.com/evanw/esbuild#readme",
+    "dependedByLocation": "node_modules/esbuild"
+  },
+  "@esbuild/android-arm": {
+    "wanted": "0.21.5",
+    "latest": "0.28.2",
+    "dependent": "esbuild",
+    "type": "optionalDependencies",
+    "homepage": "https://github.com/evanw/esbuild#readme",
+    "dependedByLocation": "node_modules/esbuild"
+  },
+  "@esbuild/android-arm64": {
+    "wanted": "0.21.5",
+    "latest": "0.28.2",
+    "dependent": "esbuild",
+    "type": "optionalDependencies",
+    "homepage": "https://github.com/evanw/esbuild#readme",
+    "dependedByLocation": "node_modules/esbuild"
+  },
+  "@esbuild/android-x64": {
+    "wanted": "0.21.5",
+    "latest": "0.28.2",
+    "dependent": "esbuild",
+    "type": "optionalDependencies",
+    "homepage": "https://github.com/evanw/esbuild#readme",
+    "dependedByLocation": "node_modules/esbuild"
+  },
+  "@esbuild/darwin-arm64": {
+    "wanted": "0.21.5",
+    "latest": "0.28.2",
+    "dependent": "esbuild",
+    "type": "optionalDependencies",
+    "homepage": "https://github.com/evanw/esbuild#readme",
+    "dependedByLocation": "node_modules/esbuild"
+  },
+  "@esbuild/darwin-x64": {
+    "wanted": "0.21.5",
+    "latest": "0.28.2",
+    "dependent": "esbuild",
+    "type": "optionalDependencies",
+    "homepage": "https://github.com/evanw/esbuild#readme",
+    "dependedByLocation": "node_modules/esbuild"
+  },
+  "@esbuild/freebsd-arm64": {
+    "wanted": "0.21.5",
+    "latest": "0.28.2",
+    "dependent": "esbuild",
+    "type": "optionalDependencies",
+    "homepage": "https://github.com/evanw/esbuild#readme",
+    "dependedByLocation": "node_modules/esbuild"
+  },
+  "@esbuild/freebsd-x64": {
+    "wanted": "0.21.5",
+    "latest": "0.28.2",
+    "dependent": "esbuild",
+    "type": "optionalDependencies",
+    "homepage": "https://github.com/evanw/esbuild#readme",
+    "dependedByLocation": "node_modules/esbuild"
+  },
+  "@esbuild/linux-arm": {
+    "wanted": "0.21.5",
+    "latest": "0.28.2",
+    "dependent": "esbuild",
+    "type": "optionalDependencies",
+    "homepage": "https://github.com/evanw/esbuild#readme",
+    "dependedByLocation": "node_modules/esbuild"
+  },
+  "@esbuild/linux-arm64": {
+    "wanted": "0.21.5",
+    "latest": "0.28.2",
+    "dependent": "esbuild",
+    "type": "optionalDependencies",
+    "homepage": "https://github.com/evanw/esbuild#readme",
+    "dependedByLocation": "node_modules/esbuild"
+  },
+  "@esbuild/linux-ia32": {
+    "wanted": "0.21.5",
+    "latest": "0.28.2",
+    "dependent": "esbuild",
+    "type": "optionalDependencies",
+    "homepage": "https://github.com/evanw/esbuild#readme",
+    "dependedByLocation": "node_modules/esbuild"
+  },
+  "@esbuild/linux-loong64": {
+    "wanted": "0.21.5",
+    "latest": "0.28.2",
+    "dependent": "esbuild",
+    "type": "optionalDependencies",
+    "homepage": "https://github.com/evanw/esbuild#readme",
+    "dependedByLocation": "node_modules/esbuild"
+  },
+  "@esbuild/linux-mips64el": {
+    "wanted": "0.21.5",
+    "latest": "0.28.2",
+    "dependent": "esbuild",
+    "type": "optionalDependencies",
+    "homepage": "https://github.com/evanw/esbuild#readme",
+    "dependedByLocation": "node_modules/esbuild"
+  },
+  "@esbuild/linux-ppc64": {
+    "wanted": "0.21.5",
+    "latest": "0.28.2",
+    "dependent": "esbuild",
+    "type": "optionalDependencies",
+    "homepage": "https://github.com/evanw/esbuild#readme",
+    "dependedByLocation": "node_modules/esbuild"
+  },
+  "@esbuild/linux-riscv64": {
+    "wanted": "0.21.5",
+    "latest": "0.28.2",
+    "dependent": "esbuild",
+    "type": "optionalDependencies",
+    "homepage": "https://github.com/evanw/esbuild#readme",
+    "dependedByLocation": "node_modules/esbuild"
+  },
+  "@esbuild/linux-s390x": {
+    "wanted": "0.21.5",
+    "latest": "0.28.2",
+    "dependent": "esbuild",
+    "type": "optionalDependencies",
+    "homepage": "https://github.com/evanw/esbuild#readme",
+    "dependedByLocation": "node_modules/esbuild"
+  },
+  "@esbuild/linux-x64": {
+    "wanted": "0.21.5",
+    "latest": "0.28.2",
+    "dependent": "esbuild",
+    "type": "optionalDependencies",
+    "homepage": "https://github.com/evanw/esbuild#readme",
+    "dependedByLocation": "node_modules/esbuild"
+  },
+  "@esbuild/netbsd-x64": {
+    "wanted": "0.21.5",
+    "latest": "0.28.2",
+    "dependent": "esbuild",
+    "type": "optionalDependencies",
+    "homepage": "https://github.com/evanw/esbuild#readme",
+    "dependedByLocation": "node_modules/esbuild"
+  },
+  "@esbuild/openbsd-x64": {
+    "wanted": "0.21.5",
+    "latest": "0.28.2",
+    "dependent": "esbuild",
+    "type": "optionalDependencies",
+    "homepage": "https://github.com/evanw/esbuild#readme",
+    "dependedByLocation": "node_modules/esbuild"
+  },
+  "@esbuild/sunos-x64": {
+    "wanted": "0.21.5",
+    "latest": "0.28.2",
+    "dependent": "esbuild",
+    "type": "optionalDependencies",
+    "homepage": "https://github.com/evanw/esbuild#readme",
+    "dependedByLocation": "node_modules/esbuild"
+  },
+  "@esbuild/win32-arm64": {
+    "wanted": "0.21.5",
+    "latest": "0.28.2",
+    "dependent": "esbuild",
+    "type": "optionalDependencies",
+    "homepage": "https://github.com/evanw/esbuild#readme",
+    "dependedByLocation": "node_modules/esbuild"
+  },
+  "@esbuild/win32-ia32": {
+    "wanted": "0.21.5",
+    "latest": "0.28.2",
+    "dependent": "esbuild",
+    "type": "optionalDependencies",
+    "homepage": "https://github.com/evanw/esbuild#readme",
+    "dependedByLocation": "node_modules/esbuild"
+  },
+  "@esbuild/win32-x64": {
+    "current": "0.21.5",
+    "wanted": "0.21.5",
+    "latest": "0.28.2",
+    "dependent": "esbuild",
+    "location": "node_modules/@esbuild/win32-x64",
+    "type": "optionalDependencies",
+    "homepage": "https://github.com/evanw/esbuild#readme",
+    "dependedByLocation": "node_modules/esbuild"
+  },
+  "@humanfs/core": {
+    "current": "0.19.2",
+    "wanted": "0.19.2",
+    "latest": "0.20.0",
+    "dependent": "@humanfs/node",
+    "location": "node_modules/@humanfs/core",
+    "type": "dependencies",
+    "homepage": "https://github.com/humanwhocodes/humanfs#readme",
+    "dependedByLocation": "node_modules/@humanfs/node"
+  },
+  "@humanfs/node": {
+    "current": "0.16.8",
+    "wanted": "0.16.8",
+    "latest": "0.17.0",
+    "dependent": "eslint",
+    "location": "node_modules/@humanfs/node",
+    "type": "dependencies",
+    "homepage": "https://github.com/humanwhocodes/humanfs#readme",
+    "dependedByLocation": "node_modules/eslint"
+  },
+  "@humanfs/types": [
+    {
+      "current": "0.15.0",
+      "wanted": "0.15.0",
+      "latest": "0.16.0",
+      "dependent": "@humanfs/core",
+      "location": "node_modules/@humanfs/types",
+      "type": "dependencies",
+      "homepage": "https://github.com/humanwhocodes/humanfs#readme",
+      "dependedByLocation": "node_modules/@humanfs/core"
+    },
+    {
+      "current": "0.15.0",
+      "wanted": "0.15.0",
+      "latest": "0.16.0",
+      "dependent": "@humanfs/node",
+      "location": "node_modules/@humanfs/types",
+      "type": "dependencies",
+      "homepage": "https://github.com/humanwhocodes/humanfs#readme",
+      "dependedByLocation": "node_modules/@humanfs/node"
+    }
+  ],
+  "@inquirer/ansi": [
+    {
+      "current": "2.1.0",
+      "wanted": "2.1.1",
+      "latest": "2.1.1",
+      "dependent": "@inquirer/checkbox",
+      "location": "node_modules/@inquirer/ansi",
+      "type": "dependencies",
+      "homepage": "https://github.com/SBoudrias/Inquirer.js/blob/HEAD/packages/ansi/README.md",
+      "dependedByLocation": "node_modules/@inquirer/checkbox"
+    },
+    {
+      "current": "2.1.0",
+      "wanted": "2.1.1",
+      "latest": "2.1.1",
+      "dependent": "@inquirer/core",
+      "location": "node_modules/@inquirer/ansi",
+      "type": "dependencies",
+      "homepage": "https://github.com/SBoudrias/Inquirer.js/blob/HEAD/packages/ansi/README.md",
+      "dependedByLocation": "node_modules/@inquirer/core"
+    },
+    {
+      "current": "2.1.0",
+      "wanted": "2.1.1",
+      "latest": "2.1.1",
+      "dependent": "@inquirer/password",
+      "location": "node_modules/@inquirer/ansi",
+      "type": "dependencies",
+      "homepage": "https://github.com/SBoudrias/Inquirer.js/blob/HEAD/packages/ansi/README.md",
+      "dependedByLocation": "node_modules/@inquirer/password"
+    },
+    {
+      "current": "2.1.0",
+      "wanted": "2.1.1",
+      "latest": "2.1.1",
+      "dependent": "@inquirer/select",
+      "location": "node_modules/@inquirer/ansi",
+      "type": "dependencies",
+      "homepage": "https://github.com/SBoudrias/Inquirer.js/blob/HEAD/packages/ansi/README.md",
+      "dependedByLocation": "node_modules/@inquirer/select"
+    }
+  ],
+  "@inquirer/checkbox": {
+    "current": "5.3.0",
+    "wanted": "5.3.1",
+    "latest": "5.3.1",
+    "dependent": "@inquirer/prompts",
+    "location": "node_modules/@inquirer/checkbox",
+    "type": "dependencies",
+    "homepage": "https://github.com/SBoudrias/Inquirer.js/blob/HEAD/packages/checkbox/README.md",
+    "dependedByLocation": "node_modules/@inquirer/prompts"
+  },
+  "@inquirer/confirm": {
+    "current": "6.4.0",
+    "wanted": "6.4.1",
+    "latest": "6.4.1",
+    "dependent": "@inquirer/prompts",
+    "location": "node_modules/@inquirer/confirm",
+    "type": "dependencies",
+    "homepage": "https://github.com/SBoudrias/Inquirer.js/blob/HEAD/packages/confirm/README.md",
+    "dependedByLocation": "node_modules/@inquirer/prompts"
+  },
+  "@inquirer/core": [
+    {
+      "current": "12.1.0",
+      "wanted": "12.1.1",
+      "latest": "12.1.1",
+      "dependent": "@inquirer/checkbox",
+      "location": "node_modules/@inquirer/core",
+      "type": "dependencies",
+      "homepage": "https://github.com/SBoudrias/Inquirer.js/blob/HEAD/packages/core/README.md",
+      "dependedByLocation": "node_modules/@inquirer/checkbox"
+    },
+    {
+      "current": "12.1.0",
+      "wanted": "12.1.1",
+      "latest": "12.1.1",
+      "dependent": "@inquirer/confirm",
+      "location": "node_modules/@inquirer/core",
+      "type": "dependencies",
+      "homepage": "https://github.com/SBoudrias/Inquirer.js/blob/HEAD/packages/core/README.md",
+      "dependedByLocation": "node_modules/@inquirer/confirm"
+    },
+    {
+      "current": "12.1.0",
+      "wanted": "12.1.1",
+      "latest": "12.1.1",
+      "dependent": "@inquirer/editor",
+      "location": "node_modules/@inquirer/core",
+      "type": "dependencies",
+      "homepage": "https://github.com/SBoudrias/Inquirer.js/blob/HEAD/packages/core/README.md",
+      "dependedByLocation": "node_modules/@inquirer/editor"
+    },
+    {
+      "current": "12.1.0",
+      "wanted": "12.1.1",
+      "latest": "12.1.1",
+      "dependent": "@inquirer/expand",
+      "location": "node_modules/@inquirer/core",
+      "type": "dependencies",
+      "homepage": "https://github.com/SBoudrias/Inquirer.js/blob/HEAD/packages/core/README.md",
+      "dependedByLocation": "node_modules/@inquirer/expand"
+    },
+    {
+      "current": "12.1.0",
+      "wanted": "12.1.1",
+      "latest": "12.1.1",
+      "dependent": "@inquirer/input",
+      "location": "node_modules/@inquirer/core",
+      "type": "dependencies",
+      "homepage": "https://github.com/SBoudrias/Inquirer.js/blob/HEAD/packages/core/README.md",
+      "dependedByLocation": "node_modules/@inquirer/input"
+    },
+    {
+      "current": "12.1.0",
+      "wanted": "12.1.1",
+      "latest": "12.1.1",
+      "dependent": "@inquirer/number",
+      "location": "node_modules/@inquirer/core",
+      "type": "dependencies",
+      "homepage": "https://github.com/SBoudrias/Inquirer.js/blob/HEAD/packages/core/README.md",
+      "dependedByLocation": "node_modules/@inquirer/number"
+    },
+    {
+      "current": "12.1.0",
+      "wanted": "12.1.1",
+      "latest": "12.1.1",
+      "dependent": "@inquirer/password",
+      "location": "node_modules/@inquirer/core",
+      "type": "dependencies",
+      "homepage": "https://github.com/SBoudrias/Inquirer.js/blob/HEAD/packages/core/README.md",
+      "dependedByLocation": "node_modules/@inquirer/password"
+    },
+    {
+      "current": "12.1.0",
+      "wanted": "12.1.1",
+      "latest": "12.1.1",
+      "dependent": "@inquirer/rawlist",
+      "location": "node_modules/@inquirer/core",
+      "type": "dependencies",
+      "homepage": "https://github.com/SBoudrias/Inquirer.js/blob/HEAD/packages/core/README.md",
+      "dependedByLocation": "node_modules/@inquirer/rawlist"
+    },
+    {
+      "current": "12.1.0",
+      "wanted": "12.1.1",
+      "latest": "12.1.1",
+      "dependent": "@inquirer/search",
+      "location": "node_modules/@inquirer/core",
+      "type": "dependencies",
+      "homepage": "https://github.com/SBoudrias/Inquirer.js/blob/HEAD/packages/core/README.md",
+      "dependedByLocation": "node_modules/@inquirer/search"
+    },
+    {
+      "current": "12.1.0",
+      "wanted": "12.1.1",
+      "latest": "12.1.1",
+      "dependent": "@inquirer/select",
+      "location": "node_modules/@inquirer/core",
+      "type": "dependencies",
+      "homepage": "https://github.com/SBoudrias/Inquirer.js/blob/HEAD/packages/core/README.md",
+      "dependedByLocation": "node_modules/@inquirer/select"
+    }
+  ],
+  "@inquirer/editor": {
+    "current": "5.4.0",
+    "wanted": "5.5.0",
+    "latest": "5.5.0",
+    "dependent": "@inquirer/prompts",
+    "location": "node_modules/@inquirer/editor",
+    "type": "dependencies",
+    "homepage": "https://github.com/SBoudrias/Inquirer.js/blob/HEAD/packages/editor/README.md",
+    "dependedByLocation": "node_modules/@inquirer/prompts"
+  },
+  "@inquirer/expand": {
+    "current": "5.2.0",
+    "wanted": "5.2.1",
+    "latest": "5.2.1",
+    "dependent": "@inquirer/prompts",
+    "location": "node_modules/@inquirer/expand",
+    "type": "dependencies",
+    "homepage": "https://github.com/SBoudrias/Inquirer.js/blob/HEAD/packages/expand/README.md",
+    "dependedByLocation": "node_modules/@inquirer/prompts"
+  },
+  "@inquirer/external-editor": {
+    "current": "3.1.0",
+    "wanted": "3.1.1",
+    "latest": "3.1.1",
+    "dependent": "@inquirer/editor",
+    "location": "node_modules/@inquirer/external-editor",
+    "type": "dependencies",
+    "homepage": "https://github.com/SBoudrias/Inquirer.js/blob/HEAD/packages/external-editor/README.md",
+    "dependedByLocation": "node_modules/@inquirer/editor"
+  },
+  "@inquirer/figures": [
+    {
+      "current": "2.1.0",
+      "wanted": "2.1.1",
+      "latest": "2.1.1",
+      "dependent": "@inquirer/checkbox",
+      "location": "node_modules/@inquirer/figures",
+      "type": "dependencies",
+      "homepage": "https://github.com/SBoudrias/Inquirer.js#readme",
+      "dependedByLocation": "node_modules/@inquirer/checkbox"
+    },
+    {
+      "current": "2.1.0",
+      "wanted": "2.1.1",
+      "latest": "2.1.1",
+      "dependent": "@inquirer/core",
+      "location": "node_modules/@inquirer/figures",
+      "type": "dependencies",
+      "homepage": "https://github.com/SBoudrias/Inquirer.js#readme",
+      "dependedByLocation": "node_modules/@inquirer/core"
+    },
+    {
+      "current": "2.1.0",
+      "wanted": "2.1.1",
+      "latest": "2.1.1",
+      "dependent": "@inquirer/search",
+      "location": "node_modules/@inquirer/figures",
+      "type": "dependencies",
+      "homepage": "https://github.com/SBoudrias/Inquirer.js#readme",
+      "dependedByLocation": "node_modules/@inquirer/search"
+    },
+    {
+      "current": "2.1.0",
+      "wanted": "2.1.1",
+      "latest": "2.1.1",
+      "dependent": "@inquirer/select",
+      "location": "node_modules/@inquirer/figures",
+      "type": "dependencies",
+      "homepage": "https://github.com/SBoudrias/Inquirer.js#readme",
+      "dependedByLocation": "node_modules/@inquirer/select"
+    }
+  ],
+  "@inquirer/input": {
+    "current": "5.2.0",
+    "wanted": "5.2.1",
+    "latest": "5.2.1",
+    "dependent": "@inquirer/prompts",
+    "location": "node_modules/@inquirer/input",
+    "type": "dependencies",
+    "homepage": "https://github.com/SBoudrias/Inquirer.js/blob/HEAD/packages/input/README.md",
+    "dependedByLocation": "node_modules/@inquirer/prompts"
+  },
+  "@inquirer/number": {
+    "current": "4.3.0",
+    "wanted": "4.3.1",
+    "latest": "4.3.1",
+    "dependent": "@inquirer/prompts",
+    "location": "node_modules/@inquirer/number",
+    "type": "dependencies",
+    "homepage": "https://github.com/SBoudrias/Inquirer.js/blob/HEAD/packages/number/README.md",
+    "dependedByLocation": "node_modules/@inquirer/prompts"
+  },
+  "@inquirer/password": {
+    "current": "5.3.0",
+    "wanted": "5.3.1",
+    "latest": "5.3.1",
+    "dependent": "@inquirer/prompts",
+    "location": "node_modules/@inquirer/password",
+    "type": "dependencies",
+    "homepage": "https://github.com/SBoudrias/Inquirer.js/blob/HEAD/packages/password/README.md",
+    "dependedByLocation": "node_modules/@inquirer/prompts"
+  },
+  "@inquirer/prompts": {
+    "current": "8.8.0",
+    "wanted": "8.8.1",
+    "latest": "8.8.1",
+    "dependent": "@stryker-mutator/core",
+    "location": "node_modules/@inquirer/prompts",
+    "type": "dependencies",
+    "homepage": "https://github.com/SBoudrias/Inquirer.js/blob/HEAD/packages/prompts/README.md",
+    "dependedByLocation": "node_modules/@stryker-mutator/core"
+  },
+  "@inquirer/rawlist": {
+    "current": "5.4.0",
+    "wanted": "5.4.1",
+    "latest": "5.4.1",
+    "dependent": "@inquirer/prompts",
+    "location": "node_modules/@inquirer/rawlist",
+    "type": "dependencies",
+    "homepage": "https://github.com/SBoudrias/Inquirer.js/blob/HEAD/packages/rawlist/README.md",
+    "dependedByLocation": "node_modules/@inquirer/prompts"
+  },
+  "@inquirer/search": {
+    "current": "4.4.0",
+    "wanted": "4.4.1",
+    "latest": "4.4.1",
+    "dependent": "@inquirer/prompts",
+    "location": "node_modules/@inquirer/search",
+    "type": "dependencies",
+    "homepage": "https://github.com/SBoudrias/Inquirer.js/blob/HEAD/packages/search/README.md",
+    "dependedByLocation": "node_modules/@inquirer/prompts"
+  },
+  "@inquirer/select": {
+    "current": "5.3.0",
+    "wanted": "5.3.1",
+    "latest": "5.3.1",
+    "dependent": "@inquirer/prompts",
+    "location": "node_modules/@inquirer/select",
+    "type": "dependencies",
+    "homepage": "https://github.com/SBoudrias/Inquirer.js/blob/HEAD/packages/select/README.md",
+    "dependedByLocation": "node_modules/@inquirer/prompts"
+  },
+  "@inquirer/type": [
+    {
+      "current": "4.3.0",
+      "wanted": "4.3.0",
+      "latest": "4.3.1",
+      "dependent": "@inquirer/checkbox",
+      "location": "node_modules/@inquirer/type",
+      "type": "dependencies",
+      "homepage": "https://github.com/SBoudrias/Inquirer.js#readme",
+      "dependedByLocation": "node_modules/@inquirer/checkbox"
+    },
+    {
+      "current": "4.3.0",
+      "wanted": "4.3.0",
+      "latest": "4.3.1",
+      "dependent": "@inquirer/confirm",
+      "location": "node_modules/@inquirer/type",
+      "type": "dependencies",
+      "homepage": "https://github.com/SBoudrias/Inquirer.js#readme",
+      "dependedByLocation": "node_modules/@inquirer/confirm"
+    },
+    {
+      "current": "4.3.0",
+      "wanted": "4.3.0",
+      "latest": "4.3.1",
+      "dependent": "@inquirer/core",
+      "location": "node_modules/@inquirer/type",
+      "type": "dependencies",
+      "homepage": "https://github.com/SBoudrias/Inquirer.js#readme",
+      "dependedByLocation": "node_modules/@inquirer/core"
+    },
+    {
+      "current": "4.3.0",
+      "wanted": "4.3.0",
+      "latest": "4.3.1",
+      "dependent": "@inquirer/editor",
+      "location": "node_modules/@inquirer/type",
+      "type": "dependencies",
+      "homepage": "https://github.com/SBoudrias/Inquirer.js#readme",
+      "dependedByLocation": "node_modules/@inquirer/editor"
+    },
+    {
+      "current": "4.3.0",
+      "wanted": "4.3.0",
+      "latest": "4.3.1",
+      "dependent": "@inquirer/expand",
+      "location": "node_modules/@inquirer/type",
+      "type": "dependencies",
+      "homepage": "https://github.com/SBoudrias/Inquirer.js#readme",
+      "dependedByLocation": "node_modules/@inquirer/expand"
+    },
+    {
+      "current": "4.3.0",
+      "wanted": "4.3.0",
+      "latest": "4.3.1",
+      "dependent": "@inquirer/input",
+      "location": "node_modules/@inquirer/type",
+      "type": "dependencies",
+      "homepage": "https://github.com/SBoudrias/Inquirer.js#readme",
+      "dependedByLocation": "node_modules/@inquirer/input"
+    },
+    {
+      "current": "4.3.0",
+      "wanted": "4.3.0",
+      "latest": "4.3.1",
+      "dependent": "@inquirer/number",
+      "location": "node_modules/@inquirer/type",
+      "type": "dependencies",
+      "homepage": "https://github.com/SBoudrias/Inquirer.js#readme",
+      "dependedByLocation": "node_modules/@inquirer/number"
+    },
+    {
+      "current": "4.3.0",
+      "wanted": "4.3.0",
+      "latest": "4.3.1",
+      "dependent": "@inquirer/password",
+      "location": "node_modules/@inquirer/type",
+      "type": "dependencies",
+      "homepage": "https://github.com/SBoudrias/Inquirer.js#readme",
+      "dependedByLocation": "node_modules/@inquirer/password"
+    },
+    {
+      "current": "4.3.0",
+      "wanted": "4.3.0",
+      "latest": "4.3.1",
+      "dependent": "@inquirer/rawlist",
+      "location": "node_modules/@inquirer/type",
+      "type": "dependencies",
+      "homepage": "https://github.com/SBoudrias/Inquirer.js#readme",
+      "dependedByLocation": "node_modules/@inquirer/rawlist"
+    },
+    {
+      "current": "4.3.0",
+      "wanted": "4.3.0",
+      "latest": "4.3.1",
+      "dependent": "@inquirer/search",
+      "location": "node_modules/@inquirer/type",
+      "type": "dependencies",
+      "homepage": "https://github.com/SBoudrias/Inquirer.js#readme",
+      "dependedByLocation": "node_modules/@inquirer/search"
+    },
+    {
+      "current": "4.3.0",
+      "wanted": "4.3.0",
+      "latest": "4.3.1",
+      "dependent": "@inquirer/select",
+      "location": "node_modules/@inquirer/type",
+      "type": "dependencies",
+      "homepage": "https://github.com/SBoudrias/Inquirer.js#readme",
+      "dependedByLocation": "node_modules/@inquirer/select"
+    }
+  ],
+  "@isaacs/cliui": {
+    "current": "8.0.2",
+    "wanted": "8.0.2",
+    "latest": "9.0.0",
+    "dependent": "jackspeak",
+    "location": "node_modules/@isaacs/cliui",
+    "type": "dependencies",
+    "homepage": "https://github.com/isaacs/cliui#readme",
+    "dependedByLocation": "node_modules/jackspeak"
+  },
+  "@keyv/bigmap": {
+    "current": "1.3.1",
+    "wanted": "1.3.1",
+    "latest": "6.1.0",
+    "dependent": "@cacheable/memory",
+    "location": "node_modules/@keyv/bigmap",
+    "type": "dependencies",
+    "homepage": "https://github.com/jaredwray/keyv",
+    "dependedByLocation": "node_modules/@cacheable/memory"
+  },
+  "@one-ini/wasm": {
+    "current": "0.1.1",
+    "wanted": "0.1.1",
+    "latest": "0.2.3",
+    "dependent": "editorconfig",
+    "location": "node_modules/@one-ini/wasm",
+    "type": "dependencies",
+    "homepage": "https://github.com/one-ini/core#readme",
+    "dependedByLocation": "node_modules/editorconfig"
+  },
+  "@oxc-parser/binding-android-arm-eabi": {
+    "wanted": "0.156.0",
+    "latest": "0.160.0",
+    "dependent": "oxc-parser",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs/docs/guide/usage/parser",
+    "dependedByLocation": "node_modules/oxc-parser"
+  },
+  "@oxc-parser/binding-android-arm64": {
+    "wanted": "0.156.0",
+    "latest": "0.160.0",
+    "dependent": "oxc-parser",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs/docs/guide/usage/parser",
+    "dependedByLocation": "node_modules/oxc-parser"
+  },
+  "@oxc-parser/binding-darwin-arm64": {
+    "wanted": "0.156.0",
+    "latest": "0.160.0",
+    "dependent": "oxc-parser",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs/docs/guide/usage/parser",
+    "dependedByLocation": "node_modules/oxc-parser"
+  },
+  "@oxc-parser/binding-darwin-x64": {
+    "wanted": "0.156.0",
+    "latest": "0.160.0",
+    "dependent": "oxc-parser",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs/docs/guide/usage/parser",
+    "dependedByLocation": "node_modules/oxc-parser"
+  },
+  "@oxc-parser/binding-freebsd-x64": {
+    "wanted": "0.156.0",
+    "latest": "0.160.0",
+    "dependent": "oxc-parser",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs/docs/guide/usage/parser",
+    "dependedByLocation": "node_modules/oxc-parser"
+  },
+  "@oxc-parser/binding-linux-arm-gnueabihf": {
+    "wanted": "0.156.0",
+    "latest": "0.160.0",
+    "dependent": "oxc-parser",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs/docs/guide/usage/parser",
+    "dependedByLocation": "node_modules/oxc-parser"
+  },
+  "@oxc-parser/binding-linux-arm-musleabihf": {
+    "wanted": "0.156.0",
+    "latest": "0.160.0",
+    "dependent": "oxc-parser",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs/docs/guide/usage/parser",
+    "dependedByLocation": "node_modules/oxc-parser"
+  },
+  "@oxc-parser/binding-linux-arm64-gnu": {
+    "wanted": "0.156.0",
+    "latest": "0.160.0",
+    "dependent": "oxc-parser",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs/docs/guide/usage/parser",
+    "dependedByLocation": "node_modules/oxc-parser"
+  },
+  "@oxc-parser/binding-linux-arm64-musl": {
+    "wanted": "0.156.0",
+    "latest": "0.160.0",
+    "dependent": "oxc-parser",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs/docs/guide/usage/parser",
+    "dependedByLocation": "node_modules/oxc-parser"
+  },
+  "@oxc-parser/binding-linux-ppc64-gnu": {
+    "wanted": "0.156.0",
+    "latest": "0.160.0",
+    "dependent": "oxc-parser",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs/docs/guide/usage/parser",
+    "dependedByLocation": "node_modules/oxc-parser"
+  },
+  "@oxc-parser/binding-linux-riscv64-gnu": {
+    "wanted": "0.156.0",
+    "latest": "0.160.0",
+    "dependent": "oxc-parser",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs/docs/guide/usage/parser",
+    "dependedByLocation": "node_modules/oxc-parser"
+  },
+  "@oxc-parser/binding-linux-riscv64-musl": {
+    "wanted": "0.156.0",
+    "latest": "0.160.0",
+    "dependent": "oxc-parser",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs/docs/guide/usage/parser",
+    "dependedByLocation": "node_modules/oxc-parser"
+  },
+  "@oxc-parser/binding-linux-s390x-gnu": {
+    "wanted": "0.156.0",
+    "latest": "0.160.0",
+    "dependent": "oxc-parser",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs/docs/guide/usage/parser",
+    "dependedByLocation": "node_modules/oxc-parser"
+  },
+  "@oxc-parser/binding-linux-x64-gnu": {
+    "wanted": "0.156.0",
+    "latest": "0.160.0",
+    "dependent": "oxc-parser",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs/docs/guide/usage/parser",
+    "dependedByLocation": "node_modules/oxc-parser"
+  },
+  "@oxc-parser/binding-linux-x64-musl": {
+    "wanted": "0.156.0",
+    "latest": "0.160.0",
+    "dependent": "oxc-parser",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs/docs/guide/usage/parser",
+    "dependedByLocation": "node_modules/oxc-parser"
+  },
+  "@oxc-parser/binding-openharmony-arm64": {
+    "wanted": "0.156.0",
+    "latest": "0.160.0",
+    "dependent": "oxc-parser",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs/docs/guide/usage/parser",
+    "dependedByLocation": "node_modules/oxc-parser"
+  },
+  "@oxc-parser/binding-win32-arm64-msvc": {
+    "wanted": "0.156.0",
+    "latest": "0.160.0",
+    "dependent": "oxc-parser",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs/docs/guide/usage/parser",
+    "dependedByLocation": "node_modules/oxc-parser"
+  },
+  "@oxc-parser/binding-win32-ia32-msvc": {
+    "wanted": "0.156.0",
+    "latest": "0.160.0",
+    "dependent": "oxc-parser",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs/docs/guide/usage/parser",
+    "dependedByLocation": "node_modules/oxc-parser"
+  },
+  "@oxc-parser/binding-win32-x64-msvc": {
+    "current": "0.156.0",
+    "wanted": "0.156.0",
+    "latest": "0.160.0",
+    "dependent": "oxc-parser",
+    "location": "node_modules/@oxc-parser/binding-win32-x64-msvc",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs/docs/guide/usage/parser",
+    "dependedByLocation": "node_modules/oxc-parser"
+  },
+  "@oxc-project/types": {
+    "current": "0.156.0",
+    "wanted": "0.156.0",
+    "latest": "0.160.0",
+    "dependent": "oxc-parser",
+    "location": "node_modules/@oxc-project/types",
+    "type": "dependencies",
+    "homepage": "https://oxc.rs",
+    "dependedByLocation": "node_modules/oxc-parser"
+  },
+  "@oxc-resolver/binding-android-arm-eabi": {
+    "wanted": "11.24.2",
+    "latest": "11.24.2",
+    "dependent": "oxc-resolver",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs",
+    "dependedByLocation": "node_modules/oxc-resolver"
+  },
+  "@oxc-resolver/binding-android-arm64": {
+    "wanted": "11.24.2",
+    "latest": "11.24.2",
+    "dependent": "oxc-resolver",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs",
+    "dependedByLocation": "node_modules/oxc-resolver"
+  },
+  "@oxc-resolver/binding-darwin-arm64": {
+    "wanted": "11.24.2",
+    "latest": "11.24.2",
+    "dependent": "oxc-resolver",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs",
+    "dependedByLocation": "node_modules/oxc-resolver"
+  },
+  "@oxc-resolver/binding-darwin-x64": {
+    "wanted": "11.24.2",
+    "latest": "11.24.2",
+    "dependent": "oxc-resolver",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs",
+    "dependedByLocation": "node_modules/oxc-resolver"
+  },
+  "@oxc-resolver/binding-freebsd-x64": {
+    "wanted": "11.24.2",
+    "latest": "11.24.2",
+    "dependent": "oxc-resolver",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs",
+    "dependedByLocation": "node_modules/oxc-resolver"
+  },
+  "@oxc-resolver/binding-linux-arm-gnueabihf": {
+    "wanted": "11.24.2",
+    "latest": "11.24.2",
+    "dependent": "oxc-resolver",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs",
+    "dependedByLocation": "node_modules/oxc-resolver"
+  },
+  "@oxc-resolver/binding-linux-arm-musleabihf": {
+    "wanted": "11.24.2",
+    "latest": "11.24.2",
+    "dependent": "oxc-resolver",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs",
+    "dependedByLocation": "node_modules/oxc-resolver"
+  },
+  "@oxc-resolver/binding-linux-arm64-gnu": {
+    "wanted": "11.24.2",
+    "latest": "11.24.2",
+    "dependent": "oxc-resolver",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs",
+    "dependedByLocation": "node_modules/oxc-resolver"
+  },
+  "@oxc-resolver/binding-linux-arm64-musl": {
+    "wanted": "11.24.2",
+    "latest": "11.24.2",
+    "dependent": "oxc-resolver",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs",
+    "dependedByLocation": "node_modules/oxc-resolver"
+  },
+  "@oxc-resolver/binding-linux-ppc64-gnu": {
+    "wanted": "11.24.2",
+    "latest": "11.24.2",
+    "dependent": "oxc-resolver",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs",
+    "dependedByLocation": "node_modules/oxc-resolver"
+  },
+  "@oxc-resolver/binding-linux-riscv64-gnu": {
+    "wanted": "11.24.2",
+    "latest": "11.24.2",
+    "dependent": "oxc-resolver",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs",
+    "dependedByLocation": "node_modules/oxc-resolver"
+  },
+  "@oxc-resolver/binding-linux-riscv64-musl": {
+    "wanted": "11.24.2",
+    "latest": "11.24.2",
+    "dependent": "oxc-resolver",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs",
+    "dependedByLocation": "node_modules/oxc-resolver"
+  },
+  "@oxc-resolver/binding-linux-s390x-gnu": {
+    "wanted": "11.24.2",
+    "latest": "11.24.2",
+    "dependent": "oxc-resolver",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs",
+    "dependedByLocation": "node_modules/oxc-resolver"
+  },
+  "@oxc-resolver/binding-linux-x64-gnu": {
+    "wanted": "11.24.2",
+    "latest": "11.24.2",
+    "dependent": "oxc-resolver",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs",
+    "dependedByLocation": "node_modules/oxc-resolver"
+  },
+  "@oxc-resolver/binding-linux-x64-musl": {
+    "wanted": "11.24.2",
+    "latest": "11.24.2",
+    "dependent": "oxc-resolver",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs",
+    "dependedByLocation": "node_modules/oxc-resolver"
+  },
+  "@oxc-resolver/binding-openharmony-arm64": {
+    "wanted": "11.24.2",
+    "latest": "11.24.2",
+    "dependent": "oxc-resolver",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs",
+    "dependedByLocation": "node_modules/oxc-resolver"
+  },
+  "@oxc-resolver/binding-wasm32-wasi": {
+    "wanted": "11.24.2",
+    "latest": "11.24.2",
+    "dependent": "oxc-resolver",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs",
+    "dependedByLocation": "node_modules/oxc-resolver"
+  },
+  "@oxc-resolver/binding-win32-arm64-msvc": {
+    "wanted": "11.24.2",
+    "latest": "11.24.2",
+    "dependent": "oxc-resolver",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs",
+    "dependedByLocation": "node_modules/oxc-resolver"
+  },
+  "@oxlint/binding-android-arm-eabi": {
+    "wanted": "1.93.0",
+    "latest": "1.95.0",
+    "dependent": "oxlint",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs/docs/guide/usage/linter",
+    "dependedByLocation": "node_modules/oxlint"
+  },
+  "@oxlint/binding-android-arm64": {
+    "wanted": "1.93.0",
+    "latest": "1.95.0",
+    "dependent": "oxlint",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs/docs/guide/usage/linter",
+    "dependedByLocation": "node_modules/oxlint"
+  },
+  "@oxlint/binding-darwin-arm64": {
+    "wanted": "1.93.0",
+    "latest": "1.95.0",
+    "dependent": "oxlint",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs/docs/guide/usage/linter",
+    "dependedByLocation": "node_modules/oxlint"
+  },
+  "@oxlint/binding-darwin-x64": {
+    "wanted": "1.93.0",
+    "latest": "1.95.0",
+    "dependent": "oxlint",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs/docs/guide/usage/linter",
+    "dependedByLocation": "node_modules/oxlint"
+  },
+  "@oxlint/binding-freebsd-x64": {
+    "wanted": "1.93.0",
+    "latest": "1.95.0",
+    "dependent": "oxlint",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs/docs/guide/usage/linter",
+    "dependedByLocation": "node_modules/oxlint"
+  },
+  "@oxlint/binding-linux-arm-gnueabihf": {
+    "wanted": "1.93.0",
+    "latest": "1.95.0",
+    "dependent": "oxlint",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs/docs/guide/usage/linter",
+    "dependedByLocation": "node_modules/oxlint"
+  },
+  "@oxlint/binding-linux-arm-musleabihf": {
+    "wanted": "1.93.0",
+    "latest": "1.95.0",
+    "dependent": "oxlint",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs/docs/guide/usage/linter",
+    "dependedByLocation": "node_modules/oxlint"
+  },
+  "@oxlint/binding-linux-arm64-gnu": {
+    "wanted": "1.93.0",
+    "latest": "1.95.0",
+    "dependent": "oxlint",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs/docs/guide/usage/linter",
+    "dependedByLocation": "node_modules/oxlint"
+  },
+  "@oxlint/binding-linux-arm64-musl": {
+    "wanted": "1.93.0",
+    "latest": "1.95.0",
+    "dependent": "oxlint",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs/docs/guide/usage/linter",
+    "dependedByLocation": "node_modules/oxlint"
+  },
+  "@oxlint/binding-linux-ppc64-gnu": {
+    "wanted": "1.93.0",
+    "latest": "1.95.0",
+    "dependent": "oxlint",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs/docs/guide/usage/linter",
+    "dependedByLocation": "node_modules/oxlint"
+  },
+  "@oxlint/binding-linux-riscv64-gnu": {
+    "wanted": "1.93.0",
+    "latest": "1.95.0",
+    "dependent": "oxlint",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs/docs/guide/usage/linter",
+    "dependedByLocation": "node_modules/oxlint"
+  },
+  "@oxlint/binding-linux-riscv64-musl": {
+    "wanted": "1.93.0",
+    "latest": "1.95.0",
+    "dependent": "oxlint",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs/docs/guide/usage/linter",
+    "dependedByLocation": "node_modules/oxlint"
+  },
+  "@oxlint/binding-linux-s390x-gnu": {
+    "wanted": "1.93.0",
+    "latest": "1.95.0",
+    "dependent": "oxlint",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs/docs/guide/usage/linter",
+    "dependedByLocation": "node_modules/oxlint"
+  },
+  "@oxlint/binding-linux-x64-gnu": {
+    "wanted": "1.93.0",
+    "latest": "1.95.0",
+    "dependent": "oxlint",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs/docs/guide/usage/linter",
+    "dependedByLocation": "node_modules/oxlint"
+  },
+  "@oxlint/binding-linux-x64-musl": {
+    "wanted": "1.93.0",
+    "latest": "1.95.0",
+    "dependent": "oxlint",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs/docs/guide/usage/linter",
+    "dependedByLocation": "node_modules/oxlint"
+  },
+  "@oxlint/binding-openharmony-arm64": {
+    "wanted": "1.93.0",
+    "latest": "1.95.0",
+    "dependent": "oxlint",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs/docs/guide/usage/linter",
+    "dependedByLocation": "node_modules/oxlint"
+  },
+  "@oxlint/binding-win32-arm64-msvc": {
+    "wanted": "1.93.0",
+    "latest": "1.95.0",
+    "dependent": "oxlint",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs/docs/guide/usage/linter",
+    "dependedByLocation": "node_modules/oxlint"
+  },
+  "@oxlint/binding-win32-ia32-msvc": {
+    "wanted": "1.93.0",
+    "latest": "1.95.0",
+    "dependent": "oxlint",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs/docs/guide/usage/linter",
+    "dependedByLocation": "node_modules/oxlint"
+  },
+  "@oxlint/binding-win32-x64-msvc": {
+    "current": "1.93.0",
+    "wanted": "1.93.0",
+    "latest": "1.95.0",
+    "dependent": "oxlint",
+    "location": "node_modules/@oxlint/binding-win32-x64-msvc",
+    "type": "optionalDependencies",
+    "homepage": "https://oxc.rs/docs/guide/usage/linter",
+    "dependedByLocation": "node_modules/oxlint"
+  },
+  "@rollup/rollup-android-arm-eabi": {
+    "wanted": "4.68.3",
+    "latest": "4.68.8",
+    "dependent": "rollup",
+    "type": "optionalDependencies",
+    "homepage": "https://rollupjs.org/",
+    "dependedByLocation": "node_modules/rollup"
+  },
+  "@rollup/rollup-android-arm64": {
+    "wanted": "4.68.3",
+    "latest": "4.68.8",
+    "dependent": "rollup",
+    "type": "optionalDependencies",
+    "homepage": "https://rollupjs.org/",
+    "dependedByLocation": "node_modules/rollup"
+  },
+  "@rollup/rollup-android-x64": {
+    "wanted": "4.68.3",
+    "latest": "4.68.8",
+    "dependent": "rollup",
+    "type": "optionalDependencies",
+    "homepage": "https://rollupjs.org/",
+    "dependedByLocation": "node_modules/rollup"
+  },
+  "@rollup/rollup-darwin-arm64": {
+    "wanted": "4.68.3",
+    "latest": "4.68.8",
+    "dependent": "rollup",
+    "type": "optionalDependencies",
+    "homepage": "https://rollupjs.org/",
+    "dependedByLocation": "node_modules/rollup"
+  },
+  "@rollup/rollup-darwin-x64": {
+    "wanted": "4.68.3",
+    "latest": "4.68.8",
+    "dependent": "rollup",
+    "type": "optionalDependencies",
+    "homepage": "https://rollupjs.org/",
+    "dependedByLocation": "node_modules/rollup"
+  },
+  "@rollup/rollup-freebsd-arm64": {
+    "wanted": "4.68.3",
+    "latest": "4.68.8",
+    "dependent": "rollup",
+    "type": "optionalDependencies",
+    "homepage": "https://rollupjs.org/",
+    "dependedByLocation": "node_modules/rollup"
+  },
+  "@rollup/rollup-freebsd-x64": {
+    "wanted": "4.68.3",
+    "latest": "4.68.8",
+    "dependent": "rollup",
+    "type": "optionalDependencies",
+    "homepage": "https://rollupjs.org/",
+    "dependedByLocation": "node_modules/rollup"
+  },
+  "@rollup/rollup-linux-arm-gnueabihf": {
+    "wanted": "4.68.3",
+    "latest": "4.68.8",
+    "dependent": "rollup",
+    "type": "optionalDependencies",
+    "homepage": "https://rollupjs.org/",
+    "dependedByLocation": "node_modules/rollup"
+  },
+  "@rollup/rollup-linux-arm-musleabihf": {
+    "wanted": "4.68.3",
+    "latest": "4.68.8",
+    "dependent": "rollup",
+    "type": "optionalDependencies",
+    "homepage": "https://rollupjs.org/",
+    "dependedByLocation": "node_modules/rollup"
+  },
+  "@rollup/rollup-linux-arm64-gnu": {
+    "wanted": "4.68.3",
+    "latest": "4.68.8",
+    "dependent": "rollup",
+    "type": "optionalDependencies",
+    "homepage": "https://rollupjs.org/",
+    "dependedByLocation": "node_modules/rollup"
+  },
+  "@rollup/rollup-linux-arm64-musl": {
+    "wanted": "4.68.3",
+    "latest": "4.68.8",
+    "dependent": "rollup",
+    "type": "optionalDependencies",
+    "homepage": "https://rollupjs.org/",
+    "dependedByLocation": "node_modules/rollup"
+  },
+  "@rollup/rollup-linux-loong64-gnu": {
+    "wanted": "4.68.3",
+    "latest": "4.68.8",
+    "dependent": "rollup",
+    "type": "optionalDependencies",
+    "homepage": "https://rollupjs.org/",
+    "dependedByLocation": "node_modules/rollup"
+  },
+  "@rollup/rollup-linux-loong64-musl": {
+    "wanted": "4.68.3",
+    "latest": "4.68.8",
+    "dependent": "rollup",
+    "type": "optionalDependencies",
+    "homepage": "https://rollupjs.org/",
+    "dependedByLocation": "node_modules/rollup"
+  },
+  "@rollup/rollup-linux-ppc64-gnu": {
+    "wanted": "4.68.3",
+    "latest": "4.68.8",
+    "dependent": "rollup",
+    "type": "optionalDependencies",
+    "homepage": "https://rollupjs.org/",
+    "dependedByLocation": "node_modules/rollup"
+  },
+  "@rollup/rollup-linux-ppc64-musl": {
+    "wanted": "4.68.3",
+    "latest": "4.68.8",
+    "dependent": "rollup",
+    "type": "optionalDependencies",
+    "homepage": "https://rollupjs.org/",
+    "dependedByLocation": "node_modules/rollup"
+  },
+  "@rollup/rollup-linux-riscv64-gnu": {
+    "wanted": "4.68.3",
+    "latest": "4.68.8",
+    "dependent": "rollup",
+    "type": "optionalDependencies",
+    "homepage": "https://rollupjs.org/",
+    "dependedByLocation": "node_modules/rollup"
+  },
+  "@rollup/rollup-linux-riscv64-musl": {
+    "wanted": "4.68.3",
+    "latest": "4.68.8",
+    "dependent": "rollup",
+    "type": "optionalDependencies",
+    "homepage": "https://rollupjs.org/",
+    "dependedByLocation": "node_modules/rollup"
+  },
+  "@rollup/rollup-linux-s390x-gnu": {
+    "wanted": "4.68.3",
+    "latest": "4.68.8",
+    "dependent": "rollup",
+    "type": "optionalDependencies",
+    "homepage": "https://rollupjs.org/",
+    "dependedByLocation": "node_modules/rollup"
+  },
+  "@rollup/rollup-linux-x64-gnu": {
+    "wanted": "4.68.3",
+    "latest": "4.68.8",
+    "dependent": "rollup",
+    "type": "optionalDependencies",
+    "homepage": "https://rollupjs.org/",
+    "dependedByLocation": "node_modules/rollup"
+  },
+  "@rollup/rollup-linux-x64-musl": {
+    "wanted": "4.68.3",
+    "latest": "4.68.8",
+    "dependent": "rollup",
+    "type": "optionalDependencies",
+    "homepage": "https://rollupjs.org/",
+    "dependedByLocation": "node_modules/rollup"
+  },
+  "@rollup/rollup-openbsd-x64": {
+    "wanted": "4.68.3",
+    "latest": "4.68.8",
+    "dependent": "rollup",
+    "type": "optionalDependencies",
+    "homepage": "https://rollupjs.org/",
+    "dependedByLocation": "node_modules/rollup"
+  },
+  "@rollup/rollup-openharmony-arm64": {
+    "wanted": "4.68.3",
+    "latest": "4.68.8",
+    "dependent": "rollup",
+    "type": "optionalDependencies",
+    "homepage": "https://rollupjs.org/",
+    "dependedByLocation": "node_modules/rollup"
+  },
+  "@rollup/rollup-win32-arm64-msvc": {
+    "wanted": "4.68.3",
+    "latest": "4.68.8",
+    "dependent": "rollup",
+    "type": "optionalDependencies",
+    "homepage": "https://rollupjs.org/",
+    "dependedByLocation": "node_modules/rollup"
+  },
+  "@rollup/rollup-win32-ia32-msvc": {
+    "wanted": "4.68.3",
+    "latest": "4.68.8",
+    "dependent": "rollup",
+    "type": "optionalDependencies",
+    "homepage": "https://rollupjs.org/",
+    "dependedByLocation": "node_modules/rollup"
+  },
+  "@rollup/rollup-win32-x64-gnu": {
+    "current": "4.68.3",
+    "wanted": "4.68.3",
+    "latest": "4.68.8",
+    "dependent": "rollup",
+    "location": "node_modules/@rollup/rollup-win32-x64-gnu",
+    "type": "optionalDependencies",
+    "homepage": "https://rollupjs.org/",
+    "dependedByLocation": "node_modules/rollup"
+  },
+  "@rollup/rollup-win32-x64-msvc": {
+    "current": "4.68.3",
+    "wanted": "4.68.3",
+    "latest": "4.68.8",
+    "dependent": "rollup",
+    "location": "node_modules/@rollup/rollup-win32-x64-msvc",
+    "type": "optionalDependencies",
+    "homepage": "https://rollupjs.org/",
+    "dependedByLocation": "node_modules/rollup"
+  },
+  "@sec-ant/readable-stream": {
+    "current": "0.4.1",
+    "wanted": "0.4.1",
+    "latest": "0.7.1",
+    "dependent": "get-stream",
+    "location": "node_modules/@sec-ant/readable-stream",
+    "type": "dependencies",
+    "homepage": "https://github.com/Sec-ant/readable-stream",
+    "dependedByLocation": "node_modules/get-stream"
+  },
+  "@sonarsource/analyzer-commons-configurations": {
+    "current": "2.31.0-5284",
+    "wanted": "2.31.0-5284",
+    "latest": "2.37.0-15708",
+    "dependent": "eslint-plugin-sonarjs",
+    "location": "node_modules/@sonarsource/analyzer-commons-configurations",
+    "type": "dependencies",
+    "homepage": "https://github.com/SonarSource/sonar-analyzer-commons#readme",
+    "dependedByLocation": "node_modules/eslint-plugin-sonarjs"
+  },
+  "@stryker-mutator/api": [
+    {
+      "current": "9.6.1",
+      "wanted": "9.6.1",
+      "latest": "10.1.1",
+      "dependent": "@stryker-mutator/core",
+      "location": "node_modules/@stryker-mutator/api",
+      "type": "dependencies",
+      "homepage": "https://stryker-mutator.io/",
+      "dependedByLocation": "node_modules/@stryker-mutator/core"
+    },
+    {
+      "current": "9.6.1",
+      "wanted": "9.6.1",
+      "latest": "10.1.1",
+      "dependent": "@stryker-mutator/instrumenter",
+      "location": "node_modules/@stryker-mutator/api",
+      "type": "dependencies",
+      "homepage": "https://stryker-mutator.io/",
+      "dependedByLocation": "node_modules/@stryker-mutator/instrumenter"
+    },
+    {
+      "current": "9.6.1",
+      "wanted": "9.6.1",
+      "latest": "10.1.1",
+      "dependent": "@stryker-mutator/mocha-runner",
+      "location": "node_modules/@stryker-mutator/api",
+      "type": "dependencies",
+      "homepage": "https://stryker-mutator.io/",
+      "dependedByLocation": "node_modules/@stryker-mutator/mocha-runner"
+    }
+  ],
+  "@stryker-mutator/core": [
+    {
+      "current": "9.6.1",
+      "wanted": "9.6.1",
+      "latest": "10.1.1",
+      "dependent": "@stryker-mutator/mocha-runner",
+      "location": "node_modules/@stryker-mutator/core",
+      "type": "peerDependencies",
+      "homepage": "https://stryker-mutator.io/",
+      "dependedByLocation": "node_modules/@stryker-mutator/mocha-runner"
+    },
+    {
+      "current": "9.6.1",
+      "wanted": "9.6.1",
+      "latest": "10.1.1",
+      "dependent": "jscrossfix",
+      "location": "node_modules/@stryker-mutator/core",
+      "type": "devDependencies",
+      "homepage": "https://stryker-mutator.io/",
+      "dependedByLocation": ""
+    }
+  ],
+  "@stryker-mutator/instrumenter": {
+    "current": "9.6.1",
+    "wanted": "9.6.1",
+    "latest": "10.1.1",
+    "dependent": "@stryker-mutator/core",
+    "location": "node_modules/@stryker-mutator/instrumenter",
+    "type": "dependencies",
+    "homepage": "https://stryker-mutator.io",
+    "dependedByLocation": "node_modules/@stryker-mutator/core"
+  },
+  "@stryker-mutator/mocha-runner": {
+    "current": "9.6.1",
+    "wanted": "9.6.1",
+    "latest": "10.1.1",
+    "dependent": "jscrossfix",
+    "location": "node_modules/@stryker-mutator/mocha-runner",
+    "type": "devDependencies",
+    "homepage": "https://stryker-mutator.io/docs/stryker-js/mocha-runner",
+    "dependedByLocation": ""
+  },
+  "@stryker-mutator/util": [
+    {
+      "current": "9.6.1",
+      "wanted": "9.6.1",
+      "latest": "10.1.1",
+      "dependent": "@stryker-mutator/core",
+      "location": "node_modules/@stryker-mutator/util",
+      "type": "dependencies",
+      "homepage": "https://github.com/stryker-mutator/stryker-js/tree/master/packages/util#readme",
+      "dependedByLocation": "node_modules/@stryker-mutator/core"
+    },
+    {
+      "current": "9.6.1",
+      "wanted": "9.6.1",
+      "latest": "10.1.1",
+      "dependent": "@stryker-mutator/instrumenter",
+      "location": "node_modules/@stryker-mutator/util",
+      "type": "dependencies",
+      "homepage": "https://github.com/stryker-mutator/stryker-js/tree/master/packages/util#readme",
+      "dependedByLocation": "node_modules/@stryker-mutator/instrumenter"
+    },
+    {
+      "current": "9.6.1",
+      "wanted": "9.6.1",
+      "latest": "10.1.1",
+      "dependent": "@stryker-mutator/mocha-runner",
+      "location": "node_modules/@stryker-mutator/util",
+      "type": "dependencies",
+      "homepage": "https://github.com/stryker-mutator/stryker-js/tree/master/packages/util#readme",
+      "dependedByLocation": "node_modules/@stryker-mutator/mocha-runner"
+    }
+  ],
+  "@types/node": [
+    {
+      "wanted": "26.6.6",
+      "latest": "26.6.6",
+      "dependent": "@inquirer/checkbox",
+      "type": "optionalDependencies",
+      "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/node",
+      "dependedByLocation": "node_modules/@inquirer/checkbox"
+    },
+    {
+      "wanted": "26.6.6",
+      "latest": "26.6.6",
+      "dependent": "@inquirer/confirm",
+      "type": "optionalDependencies",
+      "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/node",
+      "dependedByLocation": "node_modules/@inquirer/confirm"
+    },
+    {
+      "wanted": "26.6.6",
+      "latest": "26.6.6",
+      "dependent": "@inquirer/core",
+      "type": "optionalDependencies",
+      "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/node",
+      "dependedByLocation": "node_modules/@inquirer/core"
+    },
+    {
+      "wanted": "26.6.6",
+      "latest": "26.6.6",
+      "dependent": "@inquirer/editor",
+      "type": "optionalDependencies",
+      "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/node",
+      "dependedByLocation": "node_modules/@inquirer/editor"
+    },
+    {
+      "wanted": "26.6.6",
+      "latest": "26.6.6",
+      "dependent": "@inquirer/expand",
+      "type": "optionalDependencies",
+      "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/node",
+      "dependedByLocation": "node_modules/@inquirer/expand"
+    },
+    {
+      "wanted": "26.6.6",
+      "latest": "26.6.6",
+      "dependent": "@inquirer/external-editor",
+      "type": "optionalDependencies",
+      "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/node",
+      "dependedByLocation": "node_modules/@inquirer/external-editor"
+    },
+    {
+      "wanted": "26.6.6",
+      "latest": "26.6.6",
+      "dependent": "@inquirer/input",
+      "type": "optionalDependencies",
+      "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/node",
+      "dependedByLocation": "node_modules/@inquirer/input"
+    },
+    {
+      "wanted": "26.6.6",
+      "latest": "26.6.6",
+      "dependent": "@inquirer/number",
+      "type": "optionalDependencies",
+      "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/node",
+      "dependedByLocation": "node_modules/@inquirer/number"
+    },
+    {
+      "wanted": "26.6.6",
+      "latest": "26.6.6",
+      "dependent": "@inquirer/password",
+      "type": "optionalDependencies",
+      "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/node",
+      "dependedByLocation": "node_modules/@inquirer/password"
+    },
+    {
+      "wanted": "26.6.6",
+      "latest": "26.6.6",
+      "dependent": "@inquirer/prompts",
+      "type": "optionalDependencies",
+      "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/node",
+      "dependedByLocation": "node_modules/@inquirer/prompts"
+    },
+    {
+      "wanted": "26.6.6",
+      "latest": "26.6.6",
+      "dependent": "@inquirer/rawlist",
+      "type": "optionalDependencies",
+      "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/node",
+      "dependedByLocation": "node_modules/@inquirer/rawlist"
+    },
+    {
+      "wanted": "26.6.6",
+      "latest": "26.6.6",
+      "dependent": "@inquirer/search",
+      "type": "optionalDependencies",
+      "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/node",
+      "dependedByLocation": "node_modules/@inquirer/search"
+    },
+    {
+      "wanted": "26.6.6",
+      "latest": "26.6.6",
+      "dependent": "@inquirer/select",
+      "type": "optionalDependencies",
+      "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/node",
+      "dependedByLocation": "node_modules/@inquirer/select"
+    },
+    {
+      "wanted": "26.6.6",
+      "latest": "26.6.6",
+      "dependent": "@inquirer/type",
+      "type": "optionalDependencies",
+      "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/node",
+      "dependedByLocation": "node_modules/@inquirer/type"
+    },
+    {
+      "wanted": "26.6.6",
+      "latest": "26.6.6",
+      "dependent": "vite",
+      "type": "optionalDependencies",
+      "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/node",
+      "dependedByLocation": "node_modules/vite"
+    }
+  ],
+  "abbrev": {
+    "current": "2.0.0",
+    "wanted": "2.0.0",
+    "latest": "5.0.0",
+    "dependent": "nopt",
+    "location": "node_modules/abbrev",
+    "type": "dependencies",
+    "homepage": "https://github.com/npm/abbrev-js#readme",
+    "dependedByLocation": "node_modules/nopt"
+  },
+  "aggregate-error": {
+    "current": "3.1.0",
+    "wanted": "3.1.0",
+    "latest": "5.1.0",
+    "dependent": "p-map",
+    "location": "node_modules/aggregate-error",
+    "type": "dependencies",
+    "homepage": "https://github.com/sindresorhus/aggregate-error#readme",
+    "dependedByLocation": "node_modules/p-map"
+  },
+  "ajv": [
+    {
+      "current": "8.18.0",
+      "wanted": "8.18.0",
+      "latest": "8.20.0",
+      "dependent": "@stryker-mutator/core",
+      "location": "node_modules/ajv",
+      "type": "dependencies",
+      "homepage": "https://ajv.js.org",
+      "dependedByLocation": "node_modules/@stryker-mutator/core"
+    },
+    {
+      "current": "6.15.0",
+      "wanted": "6.15.0",
+      "latest": "8.20.0",
+      "dependent": "eslint",
+      "location": "node_modules/eslint/node_modules/ajv",
+      "type": "dependencies",
+      "homepage": "https://ajv.js.org",
+      "dependedByLocation": "node_modules/eslint"
+    }
+  ],
+  "angular-html-parser": {
+    "current": "10.4.0",
+    "wanted": "10.4.0",
+    "latest": "10.13.0",
+    "dependent": "@stryker-mutator/instrumenter",
+    "location": "node_modules/angular-html-parser",
+    "type": "dependencies",
+    "homepage": "https://github.com/prettier/angular-html-parser/blob/HEAD/packages/angular-html-parser#readme",
+    "dependedByLocation": "node_modules/@stryker-mutator/instrumenter"
+  },
+  "ansi-regex": [
+    {
+      "current": "5.0.1",
+      "wanted": "5.0.1",
+      "latest": "6.6.0",
+      "dependent": "strip-ansi",
+      "location": "node_modules/nyc/node_modules/ansi-regex",
+      "type": "dependencies",
+      "homepage": "https://github.com/chalk/ansi-regex#readme",
+      "dependedByLocation": "node_modules/nyc/node_modules/strip-ansi"
+    },
+    {
+      "current": "5.0.1",
+      "wanted": "5.0.1",
+      "latest": "6.6.0",
+      "dependent": "strip-ansi",
+      "location": "node_modules/string-width-cjs/node_modules/ansi-regex",
+      "type": "dependencies",
+      "homepage": "https://github.com/chalk/ansi-regex#readme",
+      "dependedByLocation": "node_modules/string-width-cjs/node_modules/strip-ansi"
+    },
+    {
+      "current": "5.0.1",
+      "wanted": "5.0.1",
+      "latest": "6.6.0",
+      "dependent": "strip-ansi",
+      "location": "node_modules/wrap-ansi-cjs/node_modules/ansi-regex",
+      "type": "dependencies",
+      "homepage": "https://github.com/chalk/ansi-regex#readme",
+      "dependedByLocation": "node_modules/wrap-ansi-cjs/node_modules/strip-ansi"
+    },
+    {
+      "current": "5.0.1",
+      "wanted": "5.0.1",
+      "latest": "6.6.0",
+      "dependent": "strip-ansi",
+      "location": "node_modules/yargs/node_modules/ansi-regex",
+      "type": "dependencies",
+      "homepage": "https://github.com/chalk/ansi-regex#readme",
+      "dependedByLocation": "node_modules/yargs/node_modules/strip-ansi"
+    },
+    {
+      "current": "5.0.1",
+      "wanted": "5.0.1",
+      "latest": "6.6.0",
+      "dependent": "strip-ansi-cjs",
+      "location": "node_modules/strip-ansi-cjs/node_modules/ansi-regex",
+      "type": "dependencies",
+      "homepage": "https://github.com/chalk/ansi-regex#readme",
+      "dependedByLocation": "node_modules/strip-ansi-cjs"
+    }
+  ],
+  "ansi-styles": [
+    {
+      "current": "4.3.0",
+      "wanted": "4.3.0",
+      "latest": "7.0.0",
+      "dependent": "chalk",
+      "location": "node_modules/log-symbols/node_modules/ansi-styles",
+      "type": "dependencies",
+      "homepage": "https://github.com/chalk/ansi-styles#readme",
+      "dependedByLocation": "node_modules/log-symbols/node_modules/chalk"
+    },
+    {
+      "current": "6.2.3",
+      "wanted": "6.2.3",
+      "latest": "7.0.0",
+      "dependent": "wrap-ansi",
+      "location": "node_modules/ansi-styles",
+      "type": "dependencies",
+      "homepage": "https://github.com/chalk/ansi-styles#readme",
+      "dependedByLocation": "node_modules/@isaacs/cliui/node_modules/wrap-ansi"
+    },
+    {
+      "current": "4.3.0",
+      "wanted": "4.3.0",
+      "latest": "7.0.0",
+      "dependent": "wrap-ansi",
+      "location": "node_modules/nyc/node_modules/ansi-styles",
+      "type": "dependencies",
+      "homepage": "https://github.com/chalk/ansi-styles#readme",
+      "dependedByLocation": "node_modules/nyc/node_modules/wrap-ansi"
+    },
+    {
+      "current": "6.2.3",
+      "wanted": "6.2.3",
+      "latest": "7.0.0",
+      "dependent": "wrap-ansi",
+      "location": "node_modules/ansi-styles",
+      "type": "dependencies",
+      "homepage": "https://github.com/chalk/ansi-styles#readme",
+      "dependedByLocation": "node_modules/wrap-ansi"
+    },
+    {
+      "current": "4.3.0",
+      "wanted": "4.3.0",
+      "latest": "7.0.0",
+      "dependent": "wrap-ansi",
+      "location": "node_modules/yargs/node_modules/ansi-styles",
+      "type": "dependencies",
+      "homepage": "https://github.com/chalk/ansi-styles#readme",
+      "dependedByLocation": "node_modules/yargs/node_modules/wrap-ansi"
+    },
+    {
+      "current": "4.3.0",
+      "wanted": "4.3.0",
+      "latest": "7.0.0",
+      "dependent": "wrap-ansi-cjs",
+      "location": "node_modules/wrap-ansi-cjs/node_modules/ansi-styles",
+      "type": "dependencies",
+      "homepage": "https://github.com/chalk/ansi-styles#readme",
+      "dependedByLocation": "node_modules/wrap-ansi-cjs"
+    }
+  ],
+  "argparse": [
+    {
+      "current": "1.0.10",
+      "wanted": "1.0.10",
+      "latest": "3.0.4",
+      "dependent": "js-yaml",
+      "location": "node_modules/@istanbuljs/load-nyc-config/node_modules/argparse",
+      "type": "dependencies",
+      "homepage": "https://github.com/nodeca/argparse#readme",
+      "dependedByLocation": "node_modules/@istanbuljs/load-nyc-config/node_modules/js-yaml"
+    },
+    {
+      "current": "2.0.1",
+      "wanted": "2.0.1",
+      "latest": "3.0.4",
+      "dependent": "js-yaml",
+      "location": "node_modules/argparse",
+      "type": "dependencies",
+      "homepage": "https://github.com/nodeca/argparse#readme",
+      "dependedByLocation": "node_modules/js-yaml"
+    }
+  ],
+  "balanced-match": [
+    {
+      "current": "4.0.4",
+      "wanted": "4.0.4",
+      "latest": "5.0.0",
+      "dependent": "brace-expansion",
+      "location": "node_modules/balanced-match",
+      "type": "dependencies",
+      "homepage": "https://github.com/juliangruber/balanced-match#readme",
+      "dependedByLocation": "node_modules/brace-expansion"
+    },
+    {
+      "current": "1.0.2",
+      "wanted": "1.0.2",
+      "latest": "5.0.0",
+      "dependent": "brace-expansion",
+      "location": "node_modules/editorconfig/node_modules/balanced-match",
+      "type": "dependencies",
+      "homepage": "https://github.com/juliangruber/balanced-match#readme",
+      "dependedByLocation": "node_modules/editorconfig/node_modules/brace-expansion"
+    },
+    {
+      "current": "1.0.2",
+      "wanted": "1.0.2",
+      "latest": "5.0.0",
+      "dependent": "brace-expansion",
+      "location": "node_modules/glob/node_modules/balanced-match",
+      "type": "dependencies",
+      "homepage": "https://github.com/juliangruber/balanced-match#readme",
+      "dependedByLocation": "node_modules/glob/node_modules/brace-expansion"
+    },
+    {
+      "current": "1.0.2",
+      "wanted": "1.0.2",
+      "latest": "5.0.0",
+      "dependent": "brace-expansion",
+      "location": "node_modules/mocha/node_modules/balanced-match",
+      "type": "dependencies",
+      "homepage": "https://github.com/juliangruber/balanced-match#readme",
+      "dependedByLocation": "node_modules/mocha/node_modules/brace-expansion"
+    }
+  ],
+  "baseline-browser-mapping": {
+    "current": "2.11.37",
+    "wanted": "2.11.39",
+    "latest": "2.11.39",
+    "dependent": "browserslist",
+    "location": "node_modules/baseline-browser-mapping",
+    "type": "dependencies",
+    "homepage": "https://github.com/web-platform-dx/baseline-browser-mapping#readme",
+    "dependedByLocation": "node_modules/browserslist"
+  },
+  "brace-expansion": [
+    {
+      "current": "5.0.13",
+      "wanted": "5.1.0",
+      "latest": "5.1.0",
+      "dependent": "minimatch",
+      "location": "node_modules/brace-expansion",
+      "type": "dependencies",
+      "homepage": "https://github.com/juliangruber/brace-expansion#readme",
+      "dependedByLocation": "node_modules/@eslint/config-array/node_modules/minimatch"
+    },
+    {
+      "current": "2.1.8",
+      "wanted": "2.1.8",
+      "latest": "5.1.0",
+      "dependent": "minimatch",
+      "location": "node_modules/editorconfig/node_modules/brace-expansion",
+      "type": "dependencies",
+      "homepage": "https://github.com/juliangruber/brace-expansion#readme",
+      "dependedByLocation": "node_modules/editorconfig/node_modules/minimatch"
+    },
+    {
+      "current": "5.0.13",
+      "wanted": "5.1.0",
+      "latest": "5.1.0",
+      "dependent": "minimatch",
+      "location": "node_modules/brace-expansion",
+      "type": "dependencies",
+      "homepage": "https://github.com/juliangruber/brace-expansion#readme",
+      "dependedByLocation": "node_modules/eslint/node_modules/minimatch"
+    },
+    {
+      "current": "2.1.8",
+      "wanted": "2.1.8",
+      "latest": "5.1.0",
+      "dependent": "minimatch",
+      "location": "node_modules/glob/node_modules/brace-expansion",
+      "type": "dependencies",
+      "homepage": "https://github.com/juliangruber/brace-expansion#readme",
+      "dependedByLocation": "node_modules/glob/node_modules/minimatch"
+    },
+    {
+      "current": "5.0.13",
+      "wanted": "5.1.0",
+      "latest": "5.1.0",
+      "dependent": "minimatch",
+      "location": "node_modules/brace-expansion",
+      "type": "dependencies",
+      "homepage": "https://github.com/juliangruber/brace-expansion#readme",
+      "dependedByLocation": "node_modules/minimatch"
+    },
+    {
+      "current": "2.1.8",
+      "wanted": "2.1.8",
+      "latest": "5.1.0",
+      "dependent": "minimatch",
+      "location": "node_modules/mocha/node_modules/brace-expansion",
+      "type": "dependencies",
+      "homepage": "https://github.com/juliangruber/brace-expansion#readme",
+      "dependedByLocation": "node_modules/mocha/node_modules/minimatch"
+    },
+    {
+      "current": "5.0.13",
+      "wanted": "5.1.0",
+      "latest": "5.1.0",
+      "dependent": "minimatch",
+      "location": "node_modules/brace-expansion",
+      "type": "dependencies",
+      "homepage": "https://github.com/juliangruber/brace-expansion#readme",
+      "dependedByLocation": "node_modules/rimraf/node_modules/minimatch"
+    }
+  ],
+  "browserslist": [
+    {
+      "current": "4.29.5",
+      "wanted": "4.29.6",
+      "latest": "4.29.6",
+      "dependent": "@babel/helper-compilation-targets",
+      "location": "node_modules/browserslist",
+      "type": "dependencies",
+      "homepage": "https://github.com/browserslist/browserslist#readme",
+      "dependedByLocation": "node_modules/@babel/helper-compilation-targets"
+    },
+    {
+      "current": "4.29.5",
+      "wanted": "4.29.6",
+      "latest": "4.29.6",
+      "dependent": "update-browserslist-db",
+      "location": "node_modules/browserslist",
+      "type": "peerDependencies",
+      "homepage": "https://github.com/browserslist/browserslist#readme",
+      "dependedByLocation": "node_modules/update-browserslist-db"
+    }
+  ],
+  "builtin-modules": {
+    "current": "3.3.0",
+    "wanted": "3.3.0",
+    "latest": "5.5.0",
+    "dependent": "eslint-plugin-sonarjs",
+    "location": "node_modules/builtin-modules",
+    "type": "dependencies",
+    "homepage": "https://github.com/sindresorhus/builtin-modules#readme",
+    "dependedByLocation": "node_modules/eslint-plugin-sonarjs"
+  },
+  "camelcase": [
+    {
+      "current": "5.3.1",
+      "wanted": "5.3.1",
+      "latest": "10.0.0",
+      "dependent": "@istanbuljs/load-nyc-config",
+      "location": "node_modules/camelcase",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/camelcase#readme",
+      "dependedByLocation": "node_modules/@istanbuljs/load-nyc-config"
+    },
+    {
+      "current": "5.3.1",
+      "wanted": "5.3.1",
+      "latest": "10.0.0",
+      "dependent": "yargs-parser",
+      "location": "node_modules/camelcase",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/camelcase#readme",
+      "dependedByLocation": "node_modules/nyc/node_modules/yargs-parser"
+    },
+    {
+      "current": "6.3.0",
+      "wanted": "6.3.0",
+      "latest": "10.0.0",
+      "dependent": "yargs-unparser",
+      "location": "node_modules/yargs-unparser/node_modules/camelcase",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/camelcase#readme",
+      "dependedByLocation": "node_modules/yargs-unparser"
+    }
+  ],
+  "caniuse-lite": {
+    "current": "1.0.30001826",
+    "wanted": "1.0.30001828",
+    "latest": "1.0.30001828",
+    "dependent": "browserslist",
+    "location": "node_modules/caniuse-lite",
+    "type": "dependencies",
+    "homepage": "https://github.com/browserslist/caniuse-lite#readme",
+    "dependedByLocation": "node_modules/browserslist"
+  },
+  "chalk": [
+    {
+      "current": "5.6.2",
+      "wanted": "5.6.2",
+      "latest": "6.0.1",
+      "dependent": "@stryker-mutator/core",
+      "location": "node_modules/@stryker-mutator/core/node_modules/chalk",
+      "type": "dependencies",
+      "homepage": "https://github.com/chalk/chalk#readme",
+      "dependedByLocation": "node_modules/@stryker-mutator/core"
+    },
+    {
+      "current": "4.1.2",
+      "wanted": "4.1.2",
+      "latest": "6.0.1",
+      "dependent": "log-symbols",
+      "location": "node_modules/log-symbols/node_modules/chalk",
+      "type": "dependencies",
+      "homepage": "https://github.com/chalk/chalk#readme",
+      "dependedByLocation": "node_modules/log-symbols"
+    }
+  ],
+  "chokidar": {
+    "current": "4.0.3",
+    "wanted": "4.0.3",
+    "latest": "6.0.0",
+    "dependent": "mocha",
+    "location": "node_modules/chokidar",
+    "type": "dependencies",
+    "homepage": "https://github.com/paulmillr/chokidar",
+    "dependedByLocation": "node_modules/mocha"
+  },
+  "clean-stack": {
+    "current": "2.2.0",
+    "wanted": "2.2.0",
+    "latest": "7.0.0",
+    "dependent": "aggregate-error",
+    "location": "node_modules/clean-stack",
+    "type": "dependencies",
+    "homepage": "https://github.com/sindresorhus/clean-stack#readme",
+    "dependedByLocation": "node_modules/aggregate-error"
+  },
+  "cliui": [
+    {
+      "current": "6.0.0",
+      "wanted": "6.0.0",
+      "latest": "9.0.1",
+      "dependent": "yargs",
+      "location": "node_modules/nyc/node_modules/cliui",
+      "type": "dependencies",
+      "homepage": "https://github.com/yargs/cliui#readme",
+      "dependedByLocation": "node_modules/nyc/node_modules/yargs"
+    },
+    {
+      "current": "8.0.1",
+      "wanted": "8.0.1",
+      "latest": "9.0.1",
+      "dependent": "yargs",
+      "location": "node_modules/yargs/node_modules/cliui",
+      "type": "dependencies",
+      "homepage": "https://github.com/yargs/cliui#readme",
+      "dependedByLocation": "node_modules/yargs"
+    }
+  ],
+  "color-convert": [
+    {
+      "current": "2.0.1",
+      "wanted": "2.0.1",
+      "latest": "3.1.3",
+      "dependent": "ansi-styles",
+      "location": "node_modules/color-convert",
+      "type": "dependencies",
+      "homepage": "https://github.com/Qix-/color-convert#readme",
+      "dependedByLocation": "node_modules/log-symbols/node_modules/ansi-styles"
+    },
+    {
+      "current": "2.0.1",
+      "wanted": "2.0.1",
+      "latest": "3.1.3",
+      "dependent": "ansi-styles",
+      "location": "node_modules/color-convert",
+      "type": "dependencies",
+      "homepage": "https://github.com/Qix-/color-convert#readme",
+      "dependedByLocation": "node_modules/nyc/node_modules/ansi-styles"
+    },
+    {
+      "current": "2.0.1",
+      "wanted": "2.0.1",
+      "latest": "3.1.3",
+      "dependent": "ansi-styles",
+      "location": "node_modules/color-convert",
+      "type": "dependencies",
+      "homepage": "https://github.com/Qix-/color-convert#readme",
+      "dependedByLocation": "node_modules/wrap-ansi-cjs/node_modules/ansi-styles"
+    },
+    {
+      "current": "2.0.1",
+      "wanted": "2.0.1",
+      "latest": "3.1.3",
+      "dependent": "ansi-styles",
+      "location": "node_modules/color-convert",
+      "type": "dependencies",
+      "homepage": "https://github.com/Qix-/color-convert#readme",
+      "dependedByLocation": "node_modules/yargs/node_modules/ansi-styles"
+    }
+  ],
+  "color-name": {
+    "current": "1.1.4",
+    "wanted": "1.1.4",
+    "latest": "2.1.1",
+    "dependent": "color-convert",
+    "location": "node_modules/color-name",
+    "type": "dependencies",
+    "homepage": "https://github.com/colorjs/color-name",
+    "dependedByLocation": "node_modules/color-convert"
+  },
+  "commander": [
+    {
+      "current": "11.1.0",
+      "wanted": "11.1.0",
+      "latest": "15.1.0",
+      "dependent": "@commander-js/extra-typings",
+      "location": "node_modules/cyclomatic-complexity/node_modules/commander",
+      "type": "peerDependencies",
+      "homepage": "https://github.com/tj/commander.js#readme",
+      "dependedByLocation": "node_modules/cyclomatic-complexity/node_modules/@commander-js/extra-typings"
+    },
+    {
+      "current": "14.0.3",
+      "wanted": "14.0.3",
+      "latest": "15.1.0",
+      "dependent": "@stryker-mutator/core",
+      "location": "node_modules/@stryker-mutator/core/node_modules/commander",
+      "type": "dependencies",
+      "homepage": "https://github.com/tj/commander.js#readme",
+      "dependedByLocation": "node_modules/@stryker-mutator/core"
+    },
+    {
+      "current": "11.1.0",
+      "wanted": "11.1.0",
+      "latest": "15.1.0",
+      "dependent": "cyclomatic-complexity",
+      "location": "node_modules/cyclomatic-complexity/node_modules/commander",
+      "type": "dependencies",
+      "homepage": "https://github.com/tj/commander.js#readme",
+      "dependedByLocation": "node_modules/cyclomatic-complexity"
+    },
+    {
+      "current": "7.2.0",
+      "wanted": "7.2.0",
+      "latest": "15.1.0",
+      "dependent": "d3-dsv",
+      "location": "node_modules/d3-dsv/node_modules/commander",
+      "type": "dependencies",
+      "homepage": "https://github.com/tj/commander.js#readme",
+      "dependedByLocation": "node_modules/d3-dsv"
+    },
+    {
+      "current": "10.0.1",
+      "wanted": "10.0.1",
+      "latest": "15.1.0",
+      "dependent": "editorconfig",
+      "location": "node_modules/editorconfig/node_modules/commander",
+      "type": "dependencies",
+      "homepage": "https://github.com/tj/commander.js#readme",
+      "dependedByLocation": "node_modules/editorconfig"
+    }
+  ],
+  "convert-source-map": {
+    "current": "1.9.0",
+    "wanted": "1.9.0",
+    "latest": "2.0.0",
+    "dependent": "nyc",
+    "location": "node_modules/nyc/node_modules/convert-source-map",
+    "type": "dependencies",
+    "homepage": "https://github.com/thlorenz/convert-source-map",
+    "dependedByLocation": "node_modules/nyc"
+  },
+  "decamelize": [
+    {
+      "current": "1.2.0",
+      "wanted": "1.2.0",
+      "latest": "7.0.0",
+      "dependent": "nyc",
+      "location": "node_modules/decamelize",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/decamelize#readme",
+      "dependedByLocation": "node_modules/nyc"
+    },
+    {
+      "current": "1.2.0",
+      "wanted": "1.2.0",
+      "latest": "7.0.0",
+      "dependent": "yargs",
+      "location": "node_modules/decamelize",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/decamelize#readme",
+      "dependedByLocation": "node_modules/nyc/node_modules/yargs"
+    },
+    {
+      "current": "1.2.0",
+      "wanted": "1.2.0",
+      "latest": "7.0.0",
+      "dependent": "yargs-parser",
+      "location": "node_modules/decamelize",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/decamelize#readme",
+      "dependedByLocation": "node_modules/nyc/node_modules/yargs-parser"
+    },
+    {
+      "current": "4.0.0",
+      "wanted": "4.0.0",
+      "latest": "7.0.0",
+      "dependent": "yargs-unparser",
+      "location": "node_modules/yargs-unparser/node_modules/decamelize",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/decamelize#readme",
+      "dependedByLocation": "node_modules/yargs-unparser"
+    }
+  ],
+  "diff": {
+    "current": "7.0.0",
+    "wanted": "7.0.0",
+    "latest": "9.0.0",
+    "dependent": "mocha",
+    "location": "node_modules/diff",
+    "type": "dependencies",
+    "dependedByLocation": "node_modules/mocha"
+  },
+  "eastasianwidth": {
+    "current": "0.2.0",
+    "wanted": "0.2.0",
+    "latest": "0.3.0",
+    "dependent": "string-width",
+    "location": "node_modules/eastasianwidth",
+    "type": "dependencies",
+    "homepage": "https://github.com/komagata/eastasianwidth#readme",
+    "dependedByLocation": "node_modules/@isaacs/cliui/node_modules/string-width"
+  },
+  "editorconfig": {
+    "current": "1.0.7",
+    "wanted": "1.0.7",
+    "latest": "4.0.1",
+    "dependent": "js-beautify",
+    "location": "node_modules/editorconfig",
+    "type": "dependencies",
+    "homepage": "https://github.com/editorconfig/editorconfig-core-js#readme",
+    "dependedByLocation": "node_modules/js-beautify"
+  },
+  "electron-to-chromium": {
+    "current": "1.5.486",
+    "wanted": "1.5.493",
+    "latest": "1.5.493",
+    "dependent": "browserslist",
+    "location": "node_modules/electron-to-chromium",
+    "type": "dependencies",
+    "homepage": "https://github.com/Kilian/electron-to-chromium#readme",
+    "dependedByLocation": "node_modules/browserslist"
+  },
+  "emoji-regex": [
+    {
+      "current": "10.6.0",
+      "wanted": "10.6.0",
+      "latest": "11.0.0",
+      "dependent": "@stryker-mutator/core",
+      "location": "node_modules/emoji-regex",
+      "type": "dependencies",
+      "homepage": "https://mths.be/emoji-regex",
+      "dependedByLocation": "node_modules/@stryker-mutator/core"
+    },
+    {
+      "current": "9.2.2",
+      "wanted": "9.2.2",
+      "latest": "11.0.0",
+      "dependent": "string-width",
+      "location": "node_modules/@isaacs/cliui/node_modules/emoji-regex",
+      "type": "dependencies",
+      "homepage": "https://mths.be/emoji-regex",
+      "dependedByLocation": "node_modules/@isaacs/cliui/node_modules/string-width"
+    },
+    {
+      "current": "8.0.0",
+      "wanted": "8.0.0",
+      "latest": "11.0.0",
+      "dependent": "string-width",
+      "location": "node_modules/nyc/node_modules/emoji-regex",
+      "type": "dependencies",
+      "homepage": "https://mths.be/emoji-regex",
+      "dependedByLocation": "node_modules/nyc/node_modules/string-width"
+    },
+    {
+      "current": "10.6.0",
+      "wanted": "10.6.0",
+      "latest": "11.0.0",
+      "dependent": "string-width",
+      "location": "node_modules/emoji-regex",
+      "type": "dependencies",
+      "homepage": "https://mths.be/emoji-regex",
+      "dependedByLocation": "node_modules/string-width"
+    },
+    {
+      "current": "8.0.0",
+      "wanted": "8.0.0",
+      "latest": "11.0.0",
+      "dependent": "string-width",
+      "location": "node_modules/wrap-ansi-cjs/node_modules/emoji-regex",
+      "type": "dependencies",
+      "homepage": "https://mths.be/emoji-regex",
+      "dependedByLocation": "node_modules/wrap-ansi-cjs/node_modules/string-width"
+    },
+    {
+      "current": "8.0.0",
+      "wanted": "8.0.0",
+      "latest": "11.0.0",
+      "dependent": "string-width",
+      "location": "node_modules/yargs/node_modules/emoji-regex",
+      "type": "dependencies",
+      "homepage": "https://mths.be/emoji-regex",
+      "dependedByLocation": "node_modules/yargs/node_modules/string-width"
+    },
+    {
+      "current": "8.0.0",
+      "wanted": "8.0.0",
+      "latest": "11.0.0",
+      "dependent": "string-width-cjs",
+      "location": "node_modules/string-width-cjs/node_modules/emoji-regex",
+      "type": "dependencies",
+      "homepage": "https://mths.be/emoji-regex",
+      "dependedByLocation": "node_modules/string-width-cjs"
+    }
+  ],
+  "esbuild": {
+    "current": "0.21.5",
+    "wanted": "0.21.5",
+    "latest": "0.28.2",
+    "dependent": "vite",
+    "location": "node_modules/esbuild",
+    "type": "dependencies",
+    "homepage": "https://github.com/evanw/esbuild#readme",
+    "dependedByLocation": "node_modules/vite"
+  },
+  "escape-string-regexp": [
+    {
+      "current": "4.0.0",
+      "wanted": "4.0.0",
+      "latest": "5.0.0",
+      "dependent": "eslint",
+      "location": "node_modules/escape-string-regexp",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/escape-string-regexp#readme",
+      "dependedByLocation": "node_modules/eslint"
+    },
+    {
+      "current": "4.0.0",
+      "wanted": "4.0.0",
+      "latest": "5.0.0",
+      "dependent": "mocha",
+      "location": "node_modules/escape-string-regexp",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/escape-string-regexp#readme",
+      "dependedByLocation": "node_modules/mocha"
+    }
+  ],
+  "eslint-visitor-keys": [
+    {
+      "current": "3.4.3",
+      "wanted": "3.4.3",
+      "latest": "5.0.1",
+      "dependent": "@eslint-community/eslint-utils",
+      "location": "node_modules/@eslint-community/eslint-utils/node_modules/eslint-visitor-keys",
+      "type": "dependencies",
+      "homepage": "https://github.com/eslint/js/blob/main/packages/eslint-visitor-keys/README.md",
+      "dependedByLocation": "node_modules/@eslint-community/eslint-utils"
+    },
+    {
+      "current": "4.2.1",
+      "wanted": "4.2.1",
+      "latest": "5.0.1",
+      "dependent": "espree",
+      "location": "node_modules/espree/node_modules/eslint-visitor-keys",
+      "type": "dependencies",
+      "homepage": "https://github.com/eslint/js/blob/main/packages/eslint-visitor-keys/README.md",
+      "dependedByLocation": "node_modules/espree"
+    }
+  ],
+  "espree": {
+    "current": "10.4.0",
+    "wanted": "10.4.0",
+    "latest": "11.2.0",
+    "dependent": "jscrossfix",
+    "location": "node_modules/espree",
+    "type": "devDependencies",
+    "homepage": "https://github.com/eslint/js/blob/main/packages/espree/README.md",
+    "dependedByLocation": ""
+  },
+  "execa": {
+    "current": "9.6.1",
+    "wanted": "9.6.1",
+    "latest": "10.2.1",
+    "dependent": "@stryker-mutator/core",
+    "location": "node_modules/execa",
+    "type": "dependencies",
+    "homepage": "https://github.com/sindresorhus/execa#readme",
+    "dependedByLocation": "node_modules/@stryker-mutator/core"
+  },
+  "fast-levenshtein": {
+    "current": "2.0.6",
+    "wanted": "2.0.6",
+    "latest": "3.0.0",
+    "dependent": "optionator",
+    "location": "node_modules/fast-levenshtein",
+    "type": "dependencies",
+    "homepage": "https://github.com/hiddentao/fast-levenshtein#readme",
+    "dependedByLocation": "node_modules/optionator"
+  },
+  "fast-uri": {
+    "current": "3.1.9",
+    "wanted": "3.1.9",
+    "latest": "4.2.3",
+    "dependent": "ajv",
+    "location": "node_modules/fast-uri",
+    "type": "dependencies",
+    "homepage": "https://github.com/fastify/fast-uri",
+    "dependedByLocation": "node_modules/ajv"
+  },
+  "find-cache-dir": {
+    "current": "3.3.2",
+    "wanted": "3.3.2",
+    "latest": "5.0.0",
+    "dependent": "nyc",
+    "location": "node_modules/find-cache-dir",
+    "type": "dependencies",
+    "homepage": "https://github.com/sindresorhus/find-cache-dir#readme",
+    "dependedByLocation": "node_modules/nyc"
+  },
+  "find-up": [
+    {
+      "current": "4.1.0",
+      "wanted": "4.1.0",
+      "latest": "8.0.0",
+      "dependent": "@istanbuljs/load-nyc-config",
+      "location": "node_modules/@istanbuljs/load-nyc-config/node_modules/find-up",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/find-up#readme",
+      "dependedByLocation": "node_modules/@istanbuljs/load-nyc-config"
+    },
+    {
+      "current": "5.0.0",
+      "wanted": "5.0.0",
+      "latest": "8.0.0",
+      "dependent": "eslint",
+      "location": "node_modules/find-up",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/find-up#readme",
+      "dependedByLocation": "node_modules/eslint"
+    },
+    {
+      "current": "5.0.0",
+      "wanted": "5.0.0",
+      "latest": "8.0.0",
+      "dependent": "mocha",
+      "location": "node_modules/find-up",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/find-up#readme",
+      "dependedByLocation": "node_modules/mocha"
+    },
+    {
+      "current": "4.1.0",
+      "wanted": "4.1.0",
+      "latest": "8.0.0",
+      "dependent": "nyc",
+      "location": "node_modules/nyc/node_modules/find-up",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/find-up#readme",
+      "dependedByLocation": "node_modules/nyc"
+    },
+    {
+      "current": "4.1.0",
+      "wanted": "4.1.0",
+      "latest": "8.0.0",
+      "dependent": "pkg-dir",
+      "location": "node_modules/pkg-dir/node_modules/find-up",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/find-up#readme",
+      "dependedByLocation": "node_modules/pkg-dir"
+    },
+    {
+      "current": "4.1.0",
+      "wanted": "4.1.0",
+      "latest": "8.0.0",
+      "dependent": "yargs",
+      "location": "node_modules/nyc/node_modules/find-up",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/find-up#readme",
+      "dependedByLocation": "node_modules/nyc/node_modules/yargs"
+    }
+  ],
+  "flat": {
+    "current": "5.0.2",
+    "wanted": "5.0.2",
+    "latest": "6.0.1",
+    "dependent": "yargs-unparser",
+    "location": "node_modules/flat",
+    "type": "dependencies",
+    "homepage": "https://github.com/hughsk/flat",
+    "dependedByLocation": "node_modules/yargs-unparser"
+  },
+  "foreground-child": [
+    {
+      "current": "3.3.1",
+      "wanted": "3.3.1",
+      "latest": "4.0.3",
+      "dependent": "glob",
+      "location": "node_modules/foreground-child",
+      "type": "dependencies",
+      "homepage": "https://github.com/tapjs/foreground-child#readme",
+      "dependedByLocation": "node_modules/glob"
+    },
+    {
+      "current": "3.3.1",
+      "wanted": "3.3.1",
+      "latest": "4.0.3",
+      "dependent": "nyc",
+      "location": "node_modules/foreground-child",
+      "type": "dependencies",
+      "homepage": "https://github.com/tapjs/foreground-child#readme",
+      "dependedByLocation": "node_modules/nyc"
+    },
+    {
+      "current": "2.0.0",
+      "wanted": "2.0.0",
+      "latest": "4.0.3",
+      "dependent": "spawn-wrap",
+      "location": "node_modules/spawn-wrap/node_modules/foreground-child",
+      "type": "dependencies",
+      "homepage": "https://github.com/tapjs/foreground-child#readme",
+      "dependedByLocation": "node_modules/spawn-wrap"
+    }
+  ],
+  "formatly": {
+    "current": "0.11.4",
+    "wanted": "0.11.4",
+    "latest": "0.12.3",
+    "dependent": "knip",
+    "location": "node_modules/formatly",
+    "type": "dependencies",
+    "homepage": "https://github.com/JoshuaKGoldberg/formatly#readme",
+    "dependedByLocation": "node_modules/knip"
+  },
+  "fsevents": [
+    {
+      "wanted": "2.3.3",
+      "latest": "2.3.3",
+      "dependent": "rollup",
+      "type": "optionalDependencies",
+      "homepage": "https://github.com/fsevents/fsevents",
+      "dependedByLocation": "node_modules/rollup"
+    },
+    {
+      "wanted": "2.3.3",
+      "latest": "2.3.3",
+      "dependent": "vite",
+      "type": "optionalDependencies",
+      "homepage": "https://github.com/fsevents/fsevents",
+      "dependedByLocation": "node_modules/vite"
+    }
+  ],
+  "glob": [
+    {
+      "current": "10.5.0",
+      "wanted": "10.5.0",
+      "latest": "14.0.6",
+      "dependent": "cyclomatic-complexity",
+      "location": "node_modules/glob",
+      "type": "dependencies",
+      "homepage": "https://github.com/isaacs/node-glob#readme",
+      "dependedByLocation": "node_modules/cyclomatic-complexity"
+    },
+    {
+      "current": "10.5.0",
+      "wanted": "10.5.0",
+      "latest": "14.0.6",
+      "dependent": "js-beautify",
+      "location": "node_modules/glob",
+      "type": "dependencies",
+      "homepage": "https://github.com/isaacs/node-glob#readme",
+      "dependedByLocation": "node_modules/js-beautify"
+    },
+    {
+      "current": "10.5.0",
+      "wanted": "10.5.0",
+      "latest": "14.0.6",
+      "dependent": "mocha",
+      "location": "node_modules/glob",
+      "type": "dependencies",
+      "homepage": "https://github.com/isaacs/node-glob#readme",
+      "dependedByLocation": "node_modules/mocha"
+    },
+    {
+      "current": "13.0.7",
+      "wanted": "13.0.7",
+      "latest": "14.0.6",
+      "dependent": "nyc",
+      "location": "node_modules/nyc/node_modules/glob",
+      "type": "dependencies",
+      "homepage": "https://github.com/isaacs/node-glob#readme",
+      "dependedByLocation": "node_modules/nyc"
+    },
+    {
+      "current": "13.0.7",
+      "wanted": "13.0.7",
+      "latest": "14.0.6",
+      "dependent": "test-exclude",
+      "location": "node_modules/test-exclude/node_modules/glob",
+      "type": "dependencies",
+      "homepage": "https://github.com/isaacs/node-glob#readme",
+      "dependedByLocation": "node_modules/test-exclude"
+    }
+  ],
+  "glob-parent": {
+    "current": "6.0.2",
+    "wanted": "6.0.2",
+    "latest": "7.0.0",
+    "dependent": "eslint",
+    "location": "node_modules/glob-parent",
+    "type": "dependencies",
+    "homepage": "https://github.com/gulpjs/glob-parent#readme",
+    "dependedByLocation": "node_modules/eslint"
+  },
+  "has-flag": [
+    {
+      "current": "4.0.0",
+      "wanted": "4.0.0",
+      "latest": "5.0.1",
+      "dependent": "supports-color",
+      "location": "node_modules/has-flag",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/has-flag#readme",
+      "dependedByLocation": "node_modules/istanbul-lib-report/node_modules/supports-color"
+    },
+    {
+      "current": "4.0.0",
+      "wanted": "4.0.0",
+      "latest": "5.0.1",
+      "dependent": "supports-color",
+      "location": "node_modules/has-flag",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/has-flag#readme",
+      "dependedByLocation": "node_modules/log-symbols/node_modules/supports-color"
+    },
+    {
+      "current": "4.0.0",
+      "wanted": "4.0.0",
+      "latest": "5.0.1",
+      "dependent": "supports-color",
+      "location": "node_modules/has-flag",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/has-flag#readme",
+      "dependedByLocation": "node_modules/supports-color"
+    }
+  ],
+  "hasha": [
+    {
+      "current": "5.2.2",
+      "wanted": "5.2.2",
+      "latest": "7.0.0",
+      "dependent": "caching-transform",
+      "location": "node_modules/hasha",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/hasha#readme",
+      "dependedByLocation": "node_modules/caching-transform"
+    },
+    {
+      "current": "5.2.2",
+      "wanted": "5.2.2",
+      "latest": "7.0.0",
+      "dependent": "package-hash",
+      "location": "node_modules/hasha",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/hasha#readme",
+      "dependedByLocation": "node_modules/package-hash"
+    }
+  ],
+  "hashery": [
+    {
+      "current": "1.5.1",
+      "wanted": "1.5.1",
+      "latest": "3.0.6",
+      "dependent": "@cacheable/utils",
+      "location": "node_modules/hashery",
+      "type": "dependencies",
+      "dependedByLocation": "node_modules/@cacheable/utils"
+    },
+    {
+      "current": "1.5.1",
+      "wanted": "1.5.1",
+      "latest": "3.0.6",
+      "dependent": "@keyv/bigmap",
+      "location": "node_modules/hashery",
+      "type": "dependencies",
+      "dependedByLocation": "node_modules/@keyv/bigmap"
+    }
+  ],
+  "he": {
+    "current": "1.2.0",
+    "wanted": "1.2.0",
+    "latest": "2.0.0",
+    "dependent": "mocha",
+    "location": "node_modules/he",
+    "type": "dependencies",
+    "homepage": "https://mths.be/he",
+    "dependedByLocation": "node_modules/mocha"
+  },
+  "hookified": [
+    {
+      "current": "1.15.1",
+      "wanted": "1.15.1",
+      "latest": "3.2.0",
+      "dependent": "@cacheable/memory",
+      "location": "node_modules/hookified",
+      "type": "dependencies",
+      "homepage": "https://github.com/jaredwray/hookified#readme",
+      "dependedByLocation": "node_modules/@cacheable/memory"
+    },
+    {
+      "current": "1.15.1",
+      "wanted": "1.15.1",
+      "latest": "3.2.0",
+      "dependent": "@keyv/bigmap",
+      "location": "node_modules/hookified",
+      "type": "dependencies",
+      "homepage": "https://github.com/jaredwray/hookified#readme",
+      "dependedByLocation": "node_modules/@keyv/bigmap"
+    },
+    {
+      "current": "1.15.1",
+      "wanted": "1.15.1",
+      "latest": "3.2.0",
+      "dependent": "cacheable",
+      "location": "node_modules/hookified",
+      "type": "dependencies",
+      "homepage": "https://github.com/jaredwray/hookified#readme",
+      "dependedByLocation": "node_modules/cacheable"
+    },
+    {
+      "current": "1.15.1",
+      "wanted": "1.15.1",
+      "latest": "3.2.0",
+      "dependent": "flat-cache",
+      "location": "node_modules/hookified",
+      "type": "dependencies",
+      "homepage": "https://github.com/jaredwray/hookified#readme",
+      "dependedByLocation": "node_modules/flat-cache"
+    },
+    {
+      "current": "1.15.1",
+      "wanted": "1.15.1",
+      "latest": "3.2.0",
+      "dependent": "hashery",
+      "location": "node_modules/hookified",
+      "type": "dependencies",
+      "homepage": "https://github.com/jaredwray/hookified#readme",
+      "dependedByLocation": "node_modules/hashery"
+    },
+    {
+      "current": "2.2.0",
+      "wanted": "2.2.0",
+      "latest": "3.2.0",
+      "dependent": "qified",
+      "location": "node_modules/qified/node_modules/hookified",
+      "type": "dependencies",
+      "homepage": "https://github.com/jaredwray/hookified#readme",
+      "dependedByLocation": "node_modules/qified"
+    }
+  ],
+  "html-escaper": {
+    "current": "2.0.2",
+    "wanted": "2.0.2",
+    "latest": "3.0.3",
+    "dependent": "istanbul-reports",
+    "location": "node_modules/html-escaper",
+    "type": "dependencies",
+    "homepage": "https://github.com/WebReflection/html-escaper",
+    "dependedByLocation": "node_modules/istanbul-reports"
+  },
+  "iconv-lite": {
+    "current": "0.6.3",
+    "wanted": "0.6.3",
+    "latest": "0.7.3",
+    "dependent": "d3-dsv",
+    "location": "node_modules/d3-dsv/node_modules/iconv-lite",
+    "type": "dependencies",
+    "homepage": "https://github.com/pillarjs/iconv-lite",
+    "dependedByLocation": "node_modules/d3-dsv"
+  },
+  "ignore": {
+    "current": "5.3.2",
+    "wanted": "5.3.2",
+    "latest": "7.0.16",
+    "dependent": "eslint",
+    "location": "node_modules/ignore",
+    "type": "dependencies",
+    "homepage": "https://github.com/kaelzhang/node-ignore#readme",
+    "dependedByLocation": "node_modules/eslint"
+  },
+  "indent-string": {
+    "current": "4.0.0",
+    "wanted": "4.0.0",
+    "latest": "6.0.0",
+    "dependent": "aggregate-error",
+    "location": "node_modules/indent-string",
+    "type": "dependencies",
+    "homepage": "https://github.com/sindresorhus/indent-string#readme",
+    "dependedByLocation": "node_modules/aggregate-error"
+  },
+  "ini": {
+    "current": "1.3.8",
+    "wanted": "1.3.8",
+    "latest": "7.0.0",
+    "dependent": "config-chain",
+    "location": "node_modules/ini",
+    "type": "dependencies",
+    "homepage": "https://github.com/npm/ini#readme",
+    "dependedByLocation": "node_modules/config-chain"
+  },
+  "is-docker": {
+    "current": "3.0.0",
+    "wanted": "3.0.0",
+    "latest": "4.0.0",
+    "dependent": "is-inside-container",
+    "location": "node_modules/is-docker",
+    "type": "dependencies",
+    "homepage": "https://github.com/sindresorhus/is-docker#readme",
+    "dependedByLocation": "node_modules/is-inside-container"
+  },
+  "is-fullwidth-code-point": [
+    {
+      "current": "3.0.0",
+      "wanted": "3.0.0",
+      "latest": "5.1.0",
+      "dependent": "string-width",
+      "location": "node_modules/is-fullwidth-code-point",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/is-fullwidth-code-point#readme",
+      "dependedByLocation": "node_modules/nyc/node_modules/string-width"
+    },
+    {
+      "current": "3.0.0",
+      "wanted": "3.0.0",
+      "latest": "5.1.0",
+      "dependent": "string-width",
+      "location": "node_modules/is-fullwidth-code-point",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/is-fullwidth-code-point#readme",
+      "dependedByLocation": "node_modules/wrap-ansi-cjs/node_modules/string-width"
+    },
+    {
+      "current": "3.0.0",
+      "wanted": "3.0.0",
+      "latest": "5.1.0",
+      "dependent": "string-width",
+      "location": "node_modules/is-fullwidth-code-point",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/is-fullwidth-code-point#readme",
+      "dependedByLocation": "node_modules/yargs/node_modules/string-width"
+    },
+    {
+      "current": "3.0.0",
+      "wanted": "3.0.0",
+      "latest": "5.1.0",
+      "dependent": "string-width-cjs",
+      "location": "node_modules/is-fullwidth-code-point",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/is-fullwidth-code-point#readme",
+      "dependedByLocation": "node_modules/string-width-cjs"
+    }
+  ],
+  "is-path-inside": {
+    "current": "3.0.3",
+    "wanted": "3.0.3",
+    "latest": "4.0.0",
+    "dependent": "mocha",
+    "location": "node_modules/is-path-inside",
+    "type": "dependencies",
+    "homepage": "https://github.com/sindresorhus/is-path-inside#readme",
+    "dependedByLocation": "node_modules/mocha"
+  },
+  "is-plain-obj": {
+    "current": "2.1.0",
+    "wanted": "2.1.0",
+    "latest": "4.1.0",
+    "dependent": "yargs-unparser",
+    "location": "node_modules/yargs-unparser/node_modules/is-plain-obj",
+    "type": "dependencies",
+    "homepage": "https://github.com/sindresorhus/is-plain-obj#readme",
+    "dependedByLocation": "node_modules/yargs-unparser"
+  },
+  "is-stream": {
+    "current": "2.0.1",
+    "wanted": "2.0.1",
+    "latest": "4.0.1",
+    "dependent": "hasha",
+    "location": "node_modules/hasha/node_modules/is-stream",
+    "type": "dependencies",
+    "homepage": "https://github.com/sindresorhus/is-stream#readme",
+    "dependedByLocation": "node_modules/hasha"
+  },
+  "is-unicode-supported": {
+    "current": "0.1.0",
+    "wanted": "0.1.0",
+    "latest": "2.1.0",
+    "dependent": "log-symbols",
+    "location": "node_modules/log-symbols/node_modules/is-unicode-supported",
+    "type": "dependencies",
+    "homepage": "https://github.com/sindresorhus/is-unicode-supported#readme",
+    "dependedByLocation": "node_modules/log-symbols"
+  },
+  "isexe": {
+    "current": "2.0.0",
+    "wanted": "2.0.0",
+    "latest": "4.0.0",
+    "dependent": "which",
+    "location": "node_modules/isexe",
+    "type": "dependencies",
+    "homepage": "https://github.com/isaacs/isexe#readme",
+    "dependedByLocation": "node_modules/which"
+  },
+  "istanbul-lib-source-maps": {
+    "current": "4.0.1",
+    "wanted": "4.0.1",
+    "latest": "5.0.6",
+    "dependent": "nyc",
+    "location": "node_modules/istanbul-lib-source-maps",
+    "type": "dependencies",
+    "homepage": "https://istanbul.js.org/",
+    "dependedByLocation": "node_modules/nyc"
+  },
+  "jackspeak": {
+    "current": "3.4.3",
+    "wanted": "3.4.3",
+    "latest": "4.2.3",
+    "dependent": "glob",
+    "location": "node_modules/jackspeak",
+    "type": "dependencies",
+    "homepage": "https://github.com/isaacs/jackspeak#readme",
+    "dependedByLocation": "node_modules/glob"
+  },
+  "js-beautify": {
+    "current": "1.15.4",
+    "wanted": "1.15.4",
+    "latest": "2.0.3",
+    "dependent": "cognitive-complexity-ts",
+    "location": "node_modules/js-beautify",
+    "type": "dependencies",
+    "homepage": "https://beautifier.io/",
+    "dependedByLocation": "node_modules/cognitive-complexity-ts"
+  },
+  "js-md4": {
+    "current": "0.3.2",
+    "wanted": "0.3.2",
+    "latest": "0.5.0",
+    "dependent": "typed-rest-client",
+    "location": "node_modules/js-md4",
+    "type": "dependencies",
+    "homepage": "https://github.com/emn178/js-md4",
+    "dependedByLocation": "node_modules/typed-rest-client"
+  },
+  "js-tokens": {
+    "current": "4.0.0",
+    "wanted": "4.0.0",
+    "latest": "10.0.1",
+    "dependent": "@babel/code-frame",
+    "location": "node_modules/js-tokens",
+    "type": "dependencies",
+    "homepage": "https://github.com/lydell/js-tokens#readme",
+    "dependedByLocation": "node_modules/@babel/code-frame"
+  },
+  "js-yaml": [
+    {
+      "current": "3.15.2",
+      "wanted": "3.15.2",
+      "latest": "5.5.0",
+      "dependent": "@istanbuljs/load-nyc-config",
+      "location": "node_modules/@istanbuljs/load-nyc-config/node_modules/js-yaml",
+      "type": "dependencies",
+      "homepage": "https://github.com/nodeca/js-yaml#readme",
+      "dependedByLocation": "node_modules/@istanbuljs/load-nyc-config"
+    },
+    {
+      "current": "4.3.2",
+      "wanted": "4.3.2",
+      "latest": "5.5.0",
+      "dependent": "mocha",
+      "location": "node_modules/js-yaml",
+      "type": "dependencies",
+      "homepage": "https://github.com/nodeca/js-yaml#readme",
+      "dependedByLocation": "node_modules/mocha"
+    }
+  ],
+  "jscpd-darwin-arm64": {
+    "wanted": "5.4.3",
+    "latest": "5.4.3",
+    "dependent": "jscpd",
+    "type": "optionalDependencies",
+    "homepage": "https://github.com/kucherenko/jscpd#readme",
+    "dependedByLocation": "node_modules/jscpd"
+  },
+  "jscpd-darwin-x64": {
+    "wanted": "5.4.3",
+    "latest": "5.4.3",
+    "dependent": "jscpd",
+    "type": "optionalDependencies",
+    "homepage": "https://github.com/kucherenko/jscpd#readme",
+    "dependedByLocation": "node_modules/jscpd"
+  },
+  "jscpd-linux-arm64-gnu": {
+    "wanted": "5.4.3",
+    "latest": "5.4.3",
+    "dependent": "jscpd",
+    "type": "optionalDependencies",
+    "homepage": "https://github.com/kucherenko/jscpd#readme",
+    "dependedByLocation": "node_modules/jscpd"
+  },
+  "jscpd-linux-arm64-musl": {
+    "wanted": "5.4.3",
+    "latest": "5.4.3",
+    "dependent": "jscpd",
+    "type": "optionalDependencies",
+    "homepage": "https://github.com/kucherenko/jscpd#readme",
+    "dependedByLocation": "node_modules/jscpd"
+  },
+  "jscpd-linux-x64-gnu": {
+    "wanted": "5.4.3",
+    "latest": "5.4.3",
+    "dependent": "jscpd",
+    "type": "optionalDependencies",
+    "homepage": "https://github.com/kucherenko/jscpd#readme",
+    "dependedByLocation": "node_modules/jscpd"
+  },
+  "jscpd-linux-x64-musl": {
+    "wanted": "5.4.3",
+    "latest": "5.4.3",
+    "dependent": "jscpd",
+    "type": "optionalDependencies",
+    "homepage": "https://github.com/kucherenko/jscpd#readme",
+    "dependedByLocation": "node_modules/jscpd"
+  },
+  "jscpd-windows-arm64-msvc": {
+    "wanted": "5.4.3",
+    "latest": "5.4.3",
+    "dependent": "jscpd",
+    "type": "optionalDependencies",
+    "homepage": "https://github.com/kucherenko/jscpd#readme",
+    "dependedByLocation": "node_modules/jscpd"
+  },
+  "json-schema-traverse": {
+    "current": "0.4.1",
+    "wanted": "0.4.1",
+    "latest": "1.0.0",
+    "dependent": "ajv",
+    "location": "node_modules/eslint/node_modules/json-schema-traverse",
+    "type": "dependencies",
+    "homepage": "https://github.com/epoberezkin/json-schema-traverse#readme",
+    "dependedByLocation": "node_modules/eslint/node_modules/ajv"
+  },
+  "keyv": [
+    {
+      "current": "5.6.0",
+      "wanted": "5.6.0",
+      "latest": "6.1.0",
+      "dependent": "@cacheable/memory",
+      "location": "node_modules/keyv",
+      "type": "dependencies",
+      "homepage": "https://github.com/jaredwray/keyv",
+      "dependedByLocation": "node_modules/@cacheable/memory"
+    },
+    {
+      "current": "5.6.0",
+      "wanted": "5.6.0",
+      "latest": "6.1.0",
+      "dependent": "@cacheable/utils",
+      "location": "node_modules/keyv",
+      "type": "dependencies",
+      "homepage": "https://github.com/jaredwray/keyv",
+      "dependedByLocation": "node_modules/@cacheable/utils"
+    },
+    {
+      "current": "5.6.0",
+      "wanted": "5.6.0",
+      "latest": "6.1.0",
+      "dependent": "@keyv/bigmap",
+      "location": "node_modules/keyv",
+      "type": "peerDependencies",
+      "homepage": "https://github.com/jaredwray/keyv",
+      "dependedByLocation": "node_modules/@keyv/bigmap"
+    },
+    {
+      "current": "5.6.0",
+      "wanted": "5.6.0",
+      "latest": "6.1.0",
+      "dependent": "cacheable",
+      "location": "node_modules/keyv",
+      "type": "dependencies",
+      "homepage": "https://github.com/jaredwray/keyv",
+      "dependedByLocation": "node_modules/cacheable"
+    }
+  ],
+  "knip": {
+    "current": "6.45.1",
+    "wanted": "6.48.0",
+    "latest": "6.48.0",
+    "dependent": "jscrossfix",
+    "location": "node_modules/knip",
+    "type": "devDependencies",
+    "homepage": "https://knip.dev",
+    "dependedByLocation": ""
+  },
+  "less": {
+    "wanted": "4.9.1",
+    "latest": "4.9.1",
+    "dependent": "vite",
+    "type": "optionalDependencies",
+    "homepage": "http://lesscss.org",
+    "dependedByLocation": "node_modules/vite"
+  },
+  "lightningcss": {
+    "wanted": "1.33.0",
+    "latest": "1.33.0",
+    "dependent": "vite",
+    "type": "optionalDependencies",
+    "homepage": "https://github.com/parcel-bundler/lightningcss#readme",
+    "dependedByLocation": "node_modules/vite"
+  },
+  "locate-path": [
+    {
+      "current": "5.0.0",
+      "wanted": "5.0.0",
+      "latest": "8.0.0",
+      "dependent": "find-up",
+      "location": "node_modules/@istanbuljs/load-nyc-config/node_modules/locate-path",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/locate-path#readme",
+      "dependedByLocation": "node_modules/@istanbuljs/load-nyc-config/node_modules/find-up"
+    },
+    {
+      "current": "6.0.0",
+      "wanted": "6.0.0",
+      "latest": "8.0.0",
+      "dependent": "find-up",
+      "location": "node_modules/locate-path",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/locate-path#readme",
+      "dependedByLocation": "node_modules/find-up"
+    },
+    {
+      "current": "5.0.0",
+      "wanted": "5.0.0",
+      "latest": "8.0.0",
+      "dependent": "find-up",
+      "location": "node_modules/nyc/node_modules/locate-path",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/locate-path#readme",
+      "dependedByLocation": "node_modules/nyc/node_modules/find-up"
+    },
+    {
+      "current": "5.0.0",
+      "wanted": "5.0.0",
+      "latest": "8.0.0",
+      "dependent": "find-up",
+      "location": "node_modules/pkg-dir/node_modules/locate-path",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/locate-path#readme",
+      "dependedByLocation": "node_modules/pkg-dir/node_modules/find-up"
+    }
+  ],
+  "log-symbols": {
+    "current": "4.1.0",
+    "wanted": "4.1.0",
+    "latest": "7.0.1",
+    "dependent": "mocha",
+    "location": "node_modules/log-symbols",
+    "type": "dependencies",
+    "homepage": "https://github.com/sindresorhus/log-symbols#readme",
+    "dependedByLocation": "node_modules/mocha"
+  },
+  "lru-cache": [
+    {
+      "current": "5.1.1",
+      "wanted": "5.1.1",
+      "latest": "11.5.3",
+      "dependent": "@babel/helper-compilation-targets",
+      "location": "node_modules/lru-cache",
+      "type": "dependencies",
+      "homepage": "https://github.com/isaacs/node-lru-cache#readme",
+      "dependedByLocation": "node_modules/@babel/helper-compilation-targets"
+    },
+    {
+      "current": "10.4.3",
+      "wanted": "10.4.3",
+      "latest": "11.5.3",
+      "dependent": "path-scurry",
+      "location": "node_modules/path-scurry/node_modules/lru-cache",
+      "type": "dependencies",
+      "homepage": "https://github.com/isaacs/node-lru-cache#readme",
+      "dependedByLocation": "node_modules/path-scurry"
+    }
+  ],
+  "make-dir": [
+    {
+      "current": "3.1.0",
+      "wanted": "3.1.0",
+      "latest": "5.1.0",
+      "dependent": "caching-transform",
+      "location": "node_modules/caching-transform/node_modules/make-dir",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/make-dir#readme",
+      "dependedByLocation": "node_modules/caching-transform"
+    },
+    {
+      "current": "3.1.0",
+      "wanted": "3.1.0",
+      "latest": "5.1.0",
+      "dependent": "find-cache-dir",
+      "location": "node_modules/find-cache-dir/node_modules/make-dir",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/make-dir#readme",
+      "dependedByLocation": "node_modules/find-cache-dir"
+    },
+    {
+      "current": "4.0.0",
+      "wanted": "4.0.0",
+      "latest": "5.1.0",
+      "dependent": "istanbul-lib-report",
+      "location": "node_modules/make-dir",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/make-dir#readme",
+      "dependedByLocation": "node_modules/istanbul-lib-report"
+    },
+    {
+      "current": "3.1.0",
+      "wanted": "3.1.0",
+      "latest": "5.1.0",
+      "dependent": "nyc",
+      "location": "node_modules/nyc/node_modules/make-dir",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/make-dir#readme",
+      "dependedByLocation": "node_modules/nyc"
+    },
+    {
+      "current": "3.1.0",
+      "wanted": "3.1.0",
+      "latest": "5.1.0",
+      "dependent": "spawn-wrap",
+      "location": "node_modules/spawn-wrap/node_modules/make-dir",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/make-dir#readme",
+      "dependedByLocation": "node_modules/spawn-wrap"
+    }
+  ],
+  "minimatch": [
+    {
+      "current": "11.0.8",
+      "wanted": "11.0.9",
+      "latest": "11.0.9",
+      "dependent": "@eslint/config-array",
+      "location": "node_modules/@eslint/config-array/node_modules/minimatch",
+      "type": "dependencies",
+      "homepage": "https://github.com/isaacs/minimatch#readme",
+      "dependedByLocation": "node_modules/@eslint/config-array"
+    },
+    {
+      "current": "10.2.6",
+      "wanted": "10.2.6",
+      "latest": "11.0.9",
+      "dependent": "@stryker-mutator/core",
+      "location": "node_modules/minimatch",
+      "type": "dependencies",
+      "homepage": "https://github.com/isaacs/minimatch#readme",
+      "dependedByLocation": "node_modules/@stryker-mutator/core"
+    },
+    {
+      "current": "9.0.9",
+      "wanted": "9.0.9",
+      "latest": "11.0.9",
+      "dependent": "editorconfig",
+      "location": "node_modules/editorconfig/node_modules/minimatch",
+      "type": "dependencies",
+      "homepage": "https://github.com/isaacs/minimatch#readme",
+      "dependedByLocation": "node_modules/editorconfig"
+    },
+    {
+      "current": "11.0.8",
+      "wanted": "11.0.9",
+      "latest": "11.0.9",
+      "dependent": "eslint",
+      "location": "node_modules/eslint/node_modules/minimatch",
+      "type": "dependencies",
+      "homepage": "https://github.com/isaacs/minimatch#readme",
+      "dependedByLocation": "node_modules/eslint"
+    },
+    {
+      "current": "10.2.6",
+      "wanted": "10.2.6",
+      "latest": "11.0.9",
+      "dependent": "eslint-plugin-sonarjs",
+      "location": "node_modules/minimatch",
+      "type": "dependencies",
+      "homepage": "https://github.com/isaacs/minimatch#readme",
+      "dependedByLocation": "node_modules/eslint-plugin-sonarjs"
+    },
+    {
+      "current": "9.0.9",
+      "wanted": "9.0.9",
+      "latest": "11.0.9",
+      "dependent": "glob",
+      "location": "node_modules/glob/node_modules/minimatch",
+      "type": "dependencies",
+      "homepage": "https://github.com/isaacs/minimatch#readme",
+      "dependedByLocation": "node_modules/glob"
+    },
+    {
+      "current": "10.2.6",
+      "wanted": "10.2.6",
+      "latest": "11.0.9",
+      "dependent": "glob",
+      "location": "node_modules/minimatch",
+      "type": "dependencies",
+      "homepage": "https://github.com/isaacs/minimatch#readme",
+      "dependedByLocation": "node_modules/nyc/node_modules/glob"
+    },
+    {
+      "current": "11.0.8",
+      "wanted": "11.0.9",
+      "latest": "11.0.9",
+      "dependent": "glob",
+      "location": "node_modules/rimraf/node_modules/minimatch",
+      "type": "dependencies",
+      "homepage": "https://github.com/isaacs/minimatch#readme",
+      "dependedByLocation": "node_modules/rimraf/node_modules/glob"
+    },
+    {
+      "current": "10.2.6",
+      "wanted": "10.2.6",
+      "latest": "11.0.9",
+      "dependent": "glob",
+      "location": "node_modules/minimatch",
+      "type": "dependencies",
+      "homepage": "https://github.com/isaacs/minimatch#readme",
+      "dependedByLocation": "node_modules/test-exclude/node_modules/glob"
+    },
+    {
+      "current": "9.0.9",
+      "wanted": "9.0.9",
+      "latest": "11.0.9",
+      "dependent": "mocha",
+      "location": "node_modules/mocha/node_modules/minimatch",
+      "type": "dependencies",
+      "homepage": "https://github.com/isaacs/minimatch#readme",
+      "dependedByLocation": "node_modules/mocha"
+    },
+    {
+      "current": "10.2.6",
+      "wanted": "10.2.6",
+      "latest": "11.0.9",
+      "dependent": "test-exclude",
+      "location": "node_modules/minimatch",
+      "type": "dependencies",
+      "homepage": "https://github.com/isaacs/minimatch#readme",
+      "dependedByLocation": "node_modules/test-exclude"
+    }
+  ],
+  "mocha": [
+    {
+      "current": "11.8.0",
+      "wanted": "11.8.0",
+      "latest": "12.0.3",
+      "dependent": "@stryker-mutator/mocha-runner",
+      "location": "node_modules/mocha",
+      "type": "peerDependencies",
+      "homepage": "https://mochajs.org/",
+      "dependedByLocation": "node_modules/@stryker-mutator/mocha-runner"
+    },
+    {
+      "current": "11.8.0",
+      "wanted": "11.8.0",
+      "latest": "12.0.3",
+      "dependent": "jscrossfix",
+      "location": "node_modules/mocha",
+      "type": "devDependencies",
+      "homepage": "https://mochajs.org/",
+      "dependedByLocation": ""
+    }
+  ],
+  "monocart-coverage-reports": {
+    "current": "2.13.2",
+    "wanted": "2.13.2",
+    "latest": "3.3.0",
+    "dependent": "jscrossfix",
+    "location": "node_modules/monocart-coverage-reports",
+    "type": "devDependencies",
+    "homepage": "https://github.com/cenfun/monocart-coverage-reports#readme",
+    "dependedByLocation": ""
+  },
+  "monocart-locator": {
+    "current": "1.0.6",
+    "wanted": "1.0.6",
+    "latest": "2.0.0",
+    "dependent": "monocart-coverage-reports",
+    "location": "node_modules/monocart-locator",
+    "type": "dependencies",
+    "homepage": "https://github.com/cenfun/monocart-locator#readme",
+    "dependedByLocation": "node_modules/monocart-coverage-reports"
+  },
+  "mutation-testing-elements": {
+    "current": "3.7.3",
+    "wanted": "3.7.3",
+    "latest": "3.9.0",
+    "dependent": "@stryker-mutator/core",
+    "location": "node_modules/mutation-testing-elements",
+    "type": "dependencies",
+    "homepage": "https://github.com/stryker-mutator/mutation-testing-elements/tree/master/packages/elements#readme",
+    "dependedByLocation": "node_modules/@stryker-mutator/core"
+  },
+  "mutation-testing-metrics": [
+    {
+      "current": "3.7.3",
+      "wanted": "3.7.3",
+      "latest": "3.9.0",
+      "dependent": "@stryker-mutator/api",
+      "location": "node_modules/mutation-testing-metrics",
+      "type": "dependencies",
+      "homepage": "https://github.com/stryker-mutator/mutation-testing-elements/tree/master/packages/metrics#readme",
+      "dependedByLocation": "node_modules/@stryker-mutator/api"
+    },
+    {
+      "current": "3.7.3",
+      "wanted": "3.7.3",
+      "latest": "3.9.0",
+      "dependent": "@stryker-mutator/core",
+      "location": "node_modules/mutation-testing-metrics",
+      "type": "dependencies",
+      "homepage": "https://github.com/stryker-mutator/mutation-testing-elements/tree/master/packages/metrics#readme",
+      "dependedByLocation": "node_modules/@stryker-mutator/core"
+    }
+  ],
+  "mutation-testing-report-schema": [
+    {
+      "current": "3.7.3",
+      "wanted": "3.7.3",
+      "latest": "3.9.0",
+      "dependent": "@stryker-mutator/api",
+      "location": "node_modules/mutation-testing-report-schema",
+      "type": "dependencies",
+      "homepage": "https://github.com/stryker-mutator/mutation-testing-elements/tree/master/packages/elements#readme",
+      "dependedByLocation": "node_modules/@stryker-mutator/api"
+    },
+    {
+      "current": "3.7.3",
+      "wanted": "3.7.3",
+      "latest": "3.9.0",
+      "dependent": "@stryker-mutator/core",
+      "location": "node_modules/mutation-testing-report-schema",
+      "type": "dependencies",
+      "homepage": "https://github.com/stryker-mutator/mutation-testing-elements/tree/master/packages/elements#readme",
+      "dependedByLocation": "node_modules/@stryker-mutator/core"
+    },
+    {
+      "current": "3.7.3",
+      "wanted": "3.7.3",
+      "latest": "3.9.0",
+      "dependent": "mutation-testing-metrics",
+      "location": "node_modules/mutation-testing-report-schema",
+      "type": "dependencies",
+      "homepage": "https://github.com/stryker-mutator/mutation-testing-elements/tree/master/packages/elements#readme",
+      "dependedByLocation": "node_modules/mutation-testing-metrics"
+    }
+  ],
+  "nanoid": {
+    "current": "3.3.20",
+    "wanted": "3.3.20",
+    "latest": "6.0.2",
+    "dependent": "postcss",
+    "location": "node_modules/nanoid",
+    "type": "dependencies",
+    "homepage": "https://github.com/ai/nanoid#readme",
+    "dependedByLocation": "node_modules/postcss"
+  },
+  "node-releases": {
+    "current": "2.0.64",
+    "wanted": "2.0.65",
+    "latest": "2.0.65",
+    "dependent": "browserslist",
+    "location": "node_modules/node-releases",
+    "type": "dependencies",
+    "homepage": "https://github.com/chicoxyzzy/node-releases#readme",
+    "dependedByLocation": "node_modules/browserslist"
+  },
+  "nopt": {
+    "current": "7.2.1",
+    "wanted": "7.2.1",
+    "latest": "10.0.1",
+    "dependent": "js-beautify",
+    "location": "node_modules/nopt",
+    "type": "dependencies",
+    "homepage": "https://github.com/npm/nopt#readme",
+    "dependedByLocation": "node_modules/js-beautify"
+  },
+  "object-inspect": [
+    {
+      "current": "1.13.4",
+      "wanted": "1.14.0",
+      "latest": "1.14.0",
+      "dependent": "side-channel",
+      "location": "node_modules/object-inspect",
+      "type": "dependencies",
+      "homepage": "https://github.com/inspect-js/object-inspect",
+      "dependedByLocation": "node_modules/side-channel"
+    },
+    {
+      "current": "1.13.4",
+      "wanted": "1.14.0",
+      "latest": "1.14.0",
+      "dependent": "side-channel-list",
+      "location": "node_modules/object-inspect",
+      "type": "dependencies",
+      "homepage": "https://github.com/inspect-js/object-inspect",
+      "dependedByLocation": "node_modules/side-channel-list"
+    },
+    {
+      "current": "1.13.4",
+      "wanted": "1.14.0",
+      "latest": "1.14.0",
+      "dependent": "side-channel-map",
+      "location": "node_modules/object-inspect",
+      "type": "dependencies",
+      "homepage": "https://github.com/inspect-js/object-inspect",
+      "dependedByLocation": "node_modules/side-channel-map"
+    },
+    {
+      "current": "1.13.4",
+      "wanted": "1.14.0",
+      "latest": "1.14.0",
+      "dependent": "side-channel-weakmap",
+      "location": "node_modules/object-inspect",
+      "type": "dependencies",
+      "homepage": "https://github.com/inspect-js/object-inspect",
+      "dependedByLocation": "node_modules/side-channel-weakmap"
+    }
+  ],
+  "oxc-parser": {
+    "current": "0.156.0",
+    "wanted": "0.156.0",
+    "latest": "0.160.0",
+    "dependent": "knip",
+    "location": "node_modules/oxc-parser",
+    "type": "dependencies",
+    "homepage": "https://oxc.rs/docs/guide/usage/parser",
+    "dependedByLocation": "node_modules/knip"
+  },
+  "oxlint": {
+    "current": "1.93.0",
+    "wanted": "1.95.0",
+    "latest": "1.95.0",
+    "dependent": "jscrossfix",
+    "location": "node_modules/oxlint",
+    "type": "devDependencies",
+    "homepage": "https://oxc.rs/docs/guide/usage/linter",
+    "dependedByLocation": ""
+  },
+  "oxlint-tsgolint": {
+    "wanted": "7.0.2008",
+    "latest": "7.0.2008",
+    "dependent": "oxlint",
+    "type": "optionalDependencies",
+    "homepage": "https://github.com/oxc-project/tsgolint#readme",
+    "dependedByLocation": "node_modules/oxlint"
+  },
+  "p-limit": [
+    {
+      "current": "2.3.0",
+      "wanted": "2.3.0",
+      "latest": "7.3.3",
+      "dependent": "p-locate",
+      "location": "node_modules/@istanbuljs/load-nyc-config/node_modules/p-limit",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/p-limit#readme",
+      "dependedByLocation": "node_modules/@istanbuljs/load-nyc-config/node_modules/p-locate"
+    },
+    {
+      "current": "2.3.0",
+      "wanted": "2.3.0",
+      "latest": "7.3.3",
+      "dependent": "p-locate",
+      "location": "node_modules/nyc/node_modules/p-limit",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/p-limit#readme",
+      "dependedByLocation": "node_modules/nyc/node_modules/p-locate"
+    },
+    {
+      "current": "3.1.0",
+      "wanted": "3.1.0",
+      "latest": "7.3.3",
+      "dependent": "p-locate",
+      "location": "node_modules/p-limit",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/p-limit#readme",
+      "dependedByLocation": "node_modules/p-locate"
+    },
+    {
+      "current": "2.3.0",
+      "wanted": "2.3.0",
+      "latest": "7.3.3",
+      "dependent": "p-locate",
+      "location": "node_modules/pkg-dir/node_modules/p-limit",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/p-limit#readme",
+      "dependedByLocation": "node_modules/pkg-dir/node_modules/p-locate"
+    }
+  ],
+  "p-locate": [
+    {
+      "current": "4.1.0",
+      "wanted": "4.1.0",
+      "latest": "7.0.0",
+      "dependent": "locate-path",
+      "location": "node_modules/@istanbuljs/load-nyc-config/node_modules/p-locate",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/p-locate#readme",
+      "dependedByLocation": "node_modules/@istanbuljs/load-nyc-config/node_modules/locate-path"
+    },
+    {
+      "current": "5.0.0",
+      "wanted": "5.0.0",
+      "latest": "7.0.0",
+      "dependent": "locate-path",
+      "location": "node_modules/p-locate",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/p-locate#readme",
+      "dependedByLocation": "node_modules/locate-path"
+    },
+    {
+      "current": "4.1.0",
+      "wanted": "4.1.0",
+      "latest": "7.0.0",
+      "dependent": "locate-path",
+      "location": "node_modules/nyc/node_modules/p-locate",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/p-locate#readme",
+      "dependedByLocation": "node_modules/nyc/node_modules/locate-path"
+    },
+    {
+      "current": "4.1.0",
+      "wanted": "4.1.0",
+      "latest": "7.0.0",
+      "dependent": "locate-path",
+      "location": "node_modules/pkg-dir/node_modules/p-locate",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/p-locate#readme",
+      "dependedByLocation": "node_modules/pkg-dir/node_modules/locate-path"
+    }
+  ],
+  "p-map": [
+    {
+      "current": "3.0.0",
+      "wanted": "3.0.0",
+      "latest": "7.1.1",
+      "dependent": "istanbul-lib-processinfo",
+      "location": "node_modules/p-map",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/p-map#readme",
+      "dependedByLocation": "node_modules/istanbul-lib-processinfo"
+    },
+    {
+      "current": "3.0.0",
+      "wanted": "3.0.0",
+      "latest": "7.1.1",
+      "dependent": "nyc",
+      "location": "node_modules/p-map",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/p-map#readme",
+      "dependedByLocation": "node_modules/nyc"
+    }
+  ],
+  "p-try": [
+    {
+      "current": "2.2.0",
+      "wanted": "2.2.0",
+      "latest": "3.0.0",
+      "dependent": "p-limit",
+      "location": "node_modules/p-try",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/p-try#readme",
+      "dependedByLocation": "node_modules/@istanbuljs/load-nyc-config/node_modules/p-limit"
+    },
+    {
+      "current": "2.2.0",
+      "wanted": "2.2.0",
+      "latest": "3.0.0",
+      "dependent": "p-limit",
+      "location": "node_modules/p-try",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/p-try#readme",
+      "dependedByLocation": "node_modules/nyc/node_modules/p-limit"
+    },
+    {
+      "current": "2.2.0",
+      "wanted": "2.2.0",
+      "latest": "3.0.0",
+      "dependent": "p-limit",
+      "location": "node_modules/p-try",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/p-try#readme",
+      "dependedByLocation": "node_modules/pkg-dir/node_modules/p-limit"
+    }
+  ],
+  "parse-ms": {
+    "current": "4.0.0",
+    "wanted": "4.0.0",
+    "latest": "5.0.0",
+    "dependent": "pretty-ms",
+    "location": "node_modules/parse-ms",
+    "type": "dependencies",
+    "homepage": "https://github.com/sindresorhus/parse-ms#readme",
+    "dependedByLocation": "node_modules/pretty-ms"
+  },
+  "path-exists": [
+    {
+      "current": "4.0.0",
+      "wanted": "4.0.0",
+      "latest": "5.0.0",
+      "dependent": "find-up",
+      "location": "node_modules/path-exists",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/path-exists#readme",
+      "dependedByLocation": "node_modules/@istanbuljs/load-nyc-config/node_modules/find-up"
+    },
+    {
+      "current": "4.0.0",
+      "wanted": "4.0.0",
+      "latest": "5.0.0",
+      "dependent": "find-up",
+      "location": "node_modules/path-exists",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/path-exists#readme",
+      "dependedByLocation": "node_modules/find-up"
+    },
+    {
+      "current": "4.0.0",
+      "wanted": "4.0.0",
+      "latest": "5.0.0",
+      "dependent": "find-up",
+      "location": "node_modules/path-exists",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/path-exists#readme",
+      "dependedByLocation": "node_modules/nyc/node_modules/find-up"
+    },
+    {
+      "current": "4.0.0",
+      "wanted": "4.0.0",
+      "latest": "5.0.0",
+      "dependent": "find-up",
+      "location": "node_modules/path-exists",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/path-exists#readme",
+      "dependedByLocation": "node_modules/pkg-dir/node_modules/find-up"
+    }
+  ],
+  "path-key": {
+    "current": "3.1.1",
+    "wanted": "3.1.1",
+    "latest": "4.0.0",
+    "dependent": "cross-spawn",
+    "location": "node_modules/path-key",
+    "type": "dependencies",
+    "homepage": "https://github.com/sindresorhus/path-key#readme",
+    "dependedByLocation": "node_modules/cross-spawn"
+  },
+  "path-scurry": [
+    {
+      "current": "1.11.1",
+      "wanted": "1.11.1",
+      "latest": "3.0.0",
+      "dependent": "glob",
+      "location": "node_modules/path-scurry",
+      "type": "dependencies",
+      "homepage": "https://github.com/isaacs/path-scurry#readme",
+      "dependedByLocation": "node_modules/glob"
+    },
+    {
+      "current": "2.0.2",
+      "wanted": "2.0.2",
+      "latest": "3.0.0",
+      "dependent": "glob",
+      "location": "node_modules/nyc/node_modules/path-scurry",
+      "type": "dependencies",
+      "homepage": "https://github.com/isaacs/path-scurry#readme",
+      "dependedByLocation": "node_modules/nyc/node_modules/glob"
+    },
+    {
+      "current": "2.0.2",
+      "wanted": "2.0.2",
+      "latest": "3.0.0",
+      "dependent": "glob",
+      "location": "node_modules/test-exclude/node_modules/path-scurry",
+      "type": "dependencies",
+      "homepage": "https://github.com/isaacs/path-scurry#readme",
+      "dependedByLocation": "node_modules/test-exclude/node_modules/glob"
+    }
+  ],
+  "pkg-dir": {
+    "current": "4.2.0",
+    "wanted": "4.2.0",
+    "latest": "8.0.0",
+    "dependent": "find-cache-dir",
+    "location": "node_modules/pkg-dir",
+    "type": "dependencies",
+    "homepage": "https://github.com/sindresorhus/pkg-dir#readme",
+    "dependedByLocation": "node_modules/find-cache-dir"
+  },
+  "pretty-ms": {
+    "current": "9.3.1",
+    "wanted": "9.3.1",
+    "latest": "10.0.0",
+    "dependent": "execa",
+    "location": "node_modules/pretty-ms",
+    "type": "dependencies",
+    "homepage": "https://github.com/sindresorhus/pretty-ms#readme",
+    "dependedByLocation": "node_modules/execa"
+  },
+  "qified": {
+    "current": "0.10.1",
+    "wanted": "0.10.1",
+    "latest": "0.13.3",
+    "dependent": "cacheable",
+    "location": "node_modules/qified",
+    "type": "dependencies",
+    "homepage": "https://github.com/jaredwray/qified#readme",
+    "dependedByLocation": "node_modules/cacheable"
+  },
+  "qs": {
+    "current": "6.15.1",
+    "wanted": "6.15.1",
+    "latest": "6.17.1",
+    "dependent": "typed-rest-client",
+    "location": "node_modules/qs",
+    "type": "dependencies",
+    "homepage": "https://github.com/ljharb/qs",
+    "dependedByLocation": "node_modules/typed-rest-client"
+  },
+  "readdirp": {
+    "current": "4.1.2",
+    "wanted": "4.1.2",
+    "latest": "5.1.1",
+    "dependent": "chokidar",
+    "location": "node_modules/readdirp",
+    "type": "dependencies",
+    "homepage": "https://github.com/paulmillr/readdirp",
+    "dependedByLocation": "node_modules/chokidar"
+  },
+  "rollup": {
+    "current": "4.68.3",
+    "wanted": "4.68.8",
+    "latest": "4.68.8",
+    "dependent": "vite",
+    "location": "node_modules/rollup",
+    "type": "dependencies",
+    "homepage": "https://rollupjs.org/",
+    "dependedByLocation": "node_modules/vite"
+  },
+  "sass": {
+    "wanted": "1.108.2",
+    "latest": "1.108.2",
+    "dependent": "vite",
+    "type": "optionalDependencies",
+    "homepage": "https://github.com/sass/dart-sass",
+    "dependedByLocation": "node_modules/vite"
+  },
+  "sass-embedded": {
+    "wanted": "1.108.2",
+    "latest": "1.108.2",
+    "dependent": "vite",
+    "type": "optionalDependencies",
+    "homepage": "https://github.com/sass/embedded-host-node#readme",
+    "dependedByLocation": "node_modules/vite"
+  },
+  "semver": [
+    {
+      "current": "6.3.2",
+      "wanted": "6.3.2",
+      "latest": "7.8.6",
+      "dependent": "@babel/core",
+      "location": "node_modules/@babel/core/node_modules/semver",
+      "type": "dependencies",
+      "homepage": "https://github.com/npm/node-semver#readme",
+      "dependedByLocation": "node_modules/@babel/core"
+    },
+    {
+      "current": "6.3.2",
+      "wanted": "6.3.2",
+      "latest": "7.8.6",
+      "dependent": "@babel/helper-compilation-targets",
+      "location": "node_modules/@babel/helper-compilation-targets/node_modules/semver",
+      "type": "dependencies",
+      "homepage": "https://github.com/npm/node-semver#readme",
+      "dependedByLocation": "node_modules/@babel/helper-compilation-targets"
+    },
+    {
+      "current": "6.3.2",
+      "wanted": "6.3.2",
+      "latest": "7.8.6",
+      "dependent": "@babel/helper-create-class-features-plugin",
+      "location": "node_modules/@babel/helper-create-class-features-plugin/node_modules/semver",
+      "type": "dependencies",
+      "homepage": "https://github.com/npm/node-semver#readme",
+      "dependedByLocation": "node_modules/@babel/helper-create-class-features-plugin"
+    },
+    {
+      "current": "7.7.4",
+      "wanted": "7.7.4",
+      "latest": "7.8.6",
+      "dependent": "@stryker-mutator/instrumenter",
+      "location": "node_modules/@stryker-mutator/instrumenter/node_modules/semver",
+      "type": "dependencies",
+      "homepage": "https://github.com/npm/node-semver#readme",
+      "dependedByLocation": "node_modules/@stryker-mutator/instrumenter"
+    },
+    {
+      "current": "6.3.2",
+      "wanted": "6.3.2",
+      "latest": "7.8.6",
+      "dependent": "make-dir",
+      "location": "node_modules/caching-transform/node_modules/semver",
+      "type": "dependencies",
+      "homepage": "https://github.com/npm/node-semver#readme",
+      "dependedByLocation": "node_modules/caching-transform/node_modules/make-dir"
+    },
+    {
+      "current": "6.3.2",
+      "wanted": "6.3.2",
+      "latest": "7.8.6",
+      "dependent": "make-dir",
+      "location": "node_modules/find-cache-dir/node_modules/semver",
+      "type": "dependencies",
+      "homepage": "https://github.com/npm/node-semver#readme",
+      "dependedByLocation": "node_modules/find-cache-dir/node_modules/make-dir"
+    },
+    {
+      "current": "6.3.2",
+      "wanted": "6.3.2",
+      "latest": "7.8.6",
+      "dependent": "make-dir",
+      "location": "node_modules/nyc/node_modules/semver",
+      "type": "dependencies",
+      "homepage": "https://github.com/npm/node-semver#readme",
+      "dependedByLocation": "node_modules/nyc/node_modules/make-dir"
+    },
+    {
+      "current": "6.3.2",
+      "wanted": "6.3.2",
+      "latest": "7.8.6",
+      "dependent": "make-dir",
+      "location": "node_modules/spawn-wrap/node_modules/semver",
+      "type": "dependencies",
+      "homepage": "https://github.com/npm/node-semver#readme",
+      "dependedByLocation": "node_modules/spawn-wrap/node_modules/make-dir"
+    }
+  ],
+  "serialize-javascript": {
+    "current": "6.0.2",
+    "wanted": "6.0.2",
+    "latest": "7.1.4",
+    "dependent": "mocha",
+    "location": "node_modules/serialize-javascript",
+    "type": "dependencies",
+    "homepage": "https://github.com/yahoo/serialize-javascript",
+    "dependedByLocation": "node_modules/mocha"
+  },
+  "shebang-regex": {
+    "current": "3.0.0",
+    "wanted": "3.0.0",
+    "latest": "4.0.0",
+    "dependent": "shebang-command",
+    "location": "node_modules/shebang-regex",
+    "type": "dependencies",
+    "homepage": "https://github.com/sindresorhus/shebang-regex#readme",
+    "dependedByLocation": "node_modules/shebang-command"
+  },
+  "signal-exit": [
+    {
+      "current": "3.0.7",
+      "wanted": "3.0.7",
+      "latest": "4.1.0",
+      "dependent": "foreground-child",
+      "location": "node_modules/spawn-wrap/node_modules/signal-exit",
+      "type": "dependencies",
+      "homepage": "https://github.com/tapjs/signal-exit#readme",
+      "dependedByLocation": "node_modules/spawn-wrap/node_modules/foreground-child"
+    },
+    {
+      "current": "3.0.7",
+      "wanted": "3.0.7",
+      "latest": "4.1.0",
+      "dependent": "nyc",
+      "location": "node_modules/nyc/node_modules/signal-exit",
+      "type": "dependencies",
+      "homepage": "https://github.com/tapjs/signal-exit#readme",
+      "dependedByLocation": "node_modules/nyc"
+    },
+    {
+      "current": "3.0.7",
+      "wanted": "3.0.7",
+      "latest": "4.1.0",
+      "dependent": "spawn-wrap",
+      "location": "node_modules/spawn-wrap/node_modules/signal-exit",
+      "type": "dependencies",
+      "homepage": "https://github.com/tapjs/signal-exit#readme",
+      "dependedByLocation": "node_modules/spawn-wrap"
+    },
+    {
+      "current": "3.0.7",
+      "wanted": "3.0.7",
+      "latest": "4.1.0",
+      "dependent": "write-file-atomic",
+      "location": "node_modules/write-file-atomic/node_modules/signal-exit",
+      "type": "dependencies",
+      "homepage": "https://github.com/tapjs/signal-exit#readme",
+      "dependedByLocation": "node_modules/write-file-atomic"
+    }
+  ],
+  "source-map": [
+    {
+      "current": "0.7.6",
+      "wanted": "0.7.6",
+      "latest": "0.8.0",
+      "dependent": "@stryker-mutator/core",
+      "location": "node_modules/source-map",
+      "type": "dependencies",
+      "homepage": "https://github.com/mozilla/source-map",
+      "dependedByLocation": "node_modules/@stryker-mutator/core"
+    },
+    {
+      "current": "0.6.1",
+      "wanted": "0.6.1",
+      "latest": "0.8.0",
+      "dependent": "istanbul-lib-source-maps",
+      "location": "node_modules/istanbul-lib-source-maps/node_modules/source-map",
+      "type": "dependencies",
+      "homepage": "https://github.com/mozilla/source-map",
+      "dependedByLocation": "node_modules/istanbul-lib-source-maps"
+    },
+    {
+      "current": "0.6.1",
+      "wanted": "0.6.1",
+      "latest": "0.8.0",
+      "dependent": "source-map-support",
+      "location": "node_modules/source-map-support/node_modules/source-map",
+      "type": "dependencies",
+      "homepage": "https://github.com/mozilla/source-map",
+      "dependedByLocation": "node_modules/source-map-support"
+    }
+  ],
+  "source-map-js": {
+    "current": "1.2.2",
+    "wanted": "1.2.4",
+    "latest": "1.2.4",
+    "dependent": "postcss",
+    "location": "node_modules/source-map-js",
+    "type": "dependencies",
+    "homepage": "https://github.com/7rulnik/source-map-js",
+    "dependedByLocation": "node_modules/postcss"
+  },
+  "sprintf-js": {
+    "current": "1.0.3",
+    "wanted": "1.0.3",
+    "latest": "1.1.3",
+    "dependent": "argparse",
+    "location": "node_modules/sprintf-js",
+    "type": "dependencies",
+    "homepage": "https://github.com/alexei/sprintf.js#readme",
+    "dependedByLocation": "node_modules/@istanbuljs/load-nyc-config/node_modules/argparse"
+  },
+  "string-width": [
+    {
+      "current": "5.1.2",
+      "wanted": "5.1.2",
+      "latest": "9.0.0",
+      "dependent": "@isaacs/cliui",
+      "location": "node_modules/@isaacs/cliui/node_modules/string-width",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/string-width#readme",
+      "dependedByLocation": "node_modules/@isaacs/cliui"
+    },
+    {
+      "current": "7.2.0",
+      "wanted": "7.2.0",
+      "latest": "9.0.0",
+      "dependent": "cliui",
+      "location": "node_modules/string-width",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/string-width#readme",
+      "dependedByLocation": "node_modules/cliui"
+    },
+    {
+      "current": "4.2.3",
+      "wanted": "4.2.3",
+      "latest": "9.0.0",
+      "dependent": "cliui",
+      "location": "node_modules/nyc/node_modules/string-width",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/string-width#readme",
+      "dependedByLocation": "node_modules/nyc/node_modules/cliui"
+    },
+    {
+      "current": "4.2.3",
+      "wanted": "4.2.3",
+      "latest": "9.0.0",
+      "dependent": "cliui",
+      "location": "node_modules/yargs/node_modules/string-width",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/string-width#readme",
+      "dependedByLocation": "node_modules/yargs/node_modules/cliui"
+    },
+    {
+      "current": "5.1.2",
+      "wanted": "5.1.2",
+      "latest": "9.0.0",
+      "dependent": "wrap-ansi",
+      "location": "node_modules/@isaacs/cliui/node_modules/string-width",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/string-width#readme",
+      "dependedByLocation": "node_modules/@isaacs/cliui/node_modules/wrap-ansi"
+    },
+    {
+      "current": "4.2.3",
+      "wanted": "4.2.3",
+      "latest": "9.0.0",
+      "dependent": "wrap-ansi",
+      "location": "node_modules/nyc/node_modules/string-width",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/string-width#readme",
+      "dependedByLocation": "node_modules/nyc/node_modules/wrap-ansi"
+    },
+    {
+      "current": "7.2.0",
+      "wanted": "7.2.0",
+      "latest": "9.0.0",
+      "dependent": "wrap-ansi",
+      "location": "node_modules/string-width",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/string-width#readme",
+      "dependedByLocation": "node_modules/wrap-ansi"
+    },
+    {
+      "current": "4.2.3",
+      "wanted": "4.2.3",
+      "latest": "9.0.0",
+      "dependent": "wrap-ansi",
+      "location": "node_modules/yargs/node_modules/string-width",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/string-width#readme",
+      "dependedByLocation": "node_modules/yargs/node_modules/wrap-ansi"
+    },
+    {
+      "current": "4.2.3",
+      "wanted": "4.2.3",
+      "latest": "9.0.0",
+      "dependent": "wrap-ansi-cjs",
+      "location": "node_modules/wrap-ansi-cjs/node_modules/string-width",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/string-width#readme",
+      "dependedByLocation": "node_modules/wrap-ansi-cjs"
+    },
+    {
+      "current": "4.2.3",
+      "wanted": "4.2.3",
+      "latest": "9.0.0",
+      "dependent": "yargs",
+      "location": "node_modules/nyc/node_modules/string-width",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/string-width#readme",
+      "dependedByLocation": "node_modules/nyc/node_modules/yargs"
+    },
+    {
+      "current": "4.2.3",
+      "wanted": "4.2.3",
+      "latest": "9.0.0",
+      "dependent": "yargs",
+      "location": "node_modules/yargs/node_modules/string-width",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/string-width#readme",
+      "dependedByLocation": "node_modules/yargs"
+    }
+  ],
+  "string-width-cjs:string-width@^4.2.0": {
+    "current": "4.2.3",
+    "wanted": "4.2.3",
+    "latest": "9.0.0",
+    "dependent": "@isaacs/cliui",
+    "location": "node_modules/string-width-cjs",
+    "type": "dependencies",
+    "homepage": "https://github.com/sindresorhus/string-width#readme",
+    "dependedByLocation": "node_modules/@isaacs/cliui"
+  },
+  "strip-ansi": [
+    {
+      "current": "6.0.1",
+      "wanted": "6.0.1",
+      "latest": "7.2.0",
+      "dependent": "cliui",
+      "location": "node_modules/nyc/node_modules/strip-ansi",
+      "type": "dependencies",
+      "homepage": "https://github.com/chalk/strip-ansi#readme",
+      "dependedByLocation": "node_modules/nyc/node_modules/cliui"
+    },
+    {
+      "current": "6.0.1",
+      "wanted": "6.0.1",
+      "latest": "7.2.0",
+      "dependent": "cliui",
+      "location": "node_modules/yargs/node_modules/strip-ansi",
+      "type": "dependencies",
+      "homepage": "https://github.com/chalk/strip-ansi#readme",
+      "dependedByLocation": "node_modules/yargs/node_modules/cliui"
+    },
+    {
+      "current": "6.0.1",
+      "wanted": "6.0.1",
+      "latest": "7.2.0",
+      "dependent": "string-width",
+      "location": "node_modules/nyc/node_modules/strip-ansi",
+      "type": "dependencies",
+      "homepage": "https://github.com/chalk/strip-ansi#readme",
+      "dependedByLocation": "node_modules/nyc/node_modules/string-width"
+    },
+    {
+      "current": "6.0.1",
+      "wanted": "6.0.1",
+      "latest": "7.2.0",
+      "dependent": "string-width",
+      "location": "node_modules/wrap-ansi-cjs/node_modules/strip-ansi",
+      "type": "dependencies",
+      "homepage": "https://github.com/chalk/strip-ansi#readme",
+      "dependedByLocation": "node_modules/wrap-ansi-cjs/node_modules/string-width"
+    },
+    {
+      "current": "6.0.1",
+      "wanted": "6.0.1",
+      "latest": "7.2.0",
+      "dependent": "string-width",
+      "location": "node_modules/yargs/node_modules/strip-ansi",
+      "type": "dependencies",
+      "homepage": "https://github.com/chalk/strip-ansi#readme",
+      "dependedByLocation": "node_modules/yargs/node_modules/string-width"
+    },
+    {
+      "current": "6.0.1",
+      "wanted": "6.0.1",
+      "latest": "7.2.0",
+      "dependent": "string-width-cjs",
+      "location": "node_modules/string-width-cjs/node_modules/strip-ansi",
+      "type": "dependencies",
+      "homepage": "https://github.com/chalk/strip-ansi#readme",
+      "dependedByLocation": "node_modules/string-width-cjs"
+    },
+    {
+      "current": "6.0.1",
+      "wanted": "6.0.1",
+      "latest": "7.2.0",
+      "dependent": "wrap-ansi",
+      "location": "node_modules/nyc/node_modules/strip-ansi",
+      "type": "dependencies",
+      "homepage": "https://github.com/chalk/strip-ansi#readme",
+      "dependedByLocation": "node_modules/nyc/node_modules/wrap-ansi"
+    },
+    {
+      "current": "6.0.1",
+      "wanted": "6.0.1",
+      "latest": "7.2.0",
+      "dependent": "wrap-ansi",
+      "location": "node_modules/yargs/node_modules/strip-ansi",
+      "type": "dependencies",
+      "homepage": "https://github.com/chalk/strip-ansi#readme",
+      "dependedByLocation": "node_modules/yargs/node_modules/wrap-ansi"
+    },
+    {
+      "current": "6.0.1",
+      "wanted": "6.0.1",
+      "latest": "7.2.0",
+      "dependent": "wrap-ansi-cjs",
+      "location": "node_modules/wrap-ansi-cjs/node_modules/strip-ansi",
+      "type": "dependencies",
+      "homepage": "https://github.com/chalk/strip-ansi#readme",
+      "dependedByLocation": "node_modules/wrap-ansi-cjs"
+    }
+  ],
+  "strip-ansi-cjs:strip-ansi@^6.0.1": {
+    "current": "6.0.1",
+    "wanted": "6.0.1",
+    "latest": "7.2.0",
+    "dependent": "@isaacs/cliui",
+    "location": "node_modules/strip-ansi-cjs",
+    "type": "dependencies",
+    "homepage": "https://github.com/chalk/strip-ansi#readme",
+    "dependedByLocation": "node_modules/@isaacs/cliui"
+  },
+  "strip-bom": {
+    "current": "4.0.0",
+    "wanted": "4.0.0",
+    "latest": "5.0.0",
+    "dependent": "default-require-extensions",
+    "location": "node_modules/strip-bom",
+    "type": "dependencies",
+    "homepage": "https://github.com/sindresorhus/strip-bom#readme",
+    "dependedByLocation": "node_modules/default-require-extensions"
+  },
+  "strip-json-comments": [
+    {
+      "current": "5.0.3",
+      "wanted": "5.0.3",
+      "latest": "5.1.0",
+      "dependent": "knip",
+      "location": "node_modules/strip-json-comments",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/strip-json-comments#readme",
+      "dependedByLocation": "node_modules/knip"
+    },
+    {
+      "current": "3.1.1",
+      "wanted": "3.1.1",
+      "latest": "5.1.0",
+      "dependent": "mocha",
+      "location": "node_modules/mocha/node_modules/strip-json-comments",
+      "type": "dependencies",
+      "homepage": "https://github.com/sindresorhus/strip-json-comments#readme",
+      "dependedByLocation": "node_modules/mocha"
+    }
+  ],
+  "stylus": {
+    "wanted": "0.64.0",
+    "latest": "0.64.0",
+    "dependent": "vite",
+    "type": "optionalDependencies",
+    "homepage": "https://github.com/stylus/stylus",
+    "dependedByLocation": "node_modules/vite"
+  },
+  "sugarss": {
+    "wanted": "5.0.2",
+    "latest": "5.0.2",
+    "dependent": "vite",
+    "type": "optionalDependencies",
+    "homepage": "https://github.com/postcss/sugarss#readme",
+    "dependedByLocation": "node_modules/vite"
+  },
+  "supports-color": [
+    {
+      "current": "7.2.0",
+      "wanted": "7.2.0",
+      "latest": "11.0.0",
+      "dependent": "chalk",
+      "location": "node_modules/log-symbols/node_modules/supports-color",
+      "type": "dependencies",
+      "homepage": "https://github.com/chalk/supports-color#readme",
+      "dependedByLocation": "node_modules/log-symbols/node_modules/chalk"
+    },
+    {
+      "current": "7.2.0",
+      "wanted": "7.2.0",
+      "latest": "11.0.0",
+      "dependent": "istanbul-lib-report",
+      "location": "node_modules/istanbul-lib-report/node_modules/supports-color",
+      "type": "dependencies",
+      "homepage": "https://github.com/chalk/supports-color#readme",
+      "dependedByLocation": "node_modules/istanbul-lib-report"
+    },
+    {
+      "current": "8.1.1",
+      "wanted": "8.1.1",
+      "latest": "11.0.0",
+      "dependent": "mocha",
+      "location": "node_modules/supports-color",
+      "type": "dependencies",
+      "homepage": "https://github.com/chalk/supports-color#readme",
+      "dependedByLocation": "node_modules/mocha"
+    }
+  ],
+  "terser": {
+    "wanted": "5.51.4",
+    "latest": "5.51.4",
+    "dependent": "vite",
+    "type": "optionalDependencies",
+    "homepage": "https://terser.org",
+    "dependedByLocation": "node_modules/vite"
+  },
+  "tslib": [
+    {
+      "current": "2.8.1",
+      "wanted": "2.8.1",
+      "latest": "2.9.1",
+      "dependent": "@stryker-mutator/api",
+      "location": "node_modules/tslib",
+      "type": "dependencies",
+      "homepage": "https://www.typescriptlang.org/",
+      "dependedByLocation": "node_modules/@stryker-mutator/api"
+    },
+    {
+      "current": "2.8.1",
+      "wanted": "2.8.1",
+      "latest": "2.9.1",
+      "dependent": "@stryker-mutator/core",
+      "location": "node_modules/tslib",
+      "type": "dependencies",
+      "homepage": "https://www.typescriptlang.org/",
+      "dependedByLocation": "node_modules/@stryker-mutator/core"
+    },
+    {
+      "current": "2.8.1",
+      "wanted": "2.8.1",
+      "latest": "2.9.1",
+      "dependent": "@stryker-mutator/instrumenter",
+      "location": "node_modules/tslib",
+      "type": "dependencies",
+      "homepage": "https://www.typescriptlang.org/",
+      "dependedByLocation": "node_modules/@stryker-mutator/instrumenter"
+    },
+    {
+      "current": "2.8.1",
+      "wanted": "2.8.1",
+      "latest": "2.9.1",
+      "dependent": "@stryker-mutator/mocha-runner",
+      "location": "node_modules/tslib",
+      "type": "dependencies",
+      "homepage": "https://www.typescriptlang.org/",
+      "dependedByLocation": "node_modules/@stryker-mutator/mocha-runner"
+    },
+    {
+      "current": "2.8.1",
+      "wanted": "2.9.1",
+      "latest": "2.9.1",
+      "dependent": "rxjs",
+      "location": "node_modules/tslib",
+      "type": "dependencies",
+      "homepage": "https://www.typescriptlang.org/",
+      "dependedByLocation": "node_modules/rxjs"
+    }
+  ],
+  "type-fest": {
+    "current": "0.8.1",
+    "wanted": "0.8.1",
+    "latest": "6.0.3",
+    "dependent": "hasha",
+    "location": "node_modules/type-fest",
+    "type": "dependencies",
+    "homepage": "https://github.com/sindresorhus/type-fest#readme",
+    "dependedByLocation": "node_modules/hasha"
+  },
+  "typed-rest-client": {
+    "current": "2.3.1",
+    "wanted": "2.3.1",
+    "latest": "3.1.3",
+    "dependent": "@stryker-mutator/core",
+    "location": "node_modules/typed-rest-client",
+    "type": "dependencies",
+    "homepage": "https://github.com/Microsoft/typed-rest-client#readme",
+    "dependedByLocation": "node_modules/@stryker-mutator/core"
+  },
+  "typedarray-to-buffer": {
+    "current": "3.1.5",
+    "wanted": "3.1.5",
+    "latest": "4.0.0",
+    "dependent": "write-file-atomic",
+    "location": "node_modules/typedarray-to-buffer",
+    "type": "dependencies",
+    "homepage": "http://feross.org",
+    "dependedByLocation": "node_modules/write-file-atomic"
+  },
+  "typescript": [
+    {
+      "current": "5.9.3",
+      "wanted": "5.9.3",
+      "latest": "7.0.2",
+      "dependent": "cognitive-complexity-ts",
+      "location": "node_modules/typescript",
+      "type": "dependencies",
+      "homepage": "https://www.typescriptlang.org/",
+      "dependedByLocation": "node_modules/cognitive-complexity-ts"
+    },
+    {
+      "current": "5.9.3",
+      "wanted": "5.9.3",
+      "latest": "7.0.2",
+      "dependent": "cyclomatic-complexity",
+      "location": "node_modules/typescript",
+      "type": "dependencies",
+      "homepage": "https://www.typescriptlang.org/",
+      "dependedByLocation": "node_modules/cyclomatic-complexity"
+    },
+    {
+      "current": "5.9.3",
+      "wanted": "6.0.3",
+      "latest": "7.0.2",
+      "dependent": "eslint-plugin-sonarjs",
+      "location": "node_modules/typescript",
+      "type": "dependencies",
+      "homepage": "https://www.typescriptlang.org/",
+      "dependedByLocation": "node_modules/eslint-plugin-sonarjs"
+    },
+    {
+      "current": "5.9.3",
+      "wanted": "7.0.2",
+      "latest": "7.0.2",
+      "dependent": "ts-api-utils",
+      "location": "node_modules/typescript",
+      "type": "peerDependencies",
+      "homepage": "https://www.typescriptlang.org/",
+      "dependedByLocation": "node_modules/ts-api-utils"
+    }
+  ],
+  "unbash": {
+    "current": "6.0.4",
+    "wanted": "6.0.5",
+    "latest": "6.0.5",
+    "dependent": "knip",
+    "location": "node_modules/unbash",
+    "type": "dependencies",
+    "homepage": "https://github.com/webpro-nl/unbash#readme",
+    "dependedByLocation": "node_modules/knip"
+  },
+  "unicorn-magic": {
+    "current": "0.3.0",
+    "wanted": "0.3.0",
+    "latest": "0.4.1",
+    "dependent": "npm-run-path",
+    "location": "node_modules/unicorn-magic",
+    "type": "dependencies",
+    "homepage": "https://github.com/sindresorhus/unicorn-magic#readme",
+    "dependedByLocation": "node_modules/npm-run-path"
+  },
+  "update-browserslist-db": {
+    "current": "1.3.4",
+    "wanted": "1.4.0",
+    "latest": "1.4.0",
+    "dependent": "browserslist",
+    "location": "node_modules/update-browserslist-db",
+    "type": "dependencies",
+    "homepage": "https://github.com/browserslist/update-db#readme",
+    "dependedByLocation": "node_modules/browserslist"
+  },
+  "vite": {
+    "current": "5.4.21",
+    "wanted": "5.4.21",
+    "latest": "8.3.8",
+    "dependent": "jscrossfix",
+    "location": "node_modules/vite",
+    "type": "devDependencies",
+    "homepage": "https://vite.dev",
+    "dependedByLocation": ""
+  },
+  "vite-plus": {
+    "wanted": "1.8.0",
+    "latest": "1.8.0",
+    "dependent": "oxlint",
+    "type": "optionalDependencies",
+    "homepage": "https://viteplus.dev/guide",
+    "dependedByLocation": "node_modules/oxlint"
+  },
+  "weapon-regex": {
+    "current": "1.3.6",
+    "wanted": "1.3.6",
+    "latest": "2.0.6",
+    "dependent": "@stryker-mutator/instrumenter",
+    "location": "node_modules/weapon-regex",
+    "type": "dependencies",
+    "homepage": "https://github.com/stryker-mutator/weapon-regex#readme",
+    "dependedByLocation": "node_modules/@stryker-mutator/instrumenter"
+  },
+  "which": [
+    {
+      "current": "2.0.2",
+      "wanted": "2.0.2",
+      "latest": "7.0.0",
+      "dependent": "cross-spawn",
+      "location": "node_modules/which",
+      "type": "dependencies",
+      "homepage": "https://github.com/npm/node-which#readme",
+      "dependedByLocation": "node_modules/cross-spawn"
+    },
+    {
+      "current": "2.0.2",
+      "wanted": "2.0.2",
+      "latest": "7.0.0",
+      "dependent": "spawn-wrap",
+      "location": "node_modules/which",
+      "type": "dependencies",
+      "homepage": "https://github.com/npm/node-which#readme",
+      "dependedByLocation": "node_modules/spawn-wrap"
+    }
+  ],
+  "workerpool": {
+    "current": "9.3.4",
+    "wanted": "9.3.4",
+    "latest": "10.0.3",
+    "dependent": "mocha",
+    "location": "node_modules/workerpool",
+    "type": "dependencies",
+    "homepage": "https://github.com/josdejong/workerpool",
+    "dependedByLocation": "node_modules/mocha"
+  },
+  "wrap-ansi": [
+    {
+      "current": "8.1.0",
+      "wanted": "8.1.0",
+      "latest": "10.0.2",
+      "dependent": "@isaacs/cliui",
+      "location": "node_modules/@isaacs/cliui/node_modules/wrap-ansi",
+      "type": "dependencies",
+      "homepage": "https://github.com/chalk/wrap-ansi#readme",
+      "dependedByLocation": "node_modules/@isaacs/cliui"
+    },
+    {
+      "current": "9.0.2",
+      "wanted": "9.0.2",
+      "latest": "10.0.2",
+      "dependent": "cliui",
+      "location": "node_modules/wrap-ansi",
+      "type": "dependencies",
+      "homepage": "https://github.com/chalk/wrap-ansi#readme",
+      "dependedByLocation": "node_modules/cliui"
+    },
+    {
+      "current": "6.2.0",
+      "wanted": "6.2.0",
+      "latest": "10.0.2",
+      "dependent": "cliui",
+      "location": "node_modules/nyc/node_modules/wrap-ansi",
+      "type": "dependencies",
+      "homepage": "https://github.com/chalk/wrap-ansi#readme",
+      "dependedByLocation": "node_modules/nyc/node_modules/cliui"
+    },
+    {
+      "current": "7.0.0",
+      "wanted": "7.0.0",
+      "latest": "10.0.2",
+      "dependent": "cliui",
+      "location": "node_modules/yargs/node_modules/wrap-ansi",
+      "type": "dependencies",
+      "homepage": "https://github.com/chalk/wrap-ansi#readme",
+      "dependedByLocation": "node_modules/yargs/node_modules/cliui"
+    }
+  ],
+  "wrap-ansi-cjs:wrap-ansi@^7.0.0": {
+    "current": "7.0.0",
+    "wanted": "7.0.0",
+    "latest": "10.0.2",
+    "dependent": "@isaacs/cliui",
+    "location": "node_modules/wrap-ansi-cjs",
+    "type": "dependencies",
+    "homepage": "https://github.com/chalk/wrap-ansi#readme",
+    "dependedByLocation": "node_modules/@isaacs/cliui"
+  },
+  "write-file-atomic": {
+    "current": "3.0.3",
+    "wanted": "3.0.3",
+    "latest": "8.0.0",
+    "dependent": "caching-transform",
+    "location": "node_modules/write-file-atomic",
+    "type": "dependencies",
+    "homepage": "https://github.com/npm/write-file-atomic",
+    "dependedByLocation": "node_modules/caching-transform"
+  },
+  "y18n": {
+    "current": "4.0.3",
+    "wanted": "4.0.3",
+    "latest": "5.0.8",
+    "dependent": "yargs",
+    "location": "node_modules/nyc/node_modules/y18n",
+    "type": "dependencies",
+    "homepage": "https://github.com/yargs/y18n",
+    "dependedByLocation": "node_modules/nyc/node_modules/yargs"
+  },
+  "yallist": {
+    "current": "3.1.1",
+    "wanted": "3.1.1",
+    "latest": "5.0.0",
+    "dependent": "lru-cache",
+    "location": "node_modules/yallist",
+    "type": "dependencies",
+    "homepage": "https://github.com/isaacs/yallist#readme",
+    "dependedByLocation": "node_modules/lru-cache"
+  },
+  "yargs": [
+    {
+      "current": "17.7.3",
+      "wanted": "17.7.3",
+      "latest": "18.2.0",
+      "dependent": "mocha",
+      "location": "node_modules/yargs",
+      "type": "dependencies",
+      "homepage": "https://yargs.js.org/",
+      "dependedByLocation": "node_modules/mocha"
+    },
+    {
+      "current": "15.4.1",
+      "wanted": "15.4.1",
+      "latest": "18.2.0",
+      "dependent": "nyc",
+      "location": "node_modules/nyc/node_modules/yargs",
+      "type": "dependencies",
+      "homepage": "https://yargs.js.org/",
+      "dependedByLocation": "node_modules/nyc"
+    }
+  ],
+  "yargs-parser": [
+    {
+      "current": "21.1.1",
+      "wanted": "21.1.1",
+      "latest": "22.0.0",
+      "dependent": "mocha",
+      "location": "node_modules/yargs-parser",
+      "type": "dependencies",
+      "homepage": "https://github.com/yargs/yargs-parser#readme",
+      "dependedByLocation": "node_modules/mocha"
+    },
+    {
+      "current": "18.1.3",
+      "wanted": "18.1.3",
+      "latest": "22.0.0",
+      "dependent": "yargs",
+      "location": "node_modules/nyc/node_modules/yargs-parser",
+      "type": "dependencies",
+      "homepage": "https://github.com/yargs/yargs-parser#readme",
+      "dependedByLocation": "node_modules/nyc/node_modules/yargs"
+    },
+    {
+      "current": "21.1.1",
+      "wanted": "21.1.1",
+      "latest": "22.0.0",
+      "dependent": "yargs",
+      "location": "node_modules/yargs-parser",
+      "type": "dependencies",
+      "homepage": "https://github.com/yargs/yargs-parser#readme",
+      "dependedByLocation": "node_modules/yargs"
+    }
+  ],
+  "yocto-queue": {
+    "current": "0.1.0",
+    "wanted": "0.1.0",
+    "latest": "1.2.2",
+    "dependent": "p-limit",
+    "location": "node_modules/yocto-queue",
+    "type": "dependencies",
+    "homepage": "https://github.com/sindresorhus/yocto-queue#readme",
+    "dependedByLocation": "node_modules/p-limit"
+  }
+}

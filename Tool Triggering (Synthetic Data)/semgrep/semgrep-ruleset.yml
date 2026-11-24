@@ -1,0 +1,47 @@
+rules:
+  - id: js-eval
+    languages: [javascript]
+    severity: ERROR
+    message: eval() executes arbitrary code.
+    pattern: eval(...)
+  - id: js-new-function
+    languages: [javascript]
+    severity: ERROR
+    message: new Function() compiles a string into code.
+    pattern: new Function(...)
+  - id: js-command-injection
+    languages: [javascript]
+    severity: ERROR
+    message: child_process exec/execSync with a non-literal command.
+    patterns:
+      - pattern-either:
+          - pattern: require('child_process').exec($CMD, ...)
+          - pattern: require('child_process').execSync($CMD, ...)
+          - pattern: $CP.exec($CMD, ...)
+          - pattern: $CP.execSync($CMD, ...)
+      - pattern-not: $CP.exec("...", ...)
+      - pattern-not: $CP.execSync("...", ...)
+      - pattern-not: require('child_process').exec("...", ...)
+      - pattern-not: require('child_process').execSync("...", ...)
+  - id: js-regexp-from-input
+    languages: [javascript]
+    severity: WARNING
+    message: RegExp built from a non-literal value (ReDoS / injection risk).
+    patterns:
+      - pattern: new RegExp($X, ...)
+      - pattern-not: new RegExp("...", ...)
+  - id: js-timing-unsafe-compare
+    languages: [javascript]
+    severity: WARNING
+    message: Secret compared with === is not constant-time.
+    pattern-either:
+      - pattern: $TOKEN === $X
+      - pattern: $X === $TOKEN
+    metavariable-regex:
+      metavariable: $TOKEN
+      regex: (?i).*(token|secret|password|apikey).*
+  - id: js-math-random-for-id
+    languages: [javascript]
+    severity: INFO
+    message: Math.random() is not cryptographically secure.
+    pattern: Math.random()

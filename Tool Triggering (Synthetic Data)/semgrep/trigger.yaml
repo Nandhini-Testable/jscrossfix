@@ -1,0 +1,23 @@
+# semgrep -- SAST over src/ with a local JavaScript ruleset (semgrep.json).
+tool: semgrep
+dir: semgrep
+role: primary
+block: Static Vulnerabilities (SAST)
+branch: JS_V20_VITE_NPM_MONO_FIXED_2
+node_family: "20"
+node_version: "20.20.2"
+pin: semgrep (pip CLI, run externally)
+status: active
+measured: false
+entrypoint: Tool Triggering (Synthetic Data)/semgrep/run_semgrep.sh
+outputs: reports/semgrep.json
+expects: >-
+  JSON scan result (results[], errors[], paths.scanned) from the local
+  semgrep-ruleset.yml over src/. Zero results is a valid outcome.
+note: >-
+  The Testable platform registers plain `semgrep` only for the Python and C#
+  lanes, so on a JavaScript-only profile it is not scheduled (semgrep-perf-static
+  and semgrep-pii are the JS-lane semgrep tools). This folder is the corpus-side
+  entry point; no .py files are added to this branch on purpose.
+skip_exit_code: 3
+missing_exit_code: 4
